@@ -1,0 +1,484 @@
+﻿File: 02 High Yield EKGs
+---
+
+Hello everyone and welcome
+to our module on High Yield EKGs.
+It can be very difficult to learn EKGs
+as a medical student.
+And one of the reasons is because
+there are so many potential findings.
+What are shown on the screen are nine EKGs
+that I think medical students should be familiar with.
+These are the type of EKGs that may come up
+on the step one exam.
+They're also the type that you may be shown
+as a third year student on rotations.
+And you ought to be able to recognize.
+Now some of these I talk about in other videos for example
+we have a video on Atrial Fibrillation and Flutter.
+There's a video on Ischemia and one on bundle branch blocks.
+So some of these things we'll touch upon in this video here
+but not go into detail like I do in the other videos.
+But mostly what I'm going to do with this video
+is try to give you my approach for how to read EKGs.
+And this is especially helpful on your rotations
+when you're showing an EKGs and asked to interpret it.
+When you're shown an ECG and you're trying to interpret it.
+The first thing I recommend you do is try to
+identify the P waves and ask yourself the question.
+Are there P waves present in this ECG?
+If you see P waves present like shown here on the ECG
+that's the first step to making an interpretation
+of all the major findings on the tracing.
+When you see P waves present on an ECG
+most likely you're looking at sinus rhythm.
+And sinus P waves originate from the Sinus node obviously.
+And because they originate from this location
+in the right atrium they will generate
+P waves that are upright in the inferior leads two,
+three and F.
+So that's what's shown in this picture on the screen here.
+This is a patient with normal sinus rhythm
+and there are P waves present and they are upright.
+In other words, pointing in this direction in leads two,
+three and AVF.
+Once you decide whether or not you think
+there are P waves on ECG the next thing you want to do
+is decide whether the heart rhythm is regular or irregular.
+And by this I mean whether the distance between
+QRS complexes the RR interval is regular or irregular.
+So at the top of the screen is a tracing
+from a patient with sinus rhythm.
+And you can see that the space
+between the QRS complexes is constant
+over the entire length of the tracing.
+At the bottom of the screen is an irregular rhythm.
+This is a patient with Atrial Fibrillation and you can see
+that we have some QRS complexes that are far apart
+like these two here, others that are very close together
+like these two here and then even others that
+are somewhere in the middle.
+So this is an irregularly irregular rhythm.
+The QRS complexes are not occurring at regular intervals.
+And that is the second step towards
+making a diagnosis of what you're looking at at an ECG.
+At the medical student level it's very hard
+to remember all the different types of ECG rhythms,
+but a simple way to approach ECG is that you're shown
+is that if there are P waves present
+and the rhythm is regular,
+you're most likely looking at sinus rhythm.
+This is a very common rhythm
+and you should be able to recognize it.
+And once you see P waves in a regular rhythm
+that is probably what you were looking at.
+There are other rare rhythms that can generate P waves
+and be regular things like atrial tachycardia
+and atrial rhythms.
+But these are uncommon.
+Most likely a regular rhythm with P waves is sinus rhythm.
+If you see an absence of P waves and the rhythm is irregular
+then most likely you're looking at Atrial fibrillation.
+This is a very common rhythm and Atrial fibrillation
+along with Sinus rhythm are two of the rhythms
+you ought to be able to identify.
+Atrial fibrillation generates an
+irregularly irregular rhythm with no P waves present.
+Now, there are other things that cause no P waves
+and an irregular rhythm.
+These are things like Atrial flutter with variable block
+but this is much less common in a fib.
+Mostly if you see no P waves and irregular rhythm
+you're probably looking at Atrial fibrillation.
+And then just to round out the possibilities
+for steps one and two of my approach to reading ECG
+if you see P waves present,
+but the rhythm is irregular then you may be looking
+at one of these things I've listed here.
+So sinus rhythm with PACs may cause an irregular rhythm.
+I'll show you a picture of that later in this video.
+There's an uncommon rhythm Called
+Multifocal atrial tachycardia.
+This rhythm comes from the Atria not the sinus node.
+It will have P waves but the rhythm will be irregular.
+And then finally, sinus rhythm with various forms
+of AV block can have an irregular rhythm.
+And I talk about this in another video.
+If you see no P waves and the rhythm is regular,
+then it can be some of these things I've written
+on the slide here.
+There may be hidden P waves which can be retrograde P waves.
+These are seen in Supraventricular tachycardias
+and Ventricular tachycardias.
+These are relatively uncommon,
+but these are the possibilities when you see
+an absence of P waves in a regular rhythm.
+So step one when you look at an EKGs is to decide
+whether the P waves are present.
+Step two is to decide whether or not you think
+the rhythm is regular.
+Step three is to then decide whether or not
+the QRS complex is wide or narrow.
+A normal or Narrow QRS complex is less
+than 120 milliseconds on the ECG or three small boxes.
+When you see a normal QRS complex,
+it means that the heart is using the
+His-Purkinje system normally
+and that there are no bundle branch blocks present.
+The only way you get a narrow QRS is
+if conduction goes through the AV node
+through the bundle branches and through
+the Purkinje fibers normally.
+If you see a wide QRS resin then most likely
+you're looking at a bundle branch block
+especially if it's an ECG in a stable patient.
+The other possibility for a wide QRS complex is
+that at some type of Ventricular rhythm
+like Ventricular tachycardia.
+This will usually be in a patient who is very sick.
+In another video.
+I talk about bundle branch blocks
+but just to quickly review here
+this is a normal QRS complex at the top of the screen here.
+Even without measuring the number of boxes for the width
+of the QRS complex you can see that it's very narrow
+from start to finish.
+And a right bundle branch block
+the QRS complex becomes wide and
+hopefully you can appreciate that this is
+a much wider QRS complex compared to the top.
+And similarly, in a left bundle branch block
+the QRS also widens as shown here in this image.
+Moving on the next step in interpretation
+of an ECG by my method is to check the intervals.
+So first check the PR interval.
+Normal PR interval is less than 210 milliseconds.
+Five small boxes is 200 milliseconds
+or one big box is 200 milliseconds.
+So basically the PR interval should be about
+five small boxes or one big box
+in length or shorter than that.
+If it's a prolonged PR interval
+you may be looking at some form of AV block.
+I talk about in another video
+the PR interval also prolongs in the setting
+of high vagal tone or certain drugs
+that slow conduction in AV node.
+And the PR interval can shorten in this
+setting of high sympathetic tone.
+After the PR interval you want to look at the QT interval.
+A normal QT interval is less than half of the RR interval.
+That's the rule of thumb you can use for measuring this.
+And I talk about this in more detail
+in the video on ECG basics.
+The QT interval becomes prolonged with hypocalcemia.
+These patients will have tetany and numbness and spasms.
+The QT interval also becomes prolonged
+by antiarrhythmic drugs.
+And then the QT interval can be very short
+in patients with hypercalcemia.
+These patients usually have confusion and constipation.
+They can also be volume depleted.
+And then the final step in my method for analyzing ECG is
+is to look at the ST segments.
+You want to look for things that may represent ischemia.
+So for example,
+T waves can be inverted in ischemia as shown
+in this picture here.
+And I talk about this in the video on ischemic basics.
+There are also other T wave abnormalities T waves
+can be peaked in early ischemia.
+And in hyperkalemia there can also be flat T waves
+with U waves present and Hypokalemia.
+And then finally ST Depression and ST Elevation
+are both signs of ischemia.
+There's some ST depression in the CCG on the screen here.
+This is the beginning of the ST segment.
+This is where it ends.
+And you can see that it's depressed.
+The bottom of the screen is an example of ST elevation.
+These are both signs of ischemia that I discuss
+in more detail in the ischemia basics video.
+So now let's try to use this method to analyze
+a couple of ECG.
+So I want you to imagine that you're handed this ECG
+on rounds and your attending asks you to interpret it.
+How are you going to do that?
+Well, let's talk about the steps
+and go through them one at a time.
+So the first step is to decide
+whether or not there are P waves present.
+And if you look at the rhythm strip at the bottom
+for lead two,
+it's very easy to identify the P waves.
+They're all over the place here in lead two.
+You can also find them easily in lead V6 and V5.
+In some leads they're harder to see.
+For example, they're harder to see in V2
+but if they're present in all the other leads
+then you can know that there are P waves present.
+So this ECG has P waves present.
+Step two is to decide whether the rhythm
+is regular and you can see that the distance
+between QRS complexes is constant or regular.
+Step three is then to decide whether or not
+the QRS complex is wide or narrow.
+And hopefully you can recognize
+that this is a very narrow QRS complex
+of about two small boxes.
+So we do not have a bundle branch block present
+or any type of cause of a widened QRS complex.
+So what we're looking at overall here is a rhythm
+that is regular with P waves present
+with a normal QRS complex and that's most likely going to
+be normal sinus rhythm.
+That's what this ECG shows.
+Now we want to be complete and not miss anything.
+So let's move on to step four and check the intervals.
+The PR interval starts about here and ends about here.
+It's less than one big box in length and that is normal.
+So we have a normal PR interval.
+And then the QT interval begins at one of the QRS complexes
+and ends at the end of the T wave.
+And you can see that the QT interval here is less
+than half the RR interval.
+So we do not have a prolonged QT interval.
+And then finally, we want to look at the T waves.
+The T waves here are Upright.
+They are not elevated or depressed.
+So we have no evidence of ischemia.
+So this is basically a normal ECG
+and you're often shown these
+on rounds and asked to interpret them.
+So you should be able to recognize normal sinus rhythm.
+Now let's go through the method again using this ECG.
+So step one is to decide whether or not
+there are P waves present and it's very easy
+to see P waves here in lead two.
+You can also see them in lead three.
+You can also find them in lead V3 and V2.
+They're all over the place.
+So there are P waves present on this ECG.
+Step two is to look at the distance
+between the QRS complexes and you can see that it's regular.
+There is a constant distance between QRS complexes.
+So we're dealing with a regular rhythm
+with P waves presence.
+So we already know that this is most likely
+going to be sinus rhythm.
+In addition, you can look and the P waves
+are upright in leads two, three and AVF
+as you expect for sinus P waves.
+So most likely sinus rhythm is present on this ECG.
+Step three is then to look at the QRS complexes.
+And if you look at lead V1 here
+you can see that this is a wide QRS complex.
+It's about four boxes in width.
+And that means that there is some problem
+causing a wide QRS complex.
+And like I told you earlier, when you're dealing
+with an ECG that shows a wide QRS complex,
+most likely you're looking at some type
+of bundle branch block.
+And in another video,
+I talk about how to identify a right bundle branch block.
+It's always pointing upward in lead V1.
+And that's what you've got here is sinus rhythm
+with a right bundle branch block.
+Now for completeness sake,
+let's go through the rest of the steps
+to make sure we're not missing anything.
+So if we check the PR interval
+it starts here and ends about here.
+It's west on one big box in widths.
+So we have a normal PR interval.
+We can then look at the QT interval
+which starts here and ends here.
+You can see that it's less than half the distance
+between the QRS complex or half the RR interval.
+And therefore we have a normal QT interval.
+So we do not have prolongation
+of the PR interval or the QT interval.
+And then finally, we look at the T waves
+and the ST Segments.
+Now you can see the T waves are inverted here
+in lead V1.
+And then you may not know this
+but that's a normal finding and right bundle branch block.
+It does not mean that there is a ischemia
+but there are ST and T wave abnormalities on the ECG.
+They are all consistent with right bundle branch block
+which is not something you're likely to know
+at the medical student level.
+but you should at least be able to identify
+that this ECG shows sinus rhythm
+with a right bundle branch block.
+Now let's take a look at this tracing and we'll start
+with step one and look for P waves.
+And it's easy to find P waves here and lead two
+down along the bottom of the ECG.
+You can also see them up here in lead V1.
+I can also find them here in lead V3.
+They're all over the place.
+So we have P waves present.
+Next step is to decide whether the rhythm
+is regular or irregular.
+And hopefully you can identify that this is a regular
+interval with no variation in the RR intervals.
+Once we've done that, we look at the QRS complex
+and hopefully you can see that this is a wide QRS complex.
+It's almost one big box or 200 milliseconds in width.
+So this is a very wide QRS complex.
+And in this case, we have a wide QRS complex which
+as I told you before is most likely a bundle branch block
+and in V1 is pointing down.
+So in another video I talk about left bundle branch blocks
+but they always have a QRS complex that is wide
+and pointing downward in V1.
+So what we're looking at on this ECG is sinus rhythm
+with a left bundle branch block.
+Now for completeness let's go through the rest of the steps.
+So the PR interval is from here to here.
+It is normal in width.
+The QT interval begins here and ends here.
+That is not prolonged.
+So we have a normal QT interval.
+And then the last step is to look at the ST segments.
+And there are a lot of ST abnormalities here.
+The T waves inverted here and leads one and AVL.
+There is ST segment elevation here in lead V2.
+All of these findings are normal components
+of a left bundle branch block.
+You don't need to know this at the med student level
+but it's very difficult to diagnose ischemia
+in the setting of a left bundle branch block
+because many of the normal findings that go
+with the left bundle are also findings of ischemia.
+So this patient actually does not have evidence of ischemia.
+This patient just has a left bundle branch block.
+You don't need to know that at the med student level
+but you should be able to identify that this ECG shows
+sinus rhythm with a left bundle branch block.
+Now let's go through this ECG here.
+So step one is to decide whether or not
+there are P waves present.
+And hopefully you can see that there are no
+P waves on the CCG.
+There are some bumps like these up here in lead one
+that you might think are P waves but they don't
+occur regularly before each QRS complex.
+And if you look down here for example lead V5
+there really is just this wavy baseline but no P waves.
+So there are no P waves present on this ECG.
+Step two is to decide Whether or not the
+rhythm is regular or irregular.
+And hopefully you can recognize
+that some of these QRS complexes are close together.
+For example, these two here,
+others are further apart like these two here
+and others are somewhere in the middle,
+like these two here.
+So what we have is an irregular rhythm
+with an absence of P waves.
+And like I told you before when you see
+that most likely you're looking at Atrial fibrillation
+and that's what this ECG shows Atrial fibrillation.
+Now we'll just go through a couple
+of ECGs that are basically pattern recognition.
+So if you look at this ECG here
+the baseline has this so-called sawtooth pattern.
+And when you see that you should think of Atrial flutter
+Atrial flutter has a sawtooth pattern present.
+You should see the sawtooth pattern in every single lead.
+It shouldn't be present in just one lead.
+If that's the case you may be looking at something else.
+Note also that the QRS complexes are irregular here.
+These two are far apart in these two are close together.
+Atrial flutter can generate a regular or irregular rhythm
+depending on the conduction from the
+atria to the ventricles.
+Here's a very abnormal ECG.
+This is one that you just basically have to
+recognize when you see it.
+These QRS complexes are very wide and they are very fast.
+They're so close together.
+They're occurring at about 300 beats a minute.
+And this is what you see in ventricular tachycardia.
+Ventricular tachycardia is a wide complex
+tachycardia rhythm.
+I've zoomed in on one of the leads.
+So I can show you these little bumps that you can see here.
+You can also see them here and you can see them here.
+These are the P waves.
+So the ventricle in ventricular tachycardia is depolarizing
+at a very rapid rate generating the wide complex waves.
+At the same time the SA node is depolarizing
+and it occasionally generates a little P wave,
+which will be a little bump
+that you will see on one of the wide complexes coming
+from the ventricular rhythm.
+Torsades de pointes is a special form
+of ventricular tachycardia where the QRS complex is formed.
+This undulating sinusoidal pattern like shown
+on the screen here.
+This is just pattern recognition.
+You just have to have seen this to recognize it.
+The way you get this arrhythmia is if you have
+a PVC occurred during the QT interval.
+So patients with a prolonged QT interval are
+at the greatest risk.
+There are a number of antiarrhythmic drugs that
+prolong the QT interval and they put patients at risk
+for torsades.
+There is a congenital long QT syndrome in patients
+who have this disorder are at risk for torsades.
+And then finally some antibiotics occasionally
+prolonged QT interval in certain patients
+the drugs that classically do this are erythromycin
+in the quiniolones.
+You can also develop torsades unrelated to the
+QT interval in certain electrolyte disorders.
+Hypokalemia and Hypomagnesemia are famous
+for causing torsades.
+And in fact giving magnesium is one of the ways
+you can treat this arrhythmia.
+What's interesting is
+You may know that hypocalcemia can prolong the QT interval
+but it turns out that torsades is fairly
+rare in hypocalcemia.
+The reasons for this are not well understood
+but nevertheless hypoglycemia can potentially
+cause arrhythmia although the more common
+electrolyte disorders are hypokalemia and hypomagnesemia.
+A PVC is a premature ventricular contraction.
+It is a deep polarization that originates
+in the ventricles and causes the myocardium to depolarize
+outside of the control of the SA node.
+So if you look at this rhythm strip
+at the top of the screen,
+we've got a sinus P wave followed
+by a QRS complex and a T wave.
+Another sinus P wave and a QRS complex in a T wave
+another one.
+And then we have this early wide apparent looking
+beat that is a PVC.
+This electrical activity originates in the ventricle.
+It doesn't use the AV node and the bundle branches.
+That's why it doesn't generate a normal looking
+QRS complex instead of generates a wide bizarre complex.
+And it's a PVC it's premature in that it comes
+in earlier than you would expect for the next QRS complex.
+The next QRS complex after these first three
+should occur somewhere about here.
+But instead we get an early complex, that's a PVC.
+And at the bottom of the screen
+Is another early complex right here
+but it has a narrow QRS normal looking QRS complex.
+That is a PAC it's an aberrant electrical impulse
+that is generated by the atria.
+And for that reason it uses the AV node
+and the bundle branches.
+And it has a normal looking QRS complex
+but it's still early and therefore
+it's a premature Atrial contraction.
+And that concludes our video on high yield EKGs.

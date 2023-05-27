@@ -1,0 +1,58 @@
+﻿07 Wiggers' Diagram
+---
+
+Shown on the screen is Wiggers diagram. Wiggers diagram shows one cardiac cycle and all the different events that occur within that cardiac cycle. So the x-axis is always time and we've got one cardiac cycle shown on the screen here.
+
+And you can see that over the course of one cardiac cycle, the EKG goes through changes like the QRS complex and the T wave that you may be familiar with. You can also see a venous pressure change here, and I talk about the venous pressure changes over the course of the cardiac cycle in another video. We've also got the heart sounds here, S1 and S2, and then at the top, we have a curve for the left ventricular volume and how this changes during the cardiac cycle. It goes down and then back up.
+
+And finally at the top of the screen, we have three curves for the pressure changes in the left atrium, left ventricle and aorta over the course of the cardiac cycle. So in this video, I'm gonna go through some of these curves shown on the screen here, and then you can use Wiggers diagram to tie them into other elements that occur during the cardiac cycle.
+
+Let's start by looking at the curve of left ventricular volume change over the cardiac cycle. Shown at the bottom of the screen here is the ECG tracing, and this is the QRS complex. So the QRS complex represents the start of ventricular systole when the ventricular myocardium depolarizes, that generates the QRS complex. And that is the beginning of systole.
+
+Now note that even though systole begins here, the volume stays constant for a short period of time. That's because this is the period of isovolumic contraction, when pressure is building in the left ventricle, but volume is not changing. Once of high enough pressure is generated, however, we reach this point here and the pressure in the ventricle is high enough to open the aortic valve. And at that point, blood begins to leave the left ventricle and the volume begins to fall. This is the period when blood is being ejected out of the left ventricle into the aorta.
+
+We then reach a point down here at which left ventricular volume has gotten very low and left ventricular pressure has gotten very low. And then the aortic valve closes, we go through another brief period of isovolumic relaxation and then we start to see the left ventricular volume rise, that's because the mitral valve has opened here and blood is pouring into the left ventricle from the left atrium, and that causes the volume to rise. And if we go back to the complete Wiggers diagram, you can see the LV volume change over time here.
+
+This is the period of isovolumic contraction, this is the period of isovolumic relaxation, this is the period of left ventricular emptying, and this is the period of left ventricular filling. And you can correlate these periods to lots of other events in the cardiac cycle like the heart sounds, venous pressure changes, QRS complex, and pressure changes in the order of left ventricle and left atrium.
+
+Now let's take a look at this portion of Wiggers diagram. So once again, we have time along the x-axis. This is one cardiac cycle. And in this case, we have pressure on the y-axis and you can see the pressure changes in the left atrium, left ventricle and the aorta.
+
+First, just note some general points, left atrial pressure is relatively low compared to aortic pressure. And that should make sense to you. A normal left atrial pressure is about 10 millimeters of mercury. You can see that the pressure goes up and down a little bit according to this curve, but it stays at a low level here of about 10.
+
+Normally, aortic pressure on the other hand changes from about 80 millimeters at its lowest point, that's the diastolic pressure, to 120 millimeters which is the highest point, that's the systolic pressure. And then left ventricular pressure goes back and forth between these two. So left ventricular pressure needs to get lower than left atrial pressure in order for the ventricle to fill, and then left ventricle pressure has to become higher than the aortic pressure in order for blood volume to leave the left ventricle. So the LV pressure change is always the one that has the biggest span. It goes from very low values to very high values. The aortic pressure curve is always at the top and the left atrial pressure curve is always down at the bottom.
+
+I've cleared away my ink so I can make some other important points about this portion of Wiggers diagram. By looking at the changes in pressure in the left atrium, left ventricle and aorta, you can determine where the mitral and aortic valves open and close. And you should be able to do this by going through this diagram.
+
+So let's start at this point right here. At this point right here, left ventricular pressure has risen to become higher than left atrial pressure shown by the dotted line here. That means that the mitral valve is going to close at this point right here. And when the mitral valve closes, that makes the first heart sound, S1. So S1 also occurs at this point right here.
+
+We then have left ventricular pressure rising until it reaches this point where it's higher than aortic pressure. That means at this point, the aortic valve is going to open. Blood is then gonna leave the left ventricle for the A order until it reaches this point here, where left ventricular pressure falls to be lower than aortic pressure, that means at this point here, the aortic valve is going to close. And when that happens, that generates the second heart sound, S2.
+
+We then have pressure fall in the left ventricle until it becomes lower than left atrial pressure, the dotted line here. When that happens, the mitral valve is going to open. So by looking at the pressure changes in the left atrium, left ventricle and the aorta in this section of Wiggers diagram, you can identify where the mitral and aortic valves open and close.
+
+And I've cleared away my ink. So I can show you that everything from this point here to this point right here represents systole, everything beyond that point there represents diastole. Right here, we have closure of the mitral valve and the left ventricular pressure is beginning to rise as the left ventricle contracts. That is systole.
+
+Over here, left ventricular pressure is falling because the left ventricle is relaxing. And that is diastole. Also note that the mitral valve closes here, but the aortic valve does not open until here. So everything between these two points represents isovolumic contraction. The aortic valve closes here, but the mitral valve does not open until here. So everything between these two points represents isovolumic relaxation.
+
+And now I'll just go back to the complete Wiggers diagram once again so you can see that these three pressure curves are found at the top of the diagram, and you can correlate events in these three curves to other events like the heart sounds and the QRS complex just by looking at Wiggers diagram.
+
+I'll finish by showing you a couple of classic Wiggers diagrams that describe pathologic conditions, so that you will have seen them once and can recognize them on your board exams. So over here on the left is a normal Wiggers diagram, over here on the right is a Wiggers diagram from a diseased heart.
+
+And you can see that the pressure in the left ventricle rises to be much higher than the aortic pressure. The aortic pressure is the red line right here, the left ventricular pressure is the green line right here. Normally, those two lines are right on top of each other in a normal heart but in this case, there is a big pressure difference between the maximum pressure in the left ventricle and the maximum aortic pressure. And that is what occurs in the aortic stenosis.
+
+In the aortic stenosis, left ventricular pressure has to get very, very high to open a stiffy aortic valve. So what you see on the Wiggers diagram is a very high left ventricular pressure relative to the maximum aortic pressure. They're not right on top of one another as they should be.
+
+In this example, we have a diseased heart where the left atrial pressure, which is this blue line at the bottom is always significantly higher than the left ventricular pressure, which is the green line. In other words, there's this pressure differential here between the blue and the green lines. They are not one on top of another as they should be in a normal heart. And this is what happens in mitral stenosis.
+
+In mitral stenosis, pressure in the left atrium gets very high in order to push open that stiff mitral valve, and that moves this blue line up so that it is much higher than the green line. The two lines are not on top of each other as they are in a normal heart.
+
+If you look at this normal heart over here, the left atrial pressure really rises only very slightly throughout the course of the cardiac cycle. In this diseased heart, what we've got is a big abrupt rise in the left atrial pressure. Something is making left atrial pressure rise to a much higher level compared to normal. And that's what happens in mitral regurgitation.
+
+In mitral regurgitation, the mitral valve is incompetent and blood leaks back into the left atrium. And so instead of seeing this nice, gentle, slow rise in left atrial pressure, you see a big spike in left atrial pressure as blood leaks backward into the left atrium.
+
+And then finally in this example, we have a diseased heart where the diastolic blood pressure is very, very low relative to the systolic pressure. Notice that normally the difference between diastolic pressure and systolic pressure is relatively narrow. This difference is called the pulse pressure. In this diseased heart, we have a very wide pulse pressure, and that is a classic finding in the aorta regurgitation.
+
+In the aorta regurgitation in diastole, blood leaks out of the aorta into the left ventricle. So the aortic pressure falls to a very low value and that widens the pulse pressure. We also have blood volume leaking back into the left ventricle from the aorta, and that tends to raise pressure in the left ventricle and the left atrium during diastole. So therefore, what we get are higher left atrial and left ventricular pressures.
+
+But the easiest way to recognize the aortic regurgitation Wiggers diagram, is to notice the very high pulse pressure compared to normal. That is a classic finding in aortic regurgitation.
+
+And that concludes our video on Wiggers diagram.

@@ -1,0 +1,59 @@
+﻿08 Venous Pressure Tracings
+---
+
+
+Hello everyone and welcome to our module on venous pressure tracings.
+
+Shown on the screen is a drawing of the human heart and right here is the right atrium. And I want you to imagine that I insert a pressure sensing catheter into the right atrium and I record the pressure over the course of the cardiac cycle. If I were to graph that pressure I would get a graph that looks like what I've shown in the right side of the screen. So, time over the cardiac cycle would be the X axis and the Y axis would be pressure. And we would see that the pressure fluctuates just like what I've shown on the screen here.
+
+Now the right atrium is connected to the veins of the body. And there are no valves between that connection, between the right atrium and the veins. Therefore, these fluctuations in pressure that we see in the right atrium also occur in the venous system. And for that reason, this type of curve is called a venous pressure curve. It has several characteristic bumps and peaks and valleys. One is called the A wave, shown here. Another is called the C wave, shown here. Another is called the V wave, shown here. And then this is called the X descent right here, when the pressure falls. And this is called the Y descent right here. And we'll talk about the physiology behind all these bumps and descents in the venous pressure tracing in the next few slides.
+
+The first bump in the venous pressure tracing is called the A wave. And this is caused by atrial contraction. When the right atrium contracts it compresses blood volume in the chamber and that makes the pressure go up. Then the right atrium begins to relax and the pressure starts to fall as you see right here. But that fallen pressure is interrupted by a little bump called the C wave. And the cause of the C wave is closure of the tricuspid valve. When it closes, it causes a little hiccup in the fall in blood pressure, inside the right atrium and that generates the C wave.
+
+This fall in blood pressure right here is called the X descent. And then it ends and pressure starts to go up. That's because venous structures begin to send blood into the right atrium and there's venous filling of the chamber and the pressure rises. At the peak of the V wave, that's when the tricuspid valve opens. This allows blood volume to start leaving the right atrium for the right ventricle and therefore the pressure falls. And this fall in blood pressure is called the Y descent in contrast to the X descent, which occurs over here.
+
+And I've summarized these points at the bottom of the slide with some easy ways to remember them. So the A wave stands for atrial contraction, that's what causes the A wave. The V wave is caused by venous filling of the right atrium. The C wave is caused by closure of the tricuspid valve. The C is for closure and for the C and tricuspid valve. The X descent is caused by atrial relaxation. The atrium is relaxing here. And then the Y descent is caused by emptying of the atrium into the right ventricle.
+
+You're often asked what's going on in the ventricles during different portions of the venous pressure tracing. And these types of questions are very easy to answer if you can just remember when the tricuspid valve opens and closes. So you know that the tricuspid valve closes at the C wave, that's caused by tricuspid valve closure.
+
+You also know that the tricuspid valve opens at the peak of the V wave. So between these two points is systole, the ventricle is contracting and it's closed the tricuspid valve, there's RV contraction, LV contraction, and there's no filling of the right ventricle because the tricuspid valve is closed.
+
+Beyond these two points, between when the tricuspid valve opens and when it closes, that's when the right ventricle is relaxing and the right ventricle is filling, and that is diastole. So if you can just remember when the tricuspid valve opens and closes, you can answer any questions are asked about what's going on in terms of systole and diastole relative to the venous pressure tracing.
+
+In another video, I talk about Wigger's diagram, but I just want to point out to you that the venous pressure curve is a portion of Wigger's diagram. And using Wigger's diagram you can correlate elements of the venous pressure tracing with other events in the cardiac cycle.
+
+For example, you can see that the C wave occurs right here, that's closure of the tricuspid valve closure. The tricuspid valve is the cause of S1, so that happens at the same time as S1. You can also see when the X descent, Y descent, V waves and A waves correlate with other components of Wigger's diagram.
+
+There are a couple of classic findings in venous pressure tracings that you should be familiar with. I've listed all of them on the screen and we'll go through these in the next few slides.
+
+A large or giant A wave is a classic finding in tricuspid stenosis. So remember that the right atrium contracts to generate the A wave. If it contracts and the tricuspid valve is stenotic, it will be very difficult for blood to exit the right atrium. And therefore the pressure will go up very high and you will get a giant or large A wave seen in every cardiac cycle.
+
+A cannon A wave is a classic finding an AV dissociation. So when you have AV dissociation, for example, in a patient with heart block, the atria and ventricles are contracting out of sync. Sometimes the atrium will contract to generate the A wave at a point in time when the tricuspid valve is already closed because the ventricle is contracting out of sync with the atrium.
+
+That will generate a sudden very large A wave but it will not occur in every single cardiac cycle. The difference between giant A waves and cannon A waves is that giant A waves occur in every single heartbeat or cardiac cycle, whereas cannon A waves only occur intermittently.
+
+When you've got AV dissociation, sometimes the atrium and ventricle will happen to contract in sync and you will get a normal A wave. Other times the two chambers will contract out of sync and you will get a large A wave and that's called a cannon A wave.
+
+You can actually see this if you examine the necks of patients with heart block. You will see the bouncing of the juggler venous pressure and you will suddenly see it spike up every few heartbeats. And that's because of a cannon A wave when the right atrium contracts against a closed tricuspid valve.
+
+An absent A wave is seen in atrial fibrillation. Remember that this wave is generated by contraction of the atria. In atrial fibrillation, the atrial do not contract, the atria are fibrillating. And therefore, instead of an A wave, you just see a flat portion of the venous pressure tracing.
+
+And then finally, a giant V wave is seen in tricuspid regurgitation. Remember that from this point here until this point here, the right ventricle is contracting. That is right ventricular systole. If the tricuspid valve is leaky, then this pressure is going to go very, very high in systole because blood is leaking back into the right atrium.
+
+That will create a giant V wave, which is the classic finding in tricuspid regurgitation. So I've summarized the high yield venous pressure findings on this slide here. A large A wave occurs when there is increased atrial contraction pressure. This classically occurs in tricuspid stenosis.
+
+You can also see this in right heart failure or pulmonary hypertension in both of these situations. It's very difficult for the right atrium to eject blood into the right ventricle because pressure in the right ventricle is high. Cannon A wave occurs when the atria contracts against the close tricuspid valve, the classic situation in which this occurs is complete heart block.
+
+You can also see this in the setting of a premature atrial contraction or premature ventricular contraction. In both of these scenarios, you can have the atria and ventricles contracting out of sync and that can generate a cannon A wave. And then finally, cannon A waves can also sometimes be seen in ventricular tachycardia.
+
+In ventricular tachycardia, the ventricle is contracting abnormally at a very high heart rate. When the atria happened to contract normally, they can contract against a closed tricuspid valve. An absent A wave occurs when there's no organized atrial contraction. This occurs in atrial fibrillation.
+
+And then finally giant V waves are seen in tricuspid regurgitation. I'll finish with this slide and just mention that the left atrial pressure also fluctuates during the cardiac cycle with the same pattern as right atrial pressure.
+
+If you record pressure changes in the left atrium during the cardiac cycle, you would see an A wave, in this case caused by left atrial contraction. You would also see a C wave, in this case caused by closure of the mitral valve. And you would also see a V wave and an X descent and a Y descent.
+
+The same fluctuations occur, it's just they're caused by different structures on the left side of the heart, compared To the right side of the heart. Another difference you should be aware about is that the mean pressure in the right atrium is a little bit lower than in the left atrium.
+
+The mean pressure in the right atrium, which would be, you know, this pressure right here, sort of the mean value that the pressure fluctuates around is about five in the right atrium, it's about 10 in the left atrium. But other than that difference, the bumps and the descents in the pressure tracing are the same in the left atrium as compared to the right atrium.
+
+And that concludes our video on venous pressure tracings.

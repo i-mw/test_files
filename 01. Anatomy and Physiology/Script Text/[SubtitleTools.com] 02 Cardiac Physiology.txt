@@ -1,0 +1,558 @@
+﻿File: 02 Cardiac Physiology
+---
+
+Hello everybody and welcome to our module
+on cardiac physiology.
+On the screen is an echocardiogram
+of the left ventricle of a patient's heart.
+You can see there are QRS complexes
+rolling along the bottom of the screen.
+And each time there's a QRS complex,
+the walls of the left ventricle thicken
+and move towards the middle.
+When this happens, it shrinks the volume
+inside the left ventricle
+and pushes blood out into the aorta.
+So in this module, we're gonna talk about the changes
+in volume and the other physiological changes that occur
+as the heart goes through the cardiac cycle
+and moves blood out of the left ventricle.
+As we saw in the moving image in the last slide,
+the volume in the left ventricle is changing
+during the cardiac cycle.
+However, there are two important volumes
+when it comes to understanding cardiac physiology.
+The first one is the end-diastolic volume or the EDV.
+This is the volume at the end of diastole.
+That's how it gets its name.
+This is the point in the cardiac cycle
+where filling of the left ventricle has completed.
+This is the largest volume of blood
+the left ventricle will hold.
+This is also the point where contraction is about to begin.
+The other important volume is the end-systolic volume
+or the ESV.
+This is the volume at the end of systole.
+That's where it gets its name.
+This is the point in the cardiac cycle
+where emptying has been completed.
+This is the smallest volume
+that the left ventricle will hold.
+This is also the point in the cardiac cycle
+where relaxation is beginning.
+So now that we understand that
+we can understand some other important terms
+as related to cardiac physiology.
+And the first one is the stroke volume.
+This is the difference between the end-diastolic volume
+and the end-systolic volume.
+It's the amount of blood pushed out of the left ventricle
+with each heartbeat.
+It's the difference between the largest volume
+the left ventricle holds and the smallest volume it holds.
+Another important term is the ejection fraction
+sometimes called the EF.
+This is the stroke volume
+divided by the end-diastolic volume.
+In other words, it is the percentage of blood
+pushed out of the left ventricle with each heartbeat.
+And a normal ejection fraction is about 55 to 60%.
+Our hearts don't normally eject 100% of the blood
+present in the left ventricle.
+With each heartbeat they only eject about 60%
+under normal circumstances.
+And then finally the cardiac output
+is the stroke volume times the heart rate.
+This is the volume of blood pushed out with each heartbeat
+times the number of heartbeats per minute.
+When you multiply these two terms together
+you get a number called the cardiac output
+which has units of volume per time.
+For example, liters per minute
+is a common way to report the cardiac output.
+Another important term is the venous return.
+This is the amount of blood returned
+to the left ventricle via the venous system.
+It should be equal to the cardiac output.
+The amount of blood that is returned to the heart
+from the body should be equal to the amount that goes out.
+And then another important term
+is the total peripheral resistance.
+This is the resistance to blood flow
+out of the left ventricle
+that comes from peripheral structures.
+For example, the organs of the body
+and the arteries of the body.
+Importantly, vasoconstriction of peripheral arterioles
+leads to a rise in the total peripheral resistance.
+When those vessels constrict, it's harder to push blood
+through them and there's a greater resistance to flow.
+And when the peripheral arterioles vasodilate
+this leads to a fall in total peripheral resistance.
+There are some blood pressure terms that are important
+for understanding cardiac physiology.
+You may know that we all have a systolic
+and diastolic blood pressure.
+And a normal systolic blood pressure
+is about 120 millimeters of mercury.
+A normal diastolic blood pressure
+is about 80 millimeters of mercury.
+You should also know that the systolic pressure
+is largely determined by the stroke volume
+and the diastolic blood pressure is largely determined
+by the total peripheral resistance.
+To understand this,
+let's imagine that we're tracking the blood pressure
+as the left ventricle begins to contract
+and push blood out into the arterial system.
+What we'll see is that the blood pressure will rise
+and the height of that rise
+will be determined by the stroke volume.
+In other words, when the left ventricle stops contracting
+and stops pushing blood into the arterial system
+the blood pressure will peak.
+And that peak will be determined
+by how much blood is pushed out by the left ventricle.
+The blood pressure will then begin to fall steadily
+and the depth to which it falls
+will be determined by the peripheral resistance.
+If peripheral vessels are very vasodilated
+then the pressure will fall greatly.
+So that there'll be a very low diastolic blood pressure.
+On the other hand
+if the peripheral vessels are relatively vasoconstricted
+then we'll only fall to a lesser degree
+and thus we will have a higher diastolic blood pressure.
+So in this manner, the peak of the blood pressure
+meaning the systolic blood pressure is largely determined
+by the stroke volume and the depth
+or the nadir of the blood pressure
+is largely determined by the total peripheral resistance.
+One other important blood pressure term
+is the pulse pressure.
+This is the difference between the systolic
+and diastolic pressure.
+So for example, for a patient with a normal blood pressure
+of 120 over 80, the pulse pressure would be 40.
+And this is also proportional to the stroke volume.
+Remember what I told you before,
+the height of the blood pressure, meaning the maximum value
+or the systolic pressure is determined by the stroke volume.
+This means that the difference between these two numbers
+or the pulse pressure
+is also determined by the stroke volume.
+Another important blood pressure term
+is the mean arterial pressure or MAP.
+This is equal to the diastolic pressure
+plus 1/3 of the difference between the systolic
+and diastolic pressures,
+which you may recall is called the pulse pressure.
+The reason it's not halfway between the two pressures
+is because our blood pressure spends more of its time
+in the diastolic range.
+If you chart the blood pressure,
+you will find that it briefly
+it goes up to the systolic peak,
+then falls down to the diastolic range
+and stays down there for a much longer period of time
+before it climbs again.
+This means that in order to calculate the mean
+you don't simply take the midway point between the bottom
+and the top.
+You take 1/3 of the way from the bottom
+coming closer down to the bottom number
+because you spend more time down in this range here
+at the bottom.
+So for example, if a person had a normal blood pressure
+of 120 over 80 the mean arterial pressure
+would be 80 plus 1/3 of the difference between those two,
+which is 40 and that would work out to 93.3.
+Of the cardiac physiology variables we've been discussing,
+one of the most important is the cardiac output.
+That's because the cardiac output must rise
+to meet the demands placed upon the heart by the body.
+And in many disease states, the disease is caused
+because the cardiac output is insufficient.
+Also remember that the more cardiac output
+the heart produces the more work it must do
+and the more oxygen that is required.
+The cardiac output is equal to the heart rate
+times the stroke volume.
+So when the heart rate goes up there are more beats
+per minute and this is more work the heart must do.
+In addition, when the stroke volume goes up
+there's more volume per beat at the heart must pump.
+And that also means more work that the heart must do.
+These are very important principles
+of cardiac physiology for you to understand.
+So the four classic determinants of the cardiac output
+are the preload, the afterload, the contractility
+and the heart rate.
+And we'll talk about these one at a time
+in the next few slides.
+But I just wanna make a general point here
+that changes in these four factors
+affect the cardiac output.
+And that means that these four factors
+also affect how much work the heart has to perform.
+The preload is the amount of blood loaded
+into the left ventricle prior to each contraction.
+That's how it gets its name, the preload.
+If you've watched the video on the Starling curve
+you are aware that the more preload
+that goes into the left ventricle,
+the harder it will contract.
+And for that reason, when there's more preload
+there's more cardiac output.
+In addition, when there's more preload
+there's more work the heart must do
+and more oxygen that is required.
+And because of the Starling mechanism
+preload is sometimes referred to in textbooks
+as the amount of stretch on the fibers prior to contraction.
+Some books say length instead of stretch.
+But all of these are ways of referring to the preload.
+And the fact that the Starling mechanism
+dictates that the more the left ventricle is loaded
+and the fibers are stretched.
+The more vigorously the left ventricle will contract.
+And if you find the concept of preload confusing
+the way I've always explained it to students
+is to think of a room full of people
+and the left ventricle's job
+is to push all those people out into the hallway
+through a small door.
+The preload is the amount of people put into the room
+and you can imagine it, if there are more people
+in the room, then there's more work that must be done
+in order to shove them all through the door
+and into the hallway outside.
+So if preload is the amount of blood preloaded
+into the left ventricle to be pumped,
+how could you increase the preload to the left ventricle?
+Well, the easiest ways to add volume to the body.
+Patients who receive a blood transfusion
+or intravenous fluids will have increased preloads.
+These two interventions deliver more fluid
+to the venous system of the body
+which goes to the left ventricle.
+This preloads the left ventricle with more fluid
+that must be pumped and thus they increase the preload.
+This means that both of these things
+will raise the cardiac output.
+They will also raise the amount of work
+that the heart must perform.
+Another way that's not so obvious is to slow the heart rate.
+When you slow the heart rate
+there's more time for filling of the left ventricle.
+Thus it fills with more volume
+and therefore there is more preload.
+And then a final way
+which is very important physiologically
+is to constrict the veins.
+The veins are like large storage basins
+for fluid inside the body.
+They contain a significant amount of fluid
+that can be pushed into the left ventricle if needed.
+So when the sympathetic nervous system is stimulated
+alpha-1 receptors in the veins will react and constrict
+and they will push lots of blood into the left ventricle.
+This is very important for the response to blood loss.
+Venous constriction increases the amount of volume
+available to the heart
+and helps to maintain the cardiac output
+in the setting of blood loss.
+To decrease the preload you do the opposite
+of the three mechanisms I just discussed.
+You can remove volume.
+Patients who are bleeding or dehydrated
+have decreased preload on the left ventricle.
+You can raise the heart rate.
+This allows less time for filling the opposite mechanism
+we talked about before.
+In addition, you can pull blood in the veins
+and this is the mechanism of action of drugs called nitrates
+which are sometimes used in heart failure.
+And in an angina they dilate the veins
+and they pull blood in the venous system.
+This pulls blood away from the heart.
+This lowers the preload.
+There's less work for the heart to perform.
+And for this reason, it can relieve angina.
+A couple of important terms regarding preload.
+Preload is often not called preload.
+It's usually referred to by one of the two terms
+I've shown in the screen here.
+The first one is the LVEDV.
+That's the left ventricular end-diastolic volume.
+This is the volume I talked about
+at the beginning of this module.
+It's the volume of blood in the left ventricle
+when it's completed its filling phase.
+It's the largest volume of blood
+that the left ventricle will hold during the cardiac cycle.
+That is an indication of how much the left ventricle
+has been preloaded.
+And thus the LVEDV is usually used to represent the preload.
+Now in clinical practice,
+it's very hard to measure the LVEDV.
+However, it's much easier to measure the pressure at the end
+of diastole, the left ventricular end-diastolic pressure.
+So instead of using the volume
+we often use the pressure clinically
+because it's simply an easier number to obtain.
+This is the pressure in the left ventricle
+when filling is completed.
+This is also a measurement of the preload
+on the left ventricle.
+The afterload are the forces resisting flow
+out of the left ventricle.
+Remember that the heart must squeeze
+in order to raise the pressure in the left ventricle.
+It needs to raise the pressure enough to pop open
+the aortic valve so that blood can be pushed into the aorta.
+This is harder to do
+if for example the blood pressure is high.
+Blood pressure is one of the determinants of afterload.
+This is also harder to do if the aortic valve is stiff.
+Aortic stenosis is a classic condition
+where the afterload increases.
+There are also some rare forms of high afterload
+such as when things are in the way of blood
+moving out of the left ventricle.
+This can occur in hypertrophic cardiomyopathy.
+It can also occur in rare conditions
+like when patients have a sub-aortic membrane
+obstructing the outflow of blood,
+but all of these things raise the amount of work
+that the heart must do in order to move blood
+out of the left ventricle.
+And just like with preload
+an easy analogy to understand afterload
+is to think of a bunch of people in a room
+and it's the left ventricle's job
+to push them through a doorway into the hallway outside.
+The afterload is high if there are already a lot of people
+in the hallway outside.
+It's obviously gonna be harder to move those people
+out of the room and into the hallway.
+That's what happens when your blood pressure is high.
+There's already a lot of high pressure
+in molecules outside of the heart
+and therefore it's harder to move blood out of the way.
+It's also harder to move those people out of the room
+and into the hallway if the door is stiff
+and won't open and that's what happens in aortic stenosis.
+So these are ways you can think of the concept of afterload.
+So just like we did with preload,
+let's talk about ways we could increase
+or decrease the afterload.
+So one of the ways to increase the afterload
+is to raise the mean blood pressure.
+The mean blood pressure is one major determinant
+of the afterload of the left ventricle.
+Another way to increase the afterload
+is to obstruct the outflow of left ventricle.
+In some manner, this is what happens when patients
+have aortic stenosis or hypertrophic cardiomyopathy.
+To decrease the afterload we could do the opposite
+of the two things I mentioned on the last slide.
+We could lower the mean blood pressure.
+We could treat the aortic valve disease
+or the hypertrophic cardiomyopathy.
+And the principle here is
+that more afterload means more work the heart must do
+and therefore more oxygen that is required.
+Now let's talk about the third determinant
+of cardiac output and that is the contractility.
+This is how hard the heart muscle squeezes.
+And the ejection fraction is one potential measurement
+of contractility.
+When the ejection fraction goes up,
+it means that the left ventricle
+is contracting more vigorously and pushing more blood
+out of the left ventricle with each heartbeat.
+And the major regulator of contractility
+is the sympathetic nervous system.
+This is the major regulator under physiologic conditions
+of both contractility and also heart rate
+which we'll talk about in a minute.
+The main physiologic mechanism
+by which contractility is increased
+is via sympathetic nervous system activity.
+There are two mechanisms
+by which the sympathetic nervous system
+can increase contractility.
+First of all, the sympathetic nervous system
+directly innervates the heart.
+In addition, the sympathetic nervous system
+can stimulate the release of catecholamines
+from the adrenal gland.
+Those can circulate and reach the heart.
+Those include substances like epinephrine
+and norepinephrine.
+When either of these mechanisms activates the heart
+there's increase calcium release
+from the sarcoplasmic reticulum
+and this will increase the contractility.
+So some classic triggers are stress,
+also exercise which we'll talk about later.
+Anything that increases sympathetic nervous system activity.
+A non physiologic way
+by which contractility can be increased
+is via the use of sympathomimetic drugs.
+These are drugs like dopamine, dobutamine, epinephrin
+and norepinephrine.
+They all stimulate sympathetic nervous system receptors
+in the heart.
+And they exert the same effects
+that the sympathetic nervous system normally does
+under physiologic conditions.
+And then finally, the drug digoxin
+which I talk about in some of the other cardiology modules
+inhibits the sodium-potassium ATPase pump.
+This leads to an increased calcium level inside of myocytes.
+And this is another non physiologic way
+to increase contractility.
+The main way that contractility is decreased
+is by dialing back the sympathetic nervous system.
+This can occur naturally when patients enter states
+where there's less sympathetic activity.
+It can also occur via the use of drugs.
+So the main mechanism of sympathetic nervous system
+blocking drugs like beta blockers on the heart
+is to decrease contractility and also heart rate,
+which we'll talk about in a minute.
+Some calcium channel blockers, especially verapamil
+and diltiazem also affect contractility.
+They lead to less calcium being pulled into myocytes
+and therefore there's less calcium available
+for muscle contraction and decrease contractility.
+And then finally, heart failure
+especially systolic heart failure
+is a disease of myocytes
+that results in decreased contractility.
+That's the defining characteristic of the disease.
+Our fourth determinant of cardiac output
+and the work of the heart is the heart rate.
+When the heart rate goes up
+this increases the cardiac output
+under physiologic conditions.
+And the main regulators of heart rate.
+The factors that cause it to increase or decrease
+are the same ones that affect contractility.
+In general heart rate and contractility go together.
+They're both mainly regulated
+by the sympathetic nervous system.
+And they are both also affected by sympathomimetic drugs
+and blocked by drugs like beta blockers.
+There is a confusing concept about heart rate
+and stroke volume
+that's shown in many cardiac physiology textbooks.
+And I'll explain this to you in the next few slides
+in a way that hopefully makes sense.
+So in the laboratory settings, when you insert pacemakers
+into the hearts of animals like dogs
+and you artificially increase their heart rate
+you see a fall in stroke volume.
+This is because there's less time
+for filling of the left ventricle.
+So the relationship between heart rate
+and stroke volume experimentally
+is like what I've shown on the screen.
+Now this is very counterintuitive.
+Most of us think of our output
+of our heart going up when our heart rate rises
+and this slide indicates the opposite, but keep in mind
+this is under artificial settings
+in the laboratory when you're increasing the heart rate
+without also raising the contractility.
+Even in artificial settings like the laboratory
+where you're pacing the heart of a dog
+an increase in heart rate
+over physiologic ranges of heart rates
+still leads to a rise in cardiac output.
+That's because even though the stroke volume falls
+when the heart rate goes up,
+like I showed you in the last slide,
+the heart rate rises to a greater degree.
+And remember cardiac output is equal
+to the product of stroke volume times heart rate.
+Thus, if you have a small drop in stroke volume
+but a greater rise in heart rate
+then that effect will be to increase cardiac output.
+So thus even in the laboratory
+when you're studying animals and you're pacing their heart
+as you increase their heart rate,
+you still see a rise in cardiac output,
+even though the stroke volume is going down
+as you raise the heart rate.
+And that's a confusing concept
+to make sure you understand that.
+All of those relationships I just showed you
+however are artificial
+because under physiologic circumstances
+the sympathetic nervous system controls heart rate
+and contractility and it never raises the heart rate alone
+without also raising the contractility.
+What this means is when the sympathetic nervous system
+raises the heart rate, the stroke volume goes up
+even though there's less time per filling.
+There's more contractility such that overall there is a rise
+in the stroke volume under physiologic conditions
+when the sympathetic nervous system raises the heart rate.
+The one clinical situation where a rise in heart rate
+can lead to a fall in cardiac output
+is under pathologic conditions
+in the setting of some cardiac arrhythmias.
+There are some cardiac arrhythmias
+where the heart rate can get very, very high
+sometimes as high as 300 beats per minute.
+In this setting, there isn't enough time
+for the left ventricle to fill.
+And thus the stroke volume falls
+and the cardiac output falls.
+In other words, at these very high heart rates
+even though the heart rate is increased
+the stroke volume has dropped dramatically.
+Thus, the product of stroke volume times heart rate
+begins to fall.
+That means the cardiac output gets low.
+What this means is that some patients
+with cardiac arrhythmias can develop hypotension and shock.
+And this usually happens when the arrhythmia results
+in a very rapid heart rate.
+What this means is the true relationship
+between cardiac output and heart rate
+is like what I've shown on the screen here.
+Under the physiologic range of heart rates
+when the sympathetic nervous system
+drives an increase in the heart rate,
+there is an increase in cardiac output.
+This is because the sympathetic nervous system
+is increasing contractility in addition to heart rate.
+And thus the cardiac output is going up.
+However, if the heart rate gets very, very high
+for example, in this setting of arrhythmia,
+you can reach a point where the cardiac output
+begins to fall.
+And that's because of the dramatic drop in stroke volume
+seen when the heart rate gets very, very high.
+So to summarize the work of the heart
+is determined by four key components.
+The first is the preload, which we often estimate
+by the left ventricular end-diastolic volume or pressure.
+The second is the afterload, which is often estimated
+by the mean arterial blood pressure.
+The third variable is the contractility
+which is often estimated by the ejection fraction.
+And the fourth is the heart rate.
+And this will be important when we talk about disease states
+because hearts that are starved for oxygen
+need to have these factors modified
+so that there's reduced oxygen demand.
+In addition, hearts that are generating a low cardiac output
+need to have these factors modified
+so that they increase the work of the heart
+and increase the cardiac output.
+And that concludes our module on cardiac physiology.

@@ -1,0 +1,484 @@
+﻿File: 09 Starling Curve
+---
+
+Hello, everyone.
+And welcome to our module on Starling curves.
+Shown on the screen is the Frank-Starling curve,
+which shows the relationship between preload
+to the left ventricle
+and stroke volume from the left ventricle.
+And as you know,
+preload can be measured by either
+the left ventricular end-diastolic pressure
+or the left ventricular end-diastolic volume.
+So what this curve shows is that the more you load
+the left ventricle up with fluid,
+the more it will pump
+and the higher the stroke volume will be.
+And it's very good that this relationship exists.
+Because of this relationship,
+if you drink more fluid
+and put more fluid into your vascular system,
+that fluid will go to your heart
+and your heart will pump harder.
+If this mechanism did not exist
+and every time we drank a couple of glasses of water,
+the heart would continue to pump at the same rate
+and all that extra fluid
+would pool in our venous system
+until it could be excreted from the body.
+However, because of the Frank-Starling mechanism,
+the more you put into the ventricle,
+the more it pumps.
+And this allows our heart to respond
+to situations where there is higher
+or lower venous return to the heart.
+It's important for you to understand that
+the Frank-Starling curve
+and the relationship between left ventricular preload
+and left ventricular stroke volume is not fixed.
+There are certain physiologic parameters
+which can shift the curve
+either to the left or the right.
+For example, on the screen here,
+imagine that the black line depicts
+the Frank-Starling curve under normal conditions.
+There are certain physiologic conditions
+which will shift the curve to the left
+as depicted by the green line
+or to the right as depicted by the yellow line.
+So let's talk about what would happen
+if the curve shifted to the left,
+as shown in the green line.
+Imagine if under normal conditions,
+we give this much preload to the left ventricle.
+Well, if we're operating on a normal curve shown in black,
+that means we would generate a stroke volume
+where I've marked with my pen.
+However, if physiologic parameters shift
+the Frank-Starling curve to the left as shown in green,
+then for that same amount of preload,
+we would generate a much higher stroke volume.
+So shifting the curve to the left means that
+for a given preload,
+the heart produces more stroke volume,
+shifting the curve to the right means that
+for a given preload,
+the heart produces less stroke volume.
+So now let's talk about some of those physiologic parameters
+that shift the curve left and right.
+And the first one,
+and the easiest to understand is contractility.
+So when the contractility of the left ventricle increases,
+that shifts the curve from the black line to the green line,
+that should make sense to you.
+If contractility goes up for a given preload,
+you should produce more stroke volume
+than under normal conditions
+because contractility is higher.
+By the same argument of contractility decreases,
+that will lower the stroke volume.
+The other physiologic parameter
+that can shift the curve left or right,
+is a little trickier to understand,
+and that is peripheral resistance or afterload.
+When the peripheral resistance
+to the left ventricle drops,
+in other words, when afterload decreases,
+it makes it easier for the heart
+to push blood forward.
+This means that for a given preload,
+the heart can produce a higher stroke volume
+when peripheral resistance is low compared to normal.
+By the same arguments,
+if peripheral resistance increases,
+in other words, if the afterload goes up,
+that will shift the curve to the right.
+So in summary, the major parameters
+that shift the Starling curve,
+either left or right,
+or contractility or peripheral resistance,
+they change the Starling curve
+as I've shown in this slide on the screen.
+So what are some of the circumstances
+where contractility might change?
+While contractility increases,
+in the setting of exercise
+or in patients who are receiving inotropes,
+these things can shift the Starling curve to the left.
+Contractility decreases in the setting
+of myocardial infarction or heart failure,
+these things can shift the curve to the right.
+Let's talk about what might change peripheral resistance.
+First of all, there is a little bit of terminology used
+to refer to peripheral resistance.
+Sometimes it's called
+the total peripheral resistance or TPR,
+other textbooks will call it
+the systemic vascular resistance or SVR,
+but in either case,
+they're talking about the forces
+that resist the flow of blood out of the left ventricle.
+So the peripheral resistance can increase
+in patients receiving vasopressors.
+It can decrease in patients receiving Vasodilators
+or patients who have sepsis.
+These things can shift the Starling curve
+either to the left or the right.
+Closely related to Starling curves
+are another set of curves known as venous return curves.
+These curves depict the relationship
+between right atrial pressure
+and venous return to the heart.
+In order to understand venous return curves.
+Let's take a look at the drawing I've made
+in the screen here.
+This drawing shows the relationship
+between pressure in the right atrium
+and venous return to the heart.
+In order to understand this relationship,
+you need to appreciate that venous return
+must be equal to cardiac output.
+The blood that is returned to the heart
+must equal the blood that is pumped out of the heart.
+For that reason, the X axis on this curve
+could be either the venous return to the heart
+or the cardiac output.
+The two terms are interchangeable.
+And this curve indicates
+that as the venous return or cardiac output increases,
+the right atrial pressure falls.
+So let's try to understand why that is the case.
+Let's look at this drawing I've made in the screen,
+the right atrium is here,
+where I'm marking with my pen.
+It is connected to the venous system of the body
+by the SVC above and the IVC below.
+And there are no valves
+between the right atrium
+and the venous system of the body.
+And for that reason,
+the pressure in the right atrium
+is equal to the central venous pressure.
+In other words,
+the pressure in the right atrium is equal
+to the pressure in the venous system of the body.
+When the cardiac output goes up
+and the ventricles begin pumping more blood,
+that pulls more blood out of the right atrium
+in the venous system
+and that lowers the right atrial pressure.
+For this reason, when venous return
+or cardiac output rises,
+right atrial pressure falls.
+And that's the relationship we saw in the last slide.
+For reasons that I'll explain in a minute,
+venous return curves are not usually drawn
+the way I showed you two slides ago.
+Instead, they're usually drawn
+as I've shown on this slide
+with right atrial pressure on the X axis
+and venous return or cardiac output on the Y axis.
+When the curves are drawn this way,
+it can be confusing.
+That's because the easiest way to understand these curves
+is to think of venous return or cardiac output
+as the independent variable
+and right atrial pressure as the dependent variable.
+But nevertheless, the curves are usually this way,
+and this is the way that you need to understand them.
+When the venous return curve is drawn like this,
+there's a very important pressure
+at the bottom of the screen.
+The point where this curve intersects the X axis
+is called the mean systemic filling pressure or MSFP.
+That is the pressure that would be present
+in the venous system of the body if the heart stops.
+In other words,
+it's the pressure if the cardiac output fell to zero,
+and that's a very important pressure defined
+by the volume in the venous system
+and the tone of the veins in the body.
+Just like there are physiologic parameters
+that can shift the Starling curve left or right,
+there are also parameters
+that can shift the venous return curve left and right.
+Let's imagine that we have a normal venous return curve
+as shown in black on the screen here.
+A shift to the right
+would look like the curve shown in green.
+This could happen if we were to increase blood volume.
+For example, if we infused a unit of blood,
+or if we infused a liter of normal saline,
+this will add volume to the venous system of the body.
+And remember the venous system
+is connected to the right atrium.
+So therefore when we add blood volume,
+we increase the right atrial pressure
+and shift the venous return curve to the right.
+Also, if we were to constrict the veins,
+in other words, if we were to increase the venous tone,
+this would also raise the pressure
+in the venous system of the body
+and therefore move the right atrial pressure higher.
+This shifts the curve to the right.
+By the reverse arguments,
+if you were to decrease blood volume
+or dilate the veins.
+In other words, decrease the venous tone
+that would shift the curve to the left
+as shown in yellow on the screen.
+So I've bolded at the top right side of the screen,
+the words, volume and venous tone.
+These are the things that can shift
+the venous return curve left, or right.
+There is also one physiologic parameter
+that can change the slope of the venous return curve.
+And that is the total peripheral resistance.
+So let's try to understand this now.
+Let's imagine that we're operating
+at this cardiac output here, which I will label A.
+And let's imagine that we're operating
+on the normal venous return curve shown in black.
+At cardiac output A,
+we will generate right atrial pressure A,
+which I'm marking at the bottom of the screen.
+Now let's imagine there's an increase
+in total peripheral resistance,
+because of this rise in TPR,
+at cardiac output A,
+we will not be able to as completely fill
+the venous system of the body.
+For this reason, there will be a fall in venous pressure
+and therefore a fall in right atrial pressure
+when the total peripheral resistance is higher.
+This means that an increase in TPR
+will shift the venous return curve to the left
+as shown by the curve in yellow.
+The rise in TPR, however,
+cannot move the MSFP.
+Remember that is the pressure if the heart stops.
+It is not effected by peripheral resistance.
+And therefore it stays the same
+as under normal conditions.
+This means that a rise
+in total peripheral resistance shifts
+the venous return curve to the left as shown in yellow
+while leaving the MSFP unchanged.
+And therefore the slope of the venous return curve changes
+when peripheral resistance goes up.
+The reverse happens when total peripheral resistance falls,
+that shifts the venous return curve
+to the curve shown in green.
+And I've summarized the important points
+you wanna remember at the bottom of the screen.
+TPR changes shift the curve left or right
+with no change in MSFP.
+The result is a change in the slope
+of the venous return curve.
+The reason cardiac output or venous return
+are placed on the Y axis of the venous return curve
+is because once you do this,
+you can then overlay the Starling curve
+and the venous return curve.
+Remember the Y axis of the Starling curve is stroke volume
+and stroke volume is proportional to cardiac output.
+And as we discussed before,
+cardiac output is equal to venous return.
+Therefore, the Starling curve
+and the venous return curve have the same Y axis.
+And you can overlay one on top of the other.
+When you do this,
+the Y axis is either right atrial pressure or preload.
+And these curves,
+with Starling and venous return combined
+were a breakthrough in the 1960s
+when they were initially described experimentally.
+At the time,
+people were debating whether the Starling curve
+or the venous return curve determines the cardiac output.
+When the curves were put together,
+this settled the issue by showing
+that the cardiac output is determined
+by the point where the two curves intersect.
+This means that the Starling curve
+can influence the cardiac output,
+but so can the venous return curve.
+The intersection of those two curves
+determines where a vascular system will operate.
+The other reason physiologists like to overlay
+the Starling curve and the venous return curve
+is because when you do this,
+you can show all the changes
+that occur in certain clinical scenarios.
+And there are a number of classic combined venous return
+and Starling curves that represent clinical scenarios
+that you need to know as a medical student.
+So we'll go through those one at a time now,
+and we'll start with heart failure.
+Shown on the screen in black
+is a normal patient,
+in red is a patient with heart failure.
+So let's try to make sense of this.
+In heart failure,
+the primary problem, as you know,
+is a fall in contractility of the left ventricle.
+That is represented by a shift to the right
+of the Starling curve as shown in the screen.
+The fallen contractility leads to
+a fall in cardiac output.
+And this activates the sympathetic nervous system
+that leads to retention of fluid volume in heart failure.
+In addition, it raises the total peripheral resistance
+as the sympathetic nervous system clamps down on arterials.
+The rise in fluid volume
+will shift the venous return curve to the right.
+And the change in peripheral resistance
+will modify the slope of the venous return curve.
+Thus, you will get all the changes shown in the screen
+and going from the black lines to the red lines.
+And I've cleared away my ink now
+so I can just show you that the normal patient
+has this cardiac output right here.
+The patient in heart failure has a lower cardiac output,
+and that should make sense to you.
+In addition, the normal patient
+has a lower right atrial pressure compared
+to the heart failure patient.
+And that's because in heart failure,
+the right atrial pressure goes up
+as do all the pressures inside the heart.
+So if you get confused
+in a question on combined venous return and Starling curves,
+just try to step back
+and make sure your answer makes intuitive sense.
+Whichever curves represent heart failure
+should indicate a fall in cardiac output
+and arise in the cardiac pressures.
+As you know, occurs in the setting of heart failure.
+Another classic set of curves has to do with hemorrhage.
+So in hemorrhage, the primary problem is blood loss.
+This will shift the venous return curve to the left
+as shown in this picture
+and going from the black lines to the red lines.
+In response, the sympathetic nervous system is activated.
+That will increase the peripheral resistance
+and increase contractility of the left ventricle.
+The shift in contractility moves
+the Starling curve to the left.
+The change in peripheral resistance modifies
+the slope of the venous return curve.
+Thus, you get all the changes shown on the slide here.
+And once again, I've cleared away my ink
+so I can show you that we begin at this point here,
+and we moved to this point here.
+This represents a fall in the cardiac output,
+and that's what you expect in the setting of blood loss.
+In addition, we begin with this right atrial pressure
+and fell to a lower right atrial pressure.
+That should also make sense to you.
+When there is blood loss,
+the pressures in the chambers of the heart will fall.
+Exercise is another classic combined venous return
+and Starling curve.
+So in exercise, there is decreased afterload.
+I explained the mechanism of this
+in the video on cardiac physiology.
+In addition, there is activation
+of the sympathetic nervous system that leads
+to venous contraction and increased contractility.
+So if you look at these curves over here,
+what happens is the contractility goes up.
+So that shifts the Starling curve to the left.
+There is venous contraction,
+which moves the venous return curve to the right.
+There's also a fall in TPR
+so that changes the slope of the venous return curve.
+So we get all these changes I've shown right here.
+And the net result
+is that we move from a low cardiac output
+to a high cardiac output,
+which is what you expect to happen during exercise.
+AV fistulas have
+the same hemodynamic consequences as exercise.
+The primary effect of AV fistulas
+is to decrease the afterload
+or lower the total peripheral resistance.
+To understand why peripheral resistance falls
+in the setting of an AV fistula,
+you have to appreciate that under normal conditions,
+the arterial system and the venous system
+are not directly connected.
+The only way they can communicate with one another
+is by pushing blood through the arterials.
+The arterials are resistance vessels,
+and therefore they lower the pressure
+as blood moves from the arteries to the veins.
+When you have an AV fistula,
+you have a direct connection from the arteries to the veins
+that does not go through the resistance vessels,
+this results in a flood of blood moving
+into the venous system.
+And it results in a way of bypassing the arterials,
+which are the resistance vessels.
+Therefore, the total peripheral resistance
+falls significantly in the setting of an AV fistula.
+Just like with exercise,
+the fall in afterload leads to activation
+of the sympathetic nervous system.
+This will increase contractility of the left ventricle.
+It will also lead to venous contraction.
+So it produces the same effects
+that are seen in exercise.
+The increase in contractility moves
+the Starling curve to the left.
+The venous contraction shifts
+the venous return curve to the right
+and the change in peripheral resistance modifies
+the slope of the venous return curve.
+What we're left with is a system that moves
+from a lower cardiac output
+to a higher cardiac output.
+The administration of vasopressors
+will increase the afterload or the peripheral resistance.
+And this will alter both the venous return curves
+and the Starling curves.
+I told you before that when the afterload goes up,
+it shifts to Starling curve to the right
+as shown in going from black to green in this image.
+In addition, I told you that
+when the peripheral resistance goes up,
+it shifts the venous return curve to the left,
+but the MSFP stays fixed.
+Therefore, the slope of the venous return curve changes.
+So you get all the changes that I've shown
+in going from black to green in this image on the screen.
+The net result is that you move
+from a higher cardiac output to a lower cardiac output.
+And that should make sense to you.
+when peripheral resistance goes up,
+it's harder for the left ventricle to pump blood
+and therefore the cardiac output falls.
+Sometimes you are asked to interpret combined Starling
+and venous return curves,
+where actual numbers are given for the X and Y axis.
+To understand how to do this,
+let's try to solve this problem on the screen here
+for a patient operating on Starling curve A
+with an MSFP of 10,
+what is the cardiac output?
+So they've told you that the patient is operating
+on Starling curve A,
+which is the green Starling curve.
+They've also told you
+that the mean systemic filling pressure is 10.
+This means that the patient must be operating
+on the yellow venous return curve.
+Those two curves intersect at this point here,
+which is associated with a cardiac output
+a little less than five.
+So that would be the answer to this question.
+And this is how you solve problems
+when they give you actual numbers
+to define the Starling in venous return curves.
+And that concludes our module on Starling curves.

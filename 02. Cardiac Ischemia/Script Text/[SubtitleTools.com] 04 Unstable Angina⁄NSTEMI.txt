@@ -1,0 +1,215 @@
+﻿File: 04 Unstable Angina⁄NSTEMI
+---
+
+Hello everyone
+and welcome to our module on NSTEMI and Unstable Angina.
+NSTEMI is the term used to refer
+to Non-ST-Elevation Myocardial Infarctions.
+These are myocardial infarctions caused by plaque rupture
+with thrombus formation
+but what differentiates an NSTEMI from a STEMI
+is that in NSTEMI, there is subtotal
+or less than 100% vessel occlusion.
+This leads to a scenario like what's shown
+in the drawing on the screen here.
+We've got a plaque that's ruptured
+with formation of a thrombus,
+but there is blood flow beyond the obstruction
+so that the myocardium is not completely deprived of oxygen.
+This leads to ischemic chest pain, just like in STEMI,
+but you do not see ST-elevations on the surface ECG.
+And the reason you do not see ST-elevations
+is because there is some blood flow beyond the obstruction,
+because the obstruction is subtotal.
+The portion of the myocardium that develops ischemia
+in NSTEMI is the sub endocardium.
+NSTEMIs are said to lead to sub endocardial ischemia.
+If you'll get this drawing on the screen here,
+recall that the coronary vessels are in the epicardium,
+furthest away from the left and trick or cavity shown here.
+Now, the endocardium,
+which is right along the border of the LV cavity,
+can get oxygen from the blood inside the ventricle.
+But the subendocardial,
+which is the layer of myocardium that is just below
+the endocardium, has to rely on the coronary vessels
+for oxygen.
+And because this portion of the myocardium
+is furthest away from the coronary vessels,
+it is the most vulnerable to ischemia.
+So when you have a subtotal occlusion as in NSTEMI,
+what happens is this sub endocardium
+usually develops ischema.
+And this is different once again from a STEMI.
+In a STEMI there's complete loss of blood flow
+so the entire wall develops ischemia,
+that's said to be transmural ischemia.
+You usually do not see transmural ischemia in NSTEMI.
+Instead you see sub endocardial ischemia.
+By definition, you do not see ST-elevations
+on the surface ECG in patients with NSTEMI,
+but there are some ECG changes you can see,
+and these are caused by sub-endocardial ischemia.
+So for example, you may see ST depressions
+or T-wave inversions.
+In NSTEMI these are signs of sub-endocardial ischemia.
+I talk about these in more detail
+in the video on ischemia basics,
+but some of these are shown in the screen here.
+So this is the baseline of the ST Segment.
+You can see that the ST segments are depressed.
+You can also see that these T-waves are upside down
+or inverted.
+These are all signs of sub-endocardial ischemia,
+and they can be seen in NSTEMI.
+You suspect the diagnosis of NSTEMI
+in patients who have ischemic type chest pain
+and T-wave inversions or ST depressions on the ECG.
+But another way you can make the diagnosis
+is by testing for cardiac biomarkers.
+So these biomarkers are normally found inside of myocytes
+and they spill into the blood when there's cardiac injury.
+The most commonly used marker is traponin
+either troponin I or T.
+The level of troponin I or T in the blood,
+will increase two to four hours after an NSTEMI
+and will remain elevated for several weeks.
+Sometimes the biomarker CK-MB is also used.
+This biomarker increases four to six hours after an MI,
+but it does not stay up for weeks.
+It goes back to normal within two to three days.
+CK stands for creatinine kinase.
+And there are several types of creatinine kinase
+found in different cells in the body.
+In skeletal muscle cells,
+the most common form is CK-MM.
+In cardiac cells,
+the most common form is CK-MB.
+And in the brain,
+the most common form is CK-BB.
+Now it turns out most tissues
+have some of all three of these forms,
+but what I've shown on the slide, is that predominant form.
+And the way this can sometimes be a problem
+is when people people have elevated CK levels,
+not due to myocardial infarction.
+So for example,
+a patient with rhabdomyolysis will have a very high level
+of CK in the blood, but they're not having a heart attack.
+They may also have a high level of CK-MB
+because remember there's some MB
+found in skeletal muscle cells.
+It's just not the predominant type.
+So in these situations,
+what you can do is take the ratio of MB to the total CK
+to diagnose ischemia.
+So for example,
+in a patient with a myocardial infarction,
+most of the total CK will be CK-MB,
+in a patient with rhabdomyolysis
+very little of the total CK will be CK-MB.
+So this ratio is helpful for diagnosing ischemia
+when you are using creatine kinase has a biomarker.
+There's also some AST found in cardiac cells.
+AST is typically used to diagnose liver problems,
+but sometimes patients will present with abdominal pain
+as an angina equivalent,
+and they will have an isolated increase in AST.
+You should be aware
+that this could be a myocardial infarction.
+And this is one of the many reasons
+that in any patient presenting with abdominal pain and EKG
+is usually checked
+because some patients have abdominal pain
+instead of chest pain as their anginal equivalent.
+Let's talk about the treatment of NSTEMI.
+So this is a thrombotic problem
+because there's a thrombus in a coronary artery,
+and it's also an ischemic problem.
+There is insufficient blood flow to the myocardium
+so these features are similar to a NSTEMI,
+but what's different between an NSTEMI and a STEMI,
+is that there's no ticking clock.
+And NSTEMI has a subtotal occlusion,
+but there's still some blood flow to the distal myocardium.
+So emergency angioplasty is usually not performed
+and thrombolysis is not administered.
+And the reason these things aren't done
+is because there's still some oxygen
+going to the myocardium.
+So although it's an urgent situation,
+it's not an emergent situation where the clock is ticking
+and every minute you delay in opening up the artery,
+the heart gets sicker and sicker.
+So typical treatment for NSTEMI
+is to administer an aspirin,
+which reduces the thrombus burden.
+Beta blockers are typically administered
+because these reduced mal cardio oxygen demand.
+Heparin is usually administered
+because this reduces the risk of clot formation.
+And then angioplasty is usually performed,
+but it's non-emergent.
+It can wait a few hours or a day or so
+until the patient is stabilized and ready
+for an angioplasty.
+So here's a typical NSTEMI course,
+like you might see on your clinical rotations
+in the hospital.
+A patient presents to the emergency room with chest pain,
+the biomarkers are elevated
+and a diagnosis of NSTEMI is made.
+Medical therapy has started with aspirin,
+metoprolol and heparin drip.
+The patient is admitted to a cardiac floor.
+The next day,
+the patient has an angiogram and there's a 90% blockage
+of the LAD with a thrombus and a stent is placed,
+and thus the patient has been treated for their NSTEMI.
+Now let's talk about Unstable Angina,
+which is a very similar clinical syndrome to NSTEMI
+and Unstable Angina just like an NSTEMI,
+there is plaque rupture with thrombus formation
+and subtotal vessel occlusion.
+So there's some blood flow beyond the occlusion
+to the myocardium.
+This causes ischemic chest pain.
+And then what differentiates unstable angina from NSTEMI,
+is that an unstable angina, there are normal biomarkers.
+If you have all of these features
+and the traponin or CK-MB are elevated,
+then you have NSTEMI.
+If you have all these features,
+but the biomarkers are normal,
+then you call it unstable angina.
+But at the blood vessel level,
+what's happening is the same process, plaque rupture,
+and thrombus formation.
+Because these patients have normal biomarkers,
+the diagnosis is based largely on the patient's history.
+You have to take a very careful history to make a diagnosis
+of unstable angina.
+These patients have chest pain that is increasing
+in frequency and intensity.
+For example,
+patients may have multiple episodes of pain per day,
+and the episodes may be getting more and more severe.
+These patients also often have chest pain at rest,
+and all of these are features that are not seen
+in stable angina.
+Sometimes their ECG changes,
+and this can help with the diagnosis of these patients
+may have the same ECG changes as NSTEMI
+like ST depressions and T-wave inversions,
+but these are not always present.
+And the treatment is the same as for NSTEMI.
+In fact, if you look up clinical trials of different drugs,
+you will see that these drugs were tested
+in patients with UA/NSTEMI.
+And what they mean is that the inclusion criteria
+for the trial where patients with unstable angina or NSTEMI,
+they both have the same pathologic process,
+plaque rupture with subtotal occlusion,
+and they both are treated the same way.
+And that concludes our module
+on Unstable Angina and NSTEMI.

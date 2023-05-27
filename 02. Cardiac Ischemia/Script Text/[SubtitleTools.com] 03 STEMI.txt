@@ -1,0 +1,402 @@
+﻿File: 03 STEMI
+---
+
+Hello everyone and welcome to our module
+on ST- Elevation Myocardial Infarction.
+STEMI is the term used to refer
+to an ST-elevation Myocardial Infarction,
+and this disorder gets its name
+because on the surface ECG,
+there are ST- elevations
+and we'll talk about that in a minute.
+The cause of a STEMI is rupture
+of an atherosclerotic plaque with thrombus formation
+and complete 100% vessel occlusion.
+What makes a STEMI a STEMI
+is that the thrombus allows no blood flow
+beyond the obstructionist shown
+in this picture,
+on the screen here,
+if there is thrombus formation
+and there is some blood flow
+beyond the obstruction that will lead
+to end STEMI and unstable angina,
+which I'll talk about in another video.
+Because of the vessel occlusion,
+there is a schema and ischemic chest pain.
+And as I said before,
+there will be ST segment elevations
+on the surface ECG.
+This is the hallmark
+of a STEMI.
+In patients who have a STEMI with complete occlusion
+of a blood vessel.
+There will be,
+what's known as Transmural Ischemia of the left ventricle
+in the territory supplied by the occluded vessel.
+Transmural means that the entire wall is ischemic
+and this is also different from end STEMI
+and unstable angina
+and end STEMI and unstable angina.
+The ischemia only involves
+the sub endocardial layer right near the LV cavity,
+but in the setting of STEMI,
+you have Transmural Ischemia
+and the entire wall develops ischemia.
+This is an angiogram
+from a patient having a STEMI.
+There's a catheter in the right coronary artery
+and dies injected,
+but it only moves a short distance
+down the right coronary artery,
+and then it stops.
+And the reason it stops
+is because there's a blood clot,
+occluding the vessel.
+And here's another picture
+of the same vessel after it's been treated with angioplasty.
+You can now see the dye completely fills the vessel
+all the way down
+to the posterior descending artery.
+On the surface,
+ECG leads go together to tell you which territory
+of the heart is ischemic.
+When the anterior wall of the left ventricle is ischemic.
+What you see are ST-elevations in leads V1, V2, V3, and V4,
+as I've shown on this image.
+And here's an ECG
+from a patient having
+an anterior wall myocardial infarction,
+the anterior wall of the left ventricle is ischemic.
+And for that reason,
+the anterior leads show ST-elevation.
+So you can see ST-elevations here in lead V2.
+They're also easy to see in leads,
+V3 and V4.
+These are the anterior leads
+of the left ventricle.
+When the lateral wall of the left ventricle is ischemic.
+You can see ST-elevations in the so-called lateral leads.
+Those leads are one and AVL and also V5 and V6.
+This is an ECG
+from a patient
+having a lateral left ventricular myocardial infarction.
+It's easy to see ST-elevations in leads one
+and leads AVL here.
+There are also some ST-elevations in leads,
+V five and V6,
+although they're very subtle and not as easy to see,
+but you should easily be able
+to identify the ST-elevations in one and AVL here.
+And then finally,
+the inferior wall of the left ventricle.
+When that develops a schema,
+you see ST-elevations in leads two, three, and AVF.
+These are called the inferior leads
+of the heart,
+and here's a patient with an inferior myocardial infarction.
+There are ST-elevations that you can see
+in leads two, three, and AVF,
+all consistent
+with inferior left ventricular myocardial ischemia.
+By knowing which territory of the left ventricle is ischemic
+from the ECG.
+You can figure out which artery is occluded
+in a STEMI.
+So when you see anterior ST-elevations in V1 through V4,
+the anterior wall of the left ventricle
+is supplied by the left anterior descending artery.
+So this is the artery
+that will have a thrombus.
+When you see lateral ST-elevations in one L,
+V5 and V6,
+this portion of the left ventricle
+is supplied by the left circumflex artery.
+So that is the artery
+that has the thrombus.
+When you see inferior ST-elevations in leads two, three,
+and F this implies ischemia
+of the posterior descending artery.
+That's what supplies the inferior wall.
+Now, usually the blood cause is not actually in the PDA
+instead it's in the artery
+that supplies the PDA.
+So in patients who are right dominant,
+which is about 90% of patients,
+the PDA is supplied by the right corner artery.
+So most commonly inferior ST-elevations
+imply occlusion of the right coronary artery.
+About 10% of patients are left dominant
+and these patients have an occlusion
+of the left circumflex.
+When they develop inferior ST-elevations.
+There are some special complications that can occur
+in Inferior MIs you should be aware of.
+And the first one is right ventricular infarction.
+So when we say that the anterior wall
+or the inferior wall is ischemic,
+we're talking about the left ventricle,
+but in some inferior myocardial infarctions,
+the right ventricle can develop ischemia,
+the right ventricles blood supplies
+from the right coronary artery.
+And remember what I told you most inferior MIs involve
+ischemia of the right coronary artery.
+So a portion of those also lead to ischemia
+of the right ventricle.
+When the right ventricle becomes ischemic,
+it loses its contractility,
+and this will raise pressure in the right atrium
+and lead to elevated jugular venous pressure.
+In addition, one of the main jobs of the right ventricle
+is to pump blood to the left heart as preload,
+so when the right ventricle becomes ischemic,
+there is decreased preload to the left ventricle
+and this can lead to hypotension.
+So the two hallmarks
+of a right ventricular infarction occurring
+as a complication of an inferior STEMI
+are elevated jugular venous pressure and hypotension,
+very high yield remember that,
+and you can make the diagnosis of a right ventricular
+infarction by doing special ECG
+leads called right-sided chest leads.
+This is a picture showing you where the normal ECG leads go.
+V1 is just to the right
+of the sternum.
+And then V2 through V6 are all
+on the left side
+of the sternum here.
+If you wanna make a diagnosis
+of a right ventricular infarction,
+you place right-sided leads that go around this way
+on the patient,
+and you will see ST-elevations there.
+And that tells you that there's infarction
+of the right ventricle.
+The other special complication
+that occurs in many inferior myocardial
+infarctions is sinus bradycardia
+and heart block.
+This is because the vagus nerve runs near the inferior wall,
+and it can become stimulated
+in a setting of inferior schema.
+So many patients with inferior ischemia
+and ST-elevations in two, three,
+and AVF will have sinus bradycardia,
+or even sometimes heart block.
+This is a patient here with heart block shown
+in the screen.
+I'll talk about this in detail
+in another video,
+but you can see this in inferior MIs,
+and it's all from vagal nerve activation.
+Usually in STEMI,
+what you see are occlusions of the lad left circumflex
+or right coronary arteries,
+but sometimes other coronary vessels can develop occlusions.
+For example, some patients develop a left main STEMI
+from a left main occlusion.
+This is a very dangerous scenario
+because the left main branches into the lad and circumflex.
+So these patients have ischemia over a massive portion
+of their ventricle.
+The hallmark on ECG of a left main occlusion
+is ST-elevation in lead AVR.
+This is sometimes called the forgotten lead
+cause people forget to look at it,
+but you can see in this ECG on the screen
+from a patient with a left main STEMI
+that there's ST-elevation and lead AVR.
+Everywhere else on the ECG,
+all you see are ST depressions.
+They're ST depressions in lead one.
+You can see them easily in leads two
+and F you can also see them here in V3, V4,
+V five and V6.
+So if you forget
+to look at lead AVR,
+what you will think you have is diffuse ST depressions
+and you might think that this is not a STEMI,
+but you have to remember
+to look at lead AVR ST-elevation
+and lead AVR suggests a left main occlusion.
+The other special type of STEMI
+is a Posterior Myocardial Infarction.
+So this is a STEMI that involves just the PDA,
+not the right coronary or the circumflex,
+but an isolated STEMI
+to the posterior descending artery.
+What this will show on the surface ECG
+is an absence of ST-elevations.
+All you will see are ST depressions
+in leads V1, V2, and V3.
+And you can be tricked into thinking
+that this is not a STEMI in order
+to diagnose a posterior myocardial infarction.
+You have to play
+so-called posterior leads.
+These are special leads on the back
+of the patient,
+and they are the leads
+that will show ST-elevation in a posterior MI.
+If we go back to this drawing
+to diagnose a posterior MI,
+you have to place leads that go around the back
+of the patient.
+These are leads like V seven V eight
+and V nine.
+They go around the back
+and those leads will show ST-elevation,
+and a posterior MI
+you won't see it in a normal leads like V1 through V6.
+And so here's a summary slide
+of the two special subtypes of STEMI
+and a left main STEMI.
+You see ST-elevation in lead AVR
+with diffuse ST depressions,
+everywhere else in a posterior myocardial infarction.
+You see anterior ST depressions
+with the standard leads,
+but you will see ST-elevation
+if you place posterior leads like V7 through V9.
+When treating a patient
+with a STEMI, we say that time is muscle.
+And we say this because the coronary artery
+is occluded by a thrombus
+and the longer it remains occluded,
+the more muscle that dies
+and in clinical trials,
+the longer patients are delayed in getting
+that artery open.
+The more likely they are to die,
+the more likely they are to develop heart failure.
+And the more likely they are to be hospitalized
+in the future.
+So all of these very important end points for patients
+are related to how long it takes
+to open the artery.
+So this is a medical emergency,
+and we go to great lengths
+to very quickly open the occluded artery
+in patients with STEMI.
+So the main objective of treatment
+is to open the artery.
+This is called revascularization.
+Option one is emergency angioplasty.
+So many hospitals,
+like the one that I work at, have a team on call,
+ready to come in at any time for a STEMI
+to perform mechanical opening
+of the artery with angioplasty.
+And the goal is to do this in less
+than 90 minutes.
+This is called the door
+to balloon time.
+The time from when the patient enters the door
+to the hospital,
+and the time that a balloon is inflated
+in the coronary artery to restore blood flow
+that's so-called door to balloon time should be less
+than 90 minutes.
+This is a quality of care metric hospitals
+with longer door to balloon times have a higher
+in-hospital mortality.
+The second option to open the vessel is thrombolysis.
+This is administering
+a drug like tissue plasminogen activator
+that licensed the clot.
+They should be done in less
+than 30 minutes.
+This is called the door to needle time.
+Clinical trials have shown that emergency angioplasty
+is superior to thrombolysis.
+So this is the preferred technique.
+However many hospitals don't have access to teams
+that can perform emergency angioplasty.
+So in those parts of the country and those parts
+of the world,
+thrombolysis is done.
+Some other therapies for STEMI are shown on this slide.
+Remember time matters.
+So medical therapy is just supportive.
+It's given while you're working
+to open the artery,
+because this is a thrombotic problem with a thrombus
+in the coronary artery.
+Aspirin is given to inhibit platelet aggregation and heparin
+is administered to inhibit clot formation.
+This is also an ischemic problem.
+There's an imbalance in demand and supply of oxygen.
+So beta blockers are often given
+to reduce oxygen demand,
+and the same is true of nitrates,
+but all of these things
+are just done while you're working to get Lytics
+or angioplasty ready to definitively restore blood flow
+in the artery.
+There are a couple of special precautions
+you have to take
+when treating STEMI beta blockers
+are dangerous in some inferior MIs,
+because remember, like I told you before
+many inferior MIs involve stimulation
+of the vagus nerve.
+So these patients are at risk for bradycardia
+and AV block,
+and you can make that worse
+with beta blockers.
+Nitrates are also dangerous in cases of RV infarction.
+Remember what I told you before,
+when there's RV infarction,
+you drop the preload
+to the left ventricle nitrates also dropped a preload.
+So you can cause life-threatening hypotension,
+if you give nitrates to patients
+who have a right ventricular infarction.
+Some other STEMI treatments
+that you will sometimes see used include clopidogrel,
+which is an ADP receptor blocker that inhibits platelets,
+eptifibatide is sometimes used.
+It's a IIB/IIIA receptor blocker
+that inhibits platelets and bivalirudin
+is also used which is a direct thrombin inhibitor.
+And I talk about all these drugs
+in the hematology section.
+So here's a typical hospital course
+for a patient with STEMI.
+The patient arrives in the emergency room
+with chest pain at 5:42 PM.
+An EKG is done at five 50,
+and a STEMI is identified.
+The cardiac cath lab team
+is activated for emergency angioplasty
+while the emergency angioplasty
+is being arranged,
+medicines are given in the emergency room
+like aspirin, metoprolol, a nitro drip,
+and a heparin bolus,
+and the patient is transported to the cath lab
+when they're ready at six 15,
+the arteries and opened
+with a balloon at 6:42 PM,
+such that the door to balloon time is 60 minutes
+within the goal time period of less
+than 90 minutes.
+If you work at a hospital
+without emergency angioplasty,
+this is the typical STEMI course.
+The patient arrives again in the ER
+and EKG has done
+to identify the STEMI.
+Similar medications are given in the ER,
+but then instead of emergency
+angioplasty tissue plasminogen activator,
+which is a late occasion is given based
+on the patient's weight.
+It's administered as an IV push.
+And the door to needle time
+is 25 minutes,
+which is within the goal time period of less
+than 30 minutes.
+And that concludes our video on STEMI.

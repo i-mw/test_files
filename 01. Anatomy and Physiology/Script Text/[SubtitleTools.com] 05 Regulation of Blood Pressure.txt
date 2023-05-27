@@ -1,0 +1,585 @@
+﻿File: 05 Regulation of Blood Pressure
+---
+
+Hello everyone and welcome to our module
+on regulation of blood pressure.
+Blood Pressure is the driving force for blood flow
+and normal blood pressure is required
+for perfusion of tissues in the body.
+However, as you likely know,
+your blood pressure can change
+depending on environmental conditions for example,
+when you take in more or less sodium and water,
+this could raise or lower your blood pressure.
+Turns out, however,
+that the body has a sophisticated set of mechanisms
+to keep the blood pressure relatively constant.
+The nervous system can modify the vascular system
+so that blood pressure stays relatively constant
+despite being in different environmental settings
+for blood pressure might go up and down for other reasons.
+In order for your brain to be able
+to control blood pressure,
+it first must sense the blood pressure.
+And the way this is done in the body
+is through structures called baroreceptors.
+Baroreceptors are found in a number of places in the body
+and they can be stretched when blood pressure rises,
+and when they are stretched, they send more signals
+to the central nervous system in the brain,
+and therefore the brain knows what your blood pressure is.
+The brain can then respond via the autonomic nervous system
+the sympathetic and parasympathetic systems
+to modify blood pressure
+and keep it relatively constant over time.
+There are a number of ways that
+the autonomic nervous system modifies blood pressure,
+the autonomic nervous system can change the heart rate
+and the contractility of the left ventricle.
+The nervous system can modify arterial tone,
+the degree of vasoconstriction and vasodilation
+can raise or lower the blood pressure.
+The autonomic nervous system can also
+modify the venous tone so your veins hold
+lots of blood volume under normal circumstances.
+When those veins constrict,
+we say that the body has increased venous tone,
+and this pushes blood volume out of the veins
+and into the heart and raises the preload
+to the left ventricle.
+And then finally, baroreceptors are also found
+in the kidneys and the kidneys can release more renin
+when the blood pressure changes
+and they want to maintain a normal blood pressure.
+The major baroreceptors that I'll talk about in this video
+are those that are found in the aortic arch
+and the carotid sinus.
+These baroreceptors are important for quick responses
+to changes in blood pressure,
+they allow a rapid response to the body
+via the autonomic nervous system.
+There are also baroreceptors found in the kidneys,
+which can modify renin release.
+These are part of a slower response
+to changes in blood pressure
+via the renin angiotensin aldosterone system,
+which I talk about in detail in some of the kidney videos.
+If you look at this drawing I've shown in the screen here,
+this is the aortic arch and this is where
+the aortic arch baroreceptors are found,
+and they can send signals to the brain
+to modify the output of the autonomic nervous system.
+It turns out that the baroreceptors in the aortic arch
+are best at sensing elevated blood pressure
+when your blood pressure rises,
+that's when these baroreceptors are most effective.
+They have relatively poor sensing of low blood pressure
+basically, when your blood pressure falls
+below the normal range, these baroreceptors
+aren't able to modify their signaling very much
+and therefore they do a poor job of telling the brain
+when there's very low blood pressure.
+The other baroreceptors are found in the carotid sinus
+shown here on the drawing.
+These are the most important baroreceptors overall,
+these baroreceptors can modify their signals to the brain
+over a much wider range of blood pressure
+compared with the aortic arch.
+And they are useful, therefore,
+for sensing both low and high blood pressure
+and directing the autonomic nervous system to respond.
+Shown in this slide is a schematic of how the body responds
+to changes in blood pressure.
+And I'll use this schematic to talk about
+a number of different physiologic situations.
+So your blood pressure is sensed by the aortic arch
+and the carotid sinus as we just described.
+Those signals from those baroreceptors are sent to the brain
+via efferent fibers.
+Anytime you hear of an afferent nerve fiber,
+that is a fiber that is arriving
+at the brain with information.
+The carotid sinus sends its signals via cranial nerve nine,
+the glossopharyngeal nerve.
+The aortic arch sends its signals
+via cranial nerve vagus nerve.
+Once those signals arrive in the brain,
+the sympathetic and parasympathetic branches
+of the autonomic nervous system are modified to respond.
+Those systems respond via efferent fibers.
+Anytime you hear of an efferent nerve fiber,
+that is a nerve fiber exiting the brain.
+You can just remember afferent for arrives
+and efferent for exits.
+The portion of the brain that senses the signals
+coming from baroreceptors in the carotid sinus
+and aortic arch is called the nucleus solitarius
+and it's found in the medulla.
+It sends signals via those efferent fibers
+of the autonomic nervous system that direct the response
+to changes in blood pressure.
+These are responses like constriction
+or dilation of veins and arteries
+or changes in heart rate and contractility.
+So let's go through some physiologic changes
+and talk about how this system responds.
+So first, let's imagine that your blood pressure goes up.
+Maybe you're very angry at someone
+and your blood pressure starts to get high,
+how will the body respond?
+Well, first of all that high blood pressure
+is sensed in the kidney,
+which can modify salt and water retention
+via the renin angiotensin aldosterone system.
+That's a much slower response,
+and not a major part of the quick response
+to short term elevations and blood pressure.
+The faster responses come from the aortic arch
+and the carotid sinus which will both sense
+the high blood pressure and signal the brain
+via the vagus nerve and the colossal pharyngeal nerve.
+The sympathetic and parasympathetic systems
+will then respond and what they will do
+is arteries will dilate,
+this will bring the blood pressure down,
+veins will dilate, this will pull more blood
+in the venous system and reduce the preload
+to the left ventricle and that will lower
+the blood pressure.
+And in the heart, these systems will lower the heart rate
+and decrease the contractility
+so the combined effect of all these changes
+is that your blood pressure will then be brought down
+once it is sensed by the systems.
+Now let's talk about what happens when there is hemorrhage
+and loss of blood.
+This will lower the blood pressure
+and the system will respond to the drop in blood pressure.
+So how will this take place?
+First of all the kidneys will sense
+the fall in blood pressure and they will respond
+by modifying the renin aldosterone system
+to increase salt and water retention.
+This is slow and takes longer time to occur,
+the quicker response occurs through the nervous system.
+So remember, the aortic arch is not great
+at sensing low blood pressure,
+so it won't be able to sense low blood pressure very well.
+But the carotid sinus is very good
+at sensing low blood pressure,
+and it will modify signals to the brain
+via the cranial nerve nine the glossopharyngeal nerve.
+This will lead to an alteration in the output
+of the autonomic nervous system so veins will constrict
+and they will push blood volume into the heart,
+arteries will constrict and this will raise
+the blood pressure.
+And in the heart, the sympathetic nervous system
+will raise heart rate and contractility
+and this will also try to combat the falling blood pressure
+that occurs in the setting of hemorrhage.
+These systems can also be modified by carotid massage,
+so if you press on a patient's neck
+and massage the carotid sinus,
+you will trick the carotid sinus into thinking
+the blood pressure is high.
+Basically, you are manually stretching
+those baroreceptors the same way they would be stretched
+if the blood pressure was high.
+And in some cases, this happens to patients
+when they are shaving or buttoning a tight shirt
+and actually patients can faint
+because of the response to this system.
+So let's go through that response now.
+So when you massage the carotid sinus,
+you trick the system into thinking
+that the blood pressure has been raised.
+This is sensed by the aortic arch and the carotid sinus
+and then the brain responds through
+the autonomic nervous system the same way it responds
+to high blood pressure, veins dilate, arteries dilate,
+and the heart rate in the contractility fall.
+So all these things can reduce the blood pressure
+and that's the reason that patients sometimes have syncope
+when they press on their carotid sinus.
+One of the ways that physiologists initially determined
+how this system works was by performing studies on animals
+where they occluded the carotid artery.
+This would trick the carotid sinus into thinking
+the blood pressure was low.
+So let's talk about how one of these
+carotid occlusion studies would work.
+So if you occlude the carotid artery,
+you will trick the body into thinking blood pressure is low
+at the carotid sinus.
+So the carotid sinus will sense the low blood pressure
+and send signals via the glossopharyngeal nerve
+to the brain, the output of the autonomic nervous system
+will be modified and what the body will do
+is constrict veins to send blood volume back to the heart,
+constrict arteries and also raise
+the heart rate and contractility.
+So the net effect of occluding a carotid artery
+is that the heart rate goes up,
+blood vessels constrict and the blood pressure rises.
+You can also affect the system
+by severing cranial nerve nine,
+this can sometimes occur accidentally during surgery.
+So when you do this,
+the carotid sinus will stop sending signals to the brain
+and that will trick the brain into thinking
+that the blood pressure is low and the brain
+will respond the same way it always does
+to low blood pressure by constricting veins and arteries
+and raising the heart rate and contractility.
+So the result of severing the glossopharyngeal nerve
+is that the heart rate will go up,
+the blood vessels will vasoconstrict
+and the blood pressure will rise.
+And just for completeness sake,
+let's talk about what would happen
+if you severed cranial nerve 10.
+If this happened, the aortic arch would not be able
+to transmit signals to the brain
+and this could lead the brain to think that
+there was low blood pressure.
+Remember what I said before,
+that the aortic arch baroreceptors do a relatively poor job
+of signaling the brain that there is low blood pressure.
+So this really wouldn't have much effect
+on this system overall in terms of tricking the brain
+into thinking there's low blood pressure.
+The main consequence of severing cranial nerve 10
+is that you disrupt a parasympathetic innervation
+to the heart and the stomach.
+This is a procedure called a vagotomy,
+it leads to unopposed sympathetic cardiac stimulation.
+So basically at rest, your heart wants to beat
+at about 110 or 120 beats per minute,
+but it does not because it's constantly stimulated
+at a low level by the vagus nerve
+and that makes the resting heart rate about 70 to 80.
+If you disrupt the vagus nerve,
+then the resting heart rate will rise.
+In addition, if you disrupt the vagus nerve,
+there's no parasympathetic innervation to the stomach
+and this shuts down acid production.
+Years ago, before there were also medications,
+patients would have vagotomy,
+in other words, surgeons would cut their cranial nerve 10
+in order to shut down acid production in the stomach
+in an attempt to improve ulcers.
+But the big picture here to remember is that
+severing cranial nerve 10 has very little effect
+in the system overall,
+because the aortic arch isn't good
+at signaling low blood pressure,
+the main effect is to cut off parasympathetic innervation
+to the heart and the stomach.
+Now let's talk about coronary blood flow
+because blood flow in the coronary arteries
+has some special properties.
+So shown on the screen here is a classic slide
+that you can find in many physiology textbooks.
+At the top of the image is the aortic pressure
+and you can see that when the QRS complex occurs,
+systole begins and the aortic pressure rises.
+And this is when most blood flow
+in organs in the body occurs.
+As the pressure rises, that's more driving force
+and so if you look at blood flow
+through most organs in the body, it occurs in systole.
+The coronary arteries are special,
+this is coronary blood flow shown
+at the bottom of the screen.
+During systole, which is right here,
+you actually have relatively low flow
+in the coronary arteries and most of the blood flow
+in the coronary arteries occurs here,
+which is in diastole that's very unusual.
+The reason for this is because
+when the myocardium contracts in systole,
+it actually diminishes blood flow,
+that's why you see this funny shape to the curve here.
+And then blood flow goes up to a higher level in diastole
+so the coronary arteries are special
+in that most of the blood flow occurs in diastole.
+This also means that when the heart is tachycardic,
+for example in the setting of infection or trauma,
+diastole is shorter, there's less time spent and diastole,
+so blood flow in the coronary arteries actually declines
+in the setting of tachycardia
+because of less time in diastole.
+For this reason, the blood vessels have to respond
+by vasodilating and we'll talk more about that in a minute.
+Shown on the left side of the screen
+is a drawing of the coronary arteries.
+Note that they sit on the outside of the heart,
+this is called the epicardium.
+Furthest away from the epicardium is the subendocardium,
+this is this layer on the inside
+of the chambers of the heart
+like the left and right ventricle.
+It's important that you understand
+that the coronary arteries are out here
+and the subendocardium is the furthest away
+from those vessels.
+This means that the subendocardium receives
+relatively less blood flow compared to the epicardium
+and importantly, the sub endocardium
+is the most vulnerable to ischemia
+if there's a fallen coronary blood flow as occurs
+in angina and other ischemic syndromes,
+the most vulnerable portion is the subendocardium,
+this layer here on the inside of the chambers of the heart.
+This table lists some special features of the blood flow
+to different organs.
+So the lung receives 100% of the cardiac output.
+Remember, all of the cardiac output goes through the lungs,
+and then it drains to the left atrium and left ventricle
+and then goes to the body.
+The liver receives the largest portion
+of the systemic blood flow of any organ.
+The kidneys received the highest blood flow by weight.
+And then finally, the heart is famous as the organ
+that extracts the most oxygen from blood.
+The heart extracts about 80% of the oxygen from blood.
+What this means is that when the heart
+has increased demand for oxygen,
+it cannot meet that demand by taking
+more oxygen out of the blood because
+it's already maximally doing that.
+Therefore, the only way the heart
+can increase oxygen supplies through vasodilation,
+this is the major mechanism by which the heart increases
+the blood delivery to the myocardium.
+Some tissue beds and organs in the human body
+have a special property called autoregulation
+that allows these organs to maintain constant blood flow
+over a range of blood pressures.
+So when these organs when blood pressure goes up,
+this transiently increases the flow,
+but that increase in flow is sensed by the organ,
+and in response, blood vessels vasoconstrict
+and bring the flow back down to the normal range.
+And the way these tissue beds and organs work
+is that they use the levels of local metabolites
+to sense the blood pressure in the blood flow,
+and they use that to modify the degree of vasoconstriction.
+So what you would expect to see if you graphed blood flow
+versus blood pressure, for example,
+if blood pressure were on the x axis and flow were here,
+what you should see is as blood pressure goes up,
+flow should go up because blood pressure
+is the driving force.
+But in these organs what you see is that
+as blood pressure goes up, flow is constant
+and the reason is because of autoregulation.
+Shown on this table are some organs in the body
+and some details about how they auto regulate.
+So the heart and the brain are famous
+as excellent autoregulators,
+the heart can sense levels of carbon dioxide,
+adenosine and nitric oxide.
+And the brain can sense carbon dioxide and pH levels
+and these two organs use these elements in the bloodstream
+to determine the blood flow
+in the vasoconstrictor vasodilate
+to keep blood flow constant.
+The kidneys are also excellent at autoregulation,
+the kidneys can sense blood pressure.
+I mentioned earlier that the kidneys have baroreceptors,
+the kidneys can also sense the amount of sodium chloride
+being delivered to the macula densa.
+And through both of these mechanisms,
+the kidneys can maintain constant blood flow
+over a range of blood pressures.
+The lungs have some unusual local factors
+that lead to autoregulation.
+When there is hypoxia in the lungs,
+this leads to vasoconstriction.
+This is a unique property of the lungs,
+most tissue beds vasodilate in the setting of hypoxia
+to bring in more blood but not the lungs.
+The idea here is that when there is hypoxia in the lungs,
+the lungs do not want blood flow going to those regions
+because they may not have adequate ventilation.
+Skeletal muscle can auto regulate
+by sensing levels of lactate, adenosine and potassium.
+And then finally, I want to mention the skin,
+so the skin has poor autoregulatory capacity.
+Basically blood flow in the skin is very dependent
+on blood pressure in the body.
+The only exception I want to mention here
+is that the sympathetic nervous system
+innervates the skin so when your sympathetic nervous system
+is activated, your skin can become cool
+because the skin has innervation by the system,
+and vasoconstriction occurs.
+The last topic for this video is capillary fluid exchange.
+So as you know, blood flows into capillaries in the body
+and then exits the capillaries into the venous system.
+And as blood moves through those capillaries,
+blood and tissue elements need to move into
+and out of the capillaries.
+So what forces control this movement?
+Well, it turns out there are two forces
+that drive fluid into or out of capillaries.
+The first force is called the hydrostatic pressure,
+this is denoted by a capital letter P
+and down in my drawing here,
+I've got a capillary and the surrounding interstitial space,
+P sub c denotes the hydrostatic pressure in the capillary.
+P sub i denotes the hydrostatic pressure
+in the interstitial space.
+The hydrostatic pressure is the pressure generated
+by molecules against the capillary walls,
+this is like your blood pressure.
+And this pressure tends to be higher in the capillary
+than in the interstitial space
+so it tends to push fluid out of the capillaries.
+The second of the two forces that control fluid movement
+into and out of capillaries is the oncotic pressure,
+which is denoted by pi.
+Shown in my drawing I've got pi sub c here
+for the oncotic pressure in the capillaries,
+and pi sub i out here for the oncotic pressure
+in the interstitial space.
+Solutes, especially albumin,
+are found in the capillaries and they tend to draw fluid
+into the capillaries.
+Albumin cannot cross out of the capillaries,
+so it's gets stuck behind and there's a lot of albumin
+in here and that tends to draw fluid in.
+So this oncotic pressure tends to be higher
+in the capillaries and lower in the interstitial space,
+and it resists the movement of fluid out of the capillaries.
+So what we've got is hydrostatic pressure pushing fluid out,
+oncotic pressure resisting that movement out
+and trying to hold fluid in.
+The balance of these two forces determines whether fluid
+will move into capillaries and out of tissue beds
+or out of capillaries and in into tissue beds.
+So I've summarized these points in this slide,
+hydrostatic pressure is the pressure of fluid
+pushing against the walls of capillaries.
+And a high value for hydrostatic pressure
+drives fluid toward a low value for hydrostatic pressure.
+In contrast, oncotic pressure is the pressure
+of solutes pulling fluid into the capillaries.
+And one confusing thing about oncotic pressure
+is that a high pressure draws fluid away
+from a low pressure.
+This is different than the situation
+for hydrostatic pressure.
+And this will make more sense to you in a minute
+when I go through some numbers.
+So let's look at the bottom of the screen here.
+Now that we understand the two types of pressure,
+we can actually determine a net pressure driving fluid
+out of the capillaries that will be equal to the difference
+between hydrostatic pressure in the capillary
+and the interstitium minus the difference
+in the oncotic pressure in a capillary in the interstitium.
+This will give us a net pressure driving fluid
+out of the capillary,
+and then we can determine the flow
+which will be equal to the net pressure times a constant,
+which is related to the permeability of the capillary wall.
+So you may find this easier to understand
+if we just put some numbers in,
+so if we say that Pc is 100, and Pi is 50,
+and pi C is 50, and pi i is 30,
+then the net pressure difference is 50 minus 20 or 30.
+So we have a positive net pressure,
+which means fluid is going to move on balance
+out of the capillaries,
+because the hydrostatic pressure driving fluid out is 50
+and the oncotic pressure pulling fluid in is only 20.
+And then if we multiply that net pressure of 30
+by a permeability factor Kf, we could determine the flow.
+No one ever actually does this and calculates the flow,
+this is just to give you a concept
+of all the different factors that can dictate fluid movement
+into or out of capillaries.
+And one of the major clinical applications
+of the principle of capillary movement is edema,
+this is very common in a number of disorders.
+Edema occurs when there is excess fluid movement
+out of capillaries, this leads to tissue swelling.
+If you have excess movement out of capillaries
+in the lungs that causes pulmonary edema,
+this occurs in heart failure
+in a number of other conditions.
+If you have excess movement of fluid
+out of the systemic capillaries,
+then gravity will draw all that fluid down to the ankles
+and the lower extremities and you will get
+lower extremity edema as shown in this picture here.
+That also occurs in heart failure and some other disorders
+and all of these problems have to do with alterations
+of those variables leading to excess movement
+out of the capillaries and into tissue beds.
+So many students find this equation
+at the top of the screen confusing.
+Luckily, you don't really need to know it,
+all you need to know is what happens
+in different pathologic conditions to modify this equation
+and drive fluid out of capillaries.
+So when the capillary hydrostatic pressure goes up P sub c,
+that leads to pulmonary edema and lower extremity edema,
+that's what happens in heart failure.
+And I talked about this in the heart failure videos.
+If you have a loss of plasma proteins,
+you will get a very low pi sub c.
+That can happen in the nephrotic syndrome and liver failure
+where you have low levels of proteins in the blood.
+If the permeability of the capillary to fluids
+becomes increased, that can lead to edema,
+and that's what happens when patients are exposed to toxins
+or when they have certain types of infections or burns.
+In all these situations, capillary permeability rises,
+and that's the mechanism of edema formation.
+And then finally,
+if you have increased interstitial osmotic pressure,
+pi sub i, this will tend to draw fluid
+out of the capillaries and cause edema.
+And that's what happens when there's an obstruction
+of the lymphatic system.
+All the proteins in the interstitial space drain
+into the lymphatic system.
+If it's obstructed, proteins will build up out here
+and that will draw fluid out of the capillaries.
+I'll finish with this slide and mention a term
+that you will hear many times on your clinical rotations
+and that term is third spacing.
+This is a term we use to describe when patients
+have excess capillary leak for any reason.
+So this term gets its name because the intracellular fluid
+is said to be the first space,
+that's about two thirds of your body fluid.
+The extracellular fluid is the second space,
+it's about one third of your body fluid.
+So the third space are spaces in the body
+where fluid should not be,
+they normally have no body volume,
+but they will accumulate fluid
+in certain pathologic conditions.
+So on your clinical rotations,
+you will hear residents in attending say,
+"This patient is third spacing."
+What they mean is fluid is moving into places
+where it should not be, for example,
+the patient may have pleural effusions
+or ascites or cerebral edema.
+They may have low intravascular volume,
+but high total volume because all of the volume
+is found in the tissue beds.
+And there are a number of systemic inflammatory conditions
+like post-op state or sepsis,
+where basically all the capillaries in the body
+begin to leak and that's when third spacing occurs.
+So I say this to you now, just so you've heard this term
+when you get to your clinical rotations.
+And that concludes our video
+on regulation of blood pressure.

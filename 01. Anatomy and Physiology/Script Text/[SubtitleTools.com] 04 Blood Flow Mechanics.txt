@@ -1,0 +1,822 @@
+﻿File: 04 Blood Flow Mechanics
+---
+
+Hello everyone and welcome to our module
+on blood flow mechanics.
+There are lots of mathematical equations
+that describe the flow of fluids through vessels
+like blood vessels in the body.
+But there are basically two that have importance
+when it comes to cardiovascular physiology.
+So the first important equation
+that has to do with blood flow through vessels
+is simply called the flow equation.
+And it derives from Ohm's law.
+So you probably learned Ohm's law
+as it relates to electricity in a physics class.
+But it also relates to fluid mechanics and blood flow.
+So Ohm's law says that the voltage
+in an electrical circuit is equal to the current I
+times the resistance R.
+This is just basically a simple expression of a fact
+that if you want to drive flow through a system,
+whether it's electricity or fluid flow.
+The amount of energy you need, that's the voltage.
+Is equal to how fast you wanna go.
+That's the current times the resistance to flow, that's R.
+So we can modify Ohm's law and apply it to fluid flow
+like the flow of blood through a blood vessel.
+And if we apply it to fluid flow,
+the change in pressure in a system
+is equal to the flow rate Q
+times the resistance R.
+And this equation is often applied to the body as a whole.
+Because the entire cardiac output
+flows through the body as a whole.
+And therefore the resistance to flow
+is equal to the total resistance of blood vessels
+in the body.
+And we'll talk more about this later on in this video.
+So when we're talking about the body as a whole,
+the change in pressure as blood flows through the body
+is equal to the cardiac output
+times what's known as the TPR.
+TPR is total peripheral resistance.
+It's the sum of the resistances to flow of all the vessels
+in the body.
+So if we put this all together,
+we get the flow equation.
+Which says delta P equals cardiac output times TPR.
+And we'll be coming back to this more and more
+throughout the course of this video.
+And just to make this more clear,
+let's imagine that we have a blood vessel.
+And let's imagine that we have a pressure of 10
+as blood flows into the vessel.
+And let's imagine that when blood flows out of the vessel,
+we have a pressure of five.
+This change in pressure of five
+is equal to the flow rate Q,
+the flow rate of fluid moving through that vessel,
+times the resistance R.
+That's the flow equation.
+We're gonna come back to this
+more and more as we go through this video today.
+The second equation that's important
+for the physiologic flow of blood through the body
+is simply a geometry equation.
+So the velocity of blood moving through blood vessels,
+times the area of the blood vessels
+is equal to the flow rate.
+So this is just a mathematical geometrical sort of equation.
+The velocity in meters per second times the area
+in meters squared equals the flow rate
+in meters cubed per second.
+So just like the flow equation,
+we'll come back to this geometrical equation
+later on in this video.
+Now let's talk about two important concepts
+that relate to the flow of blood
+through vessels in the body.
+And those are the concepts of resistance
+and compliance of blood vessels.
+When blood flows into a blood vessel,
+some of those vessels are very, very stiff.
+Sort of like a lead pipe.
+Other vessels are very distensible and stretchy.
+And they can stretch to absorb the fluid
+as it moves through the vessel.
+Vessels that are very stiff have a high resistance to flow.
+And they also have a low compliance.
+The term compliance means the distensibility of vessels.
+And resistance and compliance are related.
+So stiff vessels have a high resistance to flow
+and a low compliance.
+They are not very stretchy at all.
+Stretchy vessels have a low resistance to flow
+and a high compliance.
+And these are the two concepts of resistance and compliance
+that are important to blood flow mechanics.
+High resistance vessels tend to have a low compliance
+and vice versa.
+One of the classic applications of the concept of compliance
+to cardiovascular physiology is the pulse pressure.
+The pulse pressure is the systolic blood pressure
+minus the diastolic blood pressure.
+And in a normal patient,
+with a blood pressure of one 20 over 80,
+the pulse pressure would be equal to 40.
+It turns out as we age,
+older patients develop an increase in the pulse pressure.
+It also turns out that patients with hypertension
+develop an increase in the pulse pressure.
+And the reason for this is because older patients
+and hypertensive patients have a change
+in their vessel compliance.
+They have decreased compliance of their blood vessels,
+and this leads to a rise in the pulse pressure.
+To understand this better you need to appreciate
+that the compliance of a blood vessel
+can actually be calculated as the change in volume
+divided by the change in pressure.
+So let's consider a stiff blood vessel.
+Which as we said before, has a very low compliance.
+These types of vessels have a high pulse pressure.
+So why is that the case?
+That's because a small change in volume
+is all you get for a given pressure applied to the walls.
+Let's look at this equation
+at the bottom of the screen here.
+So the compliance is equal to the change in volume
+in a blood vessel divided by the change in pressure.
+If we rearrange this for the delta P
+we see that the delta P is equal to the change in volume
+divided by the compliance.
+Now any blood vessel needs to get a constant change
+in volume through that vessel.
+Think about your body.
+You need to get your entire cardiac output
+through your body,
+no matter what the compliance of the vessels is.
+So if you wanna get that same change in volume,
+through a set of blood vessels,
+that has a very low compliance.
+The only way you are going to do this
+is by raising the change in pressure
+as blood moves through that vessel.
+So by this equation,
+you can see that when the compliance goes down,
+the delta P for a blood vessel must go up
+in order to move the same volume through that blood vessel.
+And that's why the pulse pressure increases
+when you have stiff vessels that have low compliance.
+The opposite is true for stretchy vessels.
+Stretchy vessels have a high compliance
+and they tend to have a low pulse pressure.
+That's because you get a large change in volume
+for any given pressure applied to the walls.
+And here's one more way you can think about this
+to keep it straight in your mind.
+The pulse pressure varies with vessel compliance
+as we've been talking about.
+And stiff vessels have a low compliance.
+So let's imagine we've got a very distensible vessel,
+a stretchy vessel,
+and we shove a bunch of blood into that vessel.
+Well, because the vessel is stretchy,
+it can absorb the blood volume
+without increasing the pressure so much.
+So we get a normal blood pressure
+and a normal pulse pressure
+like 120 over 80 with a pulse pressure of 40.
+Now let's imagine we've got a very stiff, rigid vessel.
+You tend to find vessels like this in older patients
+and patients with hypertension.
+Well now when we shove this blood volume
+and the vessel cannot stretch and distend.
+Therefore the pressure inside the vessel goes up a lot.
+These molecules are being packed close together
+because the vessel cannot stretch.
+Therefore we get a higher pulse pressure
+and we get a blood pressure like 170 over 100
+with a pulse pressure of 70.
+This is what you see in older patients
+and patients with hypertension.
+It all ties back to the concept of compliance.
+Now let's go back to that flow equation
+I talked about at the beginning of this module
+and talk in more detail about the concept
+of total peripheral resistance.
+So like I told you at the beginning of this video,
+the flow equation States that delta P
+is equal to blood flow times resistance.
+And when we're talking about the entire body,
+the blood flow through the entire body
+is the cardiac output.
+And the resistance to flow,
+the resistance contributed by all the vessels
+and organs in the body
+is called a total peripheral resistance.
+And any time this total peripheral resistance goes up,
+it means the heart has to generate more pressure
+to maintain flow.
+In other words if peripheral resistance goes up,
+and we wanna keep the cardiac output constant,
+than we have to raise the driving pressure.
+And when the heart needs to create more pressure,
+it means the heart has to do more work.
+So anytime the peripheral resistance goes up,
+anytime the total peripheral resistance
+of the body increases,
+the heart has to do more work to drive
+the normal cardiac output through the body.
+So just to emphasize this point,
+when it's easy to push blood out of the heart,
+less oxygen is required by the myocardium.
+When there's an increase in the resistance to blood flow
+through the body.
+In other words when the total peripheral resistance goes up,
+then heart to do more work and the heart needs more oxygen.
+So what are the things in the body
+that affect the total peripheral resistance?
+In other words,
+what makes it harder for blood to flow out of the heart
+and through the body?
+Well the first thing is the types of vessels,
+the pipes and tubes.
+The second thing is the thickness of blood,
+and this is called the blood viscosity.
+So there are many different types of vessels
+in the human body.
+Some of them have very high resistance to blood flow,
+and others have a very low resistance to blood flow.
+And the way you can best appreciate this
+is by looking at the pressure change
+as blood flows through vessels in the body.
+So as blood leaves the heart and flows through the aorta,
+the blood pressure falls to about
+100 millimeters of mercury systolic.
+As that blood moves into the large arteries,
+there's only a tiny change in pressure,
+just a few millimeters of mercury.
+And this is because the large arteries
+provide very little resistance to flow.
+Remember what I said before.
+When there's high resistance to flow,
+you're going to have a high delta P
+or a big pressure change.
+If you've got a very low resistance of flow,
+there'll be a very small pressure change.
+And that's the case in large arteries.
+As that entire cardiac output moves
+from the large arteries to the small arteries,
+there's a pressure change
+of about 10 to 20 millimeters of mercury.
+But the biggest pressure change occurs
+when blood passes through the arterials.
+The pressure change across the arterials
+is about 35 millimeters of mercury.
+And I've highlighted this in red
+because you should remember that the arterials
+are the set of vessels in the body
+that provide the greatest resistance to flow.
+They are said to be resistance blood vessels.
+And the pressure change will always be highest
+across the arterials
+compared to other types of blood vessels
+that also see the entire cardiac output move through them.
+So I've summarized these points on this slide.
+The arterials are said to be the resistance vessels,
+they're the major determinant
+of the total peripheral resistance.
+There's a large pressure drop or large pressure change
+as blood flows across these vessels.
+And as you may know,
+the autonomic nervous system can modify the arterials
+and shrink them.
+That's called vasoconstriction.
+Or enlarge them, that's called vasodilation.
+And when these vessels shrink,
+the resistance goes up even more.
+And when these vessels dilate
+the total peripheral resistance falls.
+Viscosity is the thickness of blood.
+Think about the difference between water and maple syrup.
+Water has relatively low viscosity,
+and therefore it flows easily through a vessel
+with low resistance to flow.
+Maple syrup on the other hand is thick and sticky,
+and therefore it has more viscosity
+and greater difficulty flowing through a blood vessel.
+There will be more resistance to flow
+when pushing something like maple syrup
+through a blood vessel.
+Most of the blood in our body is made up of water
+and the viscosity is relatively low.
+But there are a couple of pathologic conditions
+where the viscosity may be higher or lower.
+And this can affect the resistance to flow.
+So first of all,
+patients who are anemic have relatively fewer red cells
+in their blood.
+And this can lower the viscosity
+and therefore lower the resistance to blood flow.
+A number of pathologic conditions
+create a high viscosity situation.
+First of all, polycythemia.
+Patients with polycythemia have excess red cells,
+and sometimes also white blood cells and platelets.
+And this can raise the viscosity of blood
+and increase the resistance to flow.
+The same is true in multiple myeloma.
+Patients with this condition have lots of extra proteins
+in their blood and therefore the viscosity of blood
+can go up.
+And then finally spherocytosis is sort of famous
+for being a high viscosity situation
+in terms of blood flow mechanics.
+Patients with spherocytosis have red blood cells that form
+spheres, instead of the normal biconcave disk,
+these cells are more rigid and they don't deform normally
+as they move through capillaries.
+That makes it harder for blood
+to move through the vasculature.
+And that raises the viscosity of blood
+and the resistance to blood flow.
+Poiseulle was a French mathematician.
+And he created Poiseuille's law,
+which describes how the resistance to flow varies
+with certain elements of a system.
+And this law applies to blood flow through the human body.
+So remember that the flow equation says
+the change in pressure is equal
+to the flow rate times resistance.
+We can rearrange this equation and solve for resistance
+to flow and state that it's equal to the pressure change
+divided by the flow rate.
+Well Poiseuille's law further relates that resistance
+to various elements of a system.
+So Poiseuille's law says that resistance
+is equal to eight times the viscosity
+times the length of the tubes that blood is flowing through,
+divided PI times the radius of the blood vessels
+to the fourth power.
+So we've already talked about how when viscosity goes up,
+resistance to flow goes up.
+And that fits with Poiseuille's law.
+The other important element of Poiseuille's law
+is the radius here.
+Remember radius is in the denominator
+and it's raised to the fourth power.
+So changes in radius have a very powerful effect
+on resistance.
+When the radius of a blood vessel falls,
+the resistance to flow is going to go up a lot
+because radius is to the fourth power.
+When the radius to flow increases,
+then the resistance to flow is going to fall significantly.
+Once again, because radius has raised to the fourth power.
+Now let's talk about series and parallel circuits.
+So the organs in the human body are arranged in parallel.
+And this is a very good thing
+because by arranging organs in parallel,
+you greatly reduce the resistance to flow.
+And this makes the heart more efficient
+because it doesn't have to generate so much blood pressure.
+So when blood leaves your heart.
+If our organs were arranged in series,
+the blood would then go to the kidneys, for example,
+and then to the gut and then to the liver.
+And then it would all come back to the heart.
+This would be bad because the resistance to flow
+in this system would be very, very high.
+Instead what happens is that blood leaves the heart
+and then it branches and flows through organs in parallel.
+So some goes up here, for example, through the kidneys.
+Some goes here through the gut.
+Some goes down here and goes through the liver.
+And then it all comes back together
+to reenter the heart and go to the lungs.
+These organs are arranged in parallel,
+and that is a much lower resistance of flow
+compared to in series.
+And that makes things easier for the heart.
+We can describe this mathematically
+because resistances to flow add up differently
+when structures are arranged in series
+compared to in parallel.
+So structures arranged in parallel
+have a total resistance that obeys this equation here.
+Where one over the total resistance
+equals one over the resistance of the first structure
+plus one over the second structure.
+In series resistance is add ups such that R total
+equals R one plus R two.
+So this is easier to understand if we put some numbers in.
+So let's suppose that we have two structures
+with a resistance of two and two.
+We'll just arbitrarily assign them the number two.
+What's the total R?
+Well if we arrange these structures in parallel
+like the human body
+then one over R total equals one over two
+plus one over two.
+And if you solve this, R total is equal to one.
+Now if we put those two structures in series,
+R total is our one plus R two.
+Which is two plus two plus four.
+So look at this,
+the same organs with the same resistance
+if arranged in parallel, have a resistance of one.
+If arranged in series, the resistance is four times higher.
+So once again,
+parallel arrangement of structures is much more efficient
+because it lowers the resistance to flow.
+And this is why the human body is set up this way.
+Now let's go back to the flow equation that we talked about
+at the beginning of this video,
+delta P is equal to flow rate times resistance.
+And let's talk about how you can use this
+to calculate resistance, cardiac output,
+or delta P for the body and the lungs.
+This is the way that the flow equation
+is often applied to the body and the lungs.
+And the reason it's so often applied to these two systems
+is because for both of these systems,
+Q is the cardiac output.
+The entire cardiac output goes through the lungs.
+And obviously the entire cardiac output
+goes through the body as a whole.
+So we can use the flow equation to estimate cardiac output.
+Or if we know the cardiac output,
+we can use the flow equation
+to estimate what the pressure change or the resistance is.
+So if we're going to apply the flow equation
+to the body as a whole,
+the pressure change as blood moves through the body
+as a whole is equal to the pressure in the aorta.
+In other words the arterial pressure
+minus the right atrial pressure.
+After blood has moved through all the organs
+and vessels in the body,
+it returns to the heart at a pressure equal
+to the right atrial pressure.
+The resistance for the body as a whole,
+as I said before, is the total peripheral resistance.
+You should know that it's also sometimes called
+the systemic vascular resistance or SVR.
+These two terms mean the same thing.
+And then if we're talking about the lungs,
+the pressure change as blood moves through the lungs
+is equal to the pressure in the pulmonary arteries
+minus the pressure in the left atrium.
+After blood moves through the lungs,
+it returns to the left atrium at a pressure
+equal to the left atrial pressure.
+And the resistance as blood moves through the lungs
+is called the pulmonary vascular resistance or PVR.
+Now there's a problem with what I've written
+on the screen here.
+As you may know a normal arterial pressure in the body
+is about 120 over 80.
+So what number are we going to use
+for the arterial pressure?
+We need a single number to plug into the flow equation.
+The same problem comes up in the pulmonary arteries.
+A normal pulmonary artery pressure is about 24 over 12.
+So what single number are we going to use
+for the flow equation?
+This is not so much of a problem in the right atrium
+or the left atrium.
+Pressure fluctuates slightly in the right atrium.
+But it's very close to a single number pressure
+of about six or five or so.
+In the left atrium the pressure
+also fluctuates very slightly
+but it's very close to a mean number of about 10 or so.
+So we don't have so much of a problem in the atria,
+but we do have a problem in the arteries.
+We need a single number to plug into the flow equation.
+So if we're going to use the flow equation
+and we need a value for the systemic arterial pressure
+or the pulmonary arterial pressure,
+we need to calculate the mean arterial pressure.
+And you might think that the mean arterial pressure
+should be halfway between the systolic
+and diastolic pressure,
+but it turns out that's not the case.
+The reason for this is because our body spends more time
+in diastole than systole.
+So the mean arterial pressure is calculated
+from the equation that mean arterial pressure
+is equal to diastolic blood pressure
+plus one third of the difference
+between systolic and diastolic pressure.
+So for the total body,
+if a patient had a normal arterial blood pressure
+of one 20 over 80,
+the mean arterial pressure would be 80.
+That's the diastolic pressure.
+Plus one third of the difference between 120 over 80,
+which is 40.
+And this would work out to 93.
+If we're talking about the lungs,
+and let's suppose a patient had a pulmonary artery pressure
+of 40 over 20.
+The mean pulmonary artery would be 20 plus one third of 20,
+and that equals 27.
+So this is how you calculate a mean arterial pressure.
+And this is what you need to do to use the flow equation
+for the lungs or the body.
+Because the pulmonary artery pressure
+and the systemic arterial pressure fluctuate a lot.
+You need a single number to plug into the flow equation.
+So now let's talk about how we would actually
+use the flow equation to estimate some values
+for the total body.
+So for the total body,
+the resistance is the total peripheral resistance.
+The change in pressure as blood flows through the total body
+is equal to the mean arterial pressure
+minus the right atrial pressure.
+And just to make this very clear,
+blood leaves the heart to go through the total body
+with a pressure of the mean arterial blood pressure.
+The blood then flows through the entire body.
+It flows through all the organs in the body,
+and then the blood goes back to the heart.
+And the pressure when it comes back to the heart
+is equal to the right atrial pressure.
+So the delta P is the difference between these two values.
+So suppose we have a normal cardiac output
+of five liters per minute,
+And then let's further suppose that a patient
+has a blood pressure of 155 over 80,
+which gives a mean arterial pressure of 105.
+And then let's suppose the right atrial pressure is five.
+From these numbers,
+we can calculate the total peripheral resistance.
+It's equal to the delta P divided by the cardiac output.
+This is all according to the flow equation.
+That's equal to the mean arterial pressure
+minus right atrial pressure divided by five.
+Which is 105 minus five over five or 20.
+And in board exams,
+they're always gonna give you numbers
+that work out very easily just like these.
+Notice that all the numbers you can basically calculate
+without a calculator and get an answer
+for the total peripheral resistance.
+We can do the same thing in the lungs.
+So in the lungs,
+the resistance is the pulmonary vascular resistance.
+The delta P is pulmonary artery pressure
+minus left atrial pressure.
+If we're given a cardiac output of five
+and a pulmonary artery pressure of 40 over 10,
+the mean pulmonary artery pressure is 20.
+The left atrial pressure has given as five.
+We can calculate the pulmonary vascular resistance.
+And if you plug all these numbers in,
+you will get a PVR that's equal to three.
+And in many disease states the PVR goes up.
+And there are many disease states
+where the TPR goes up or down.
+So this is why this flow equation is important.
+It helps us understand those disease states.
+And here I've summarized the variables that you need
+in order to apply the flow equation to either the lungs
+or the total body.
+So for both the lungs and the body,
+the flow rate is the cardiac output.
+The resistance to flow is PVR in the lungs
+and TPR in the body.
+The starting pressure as blood enters the system
+for the lungs is the pulmonary artery pressure.
+In the body, it's the mean aortic pressure.
+The ending pressure,
+which is the pressure as blood exits the system
+is the left atrial pressure for the lungs.
+And it's the right atrial pressure for the body.
+And then finally the delta P across the lungs
+is the mean pulmonary artery pressure
+minus left atrial pressure.
+For the body it's the mean aortic pressure
+minus right atrial pressure.
+Now let's go back to that geometric equation
+I described at the beginning of this video
+that relates velocity and area to flow rates.
+So like I talked about before,
+flow rate in meters cube per second
+is equal to velocity in meters per second
+times meters squared.
+And it turns out that area and velocity change
+as blood moves through different types of vessels.
+So the entire cardiac output has to move through the aorta
+and all the arterials and all the capillaries,
+and all the veins.
+All of these systems have the same flow rate.
+In other words the same volumetric flow rate
+of the cardiac output.
+But the different types of vessels have different areas
+and therefore different velocities.
+And any time the area for flow rate goes up,
+the velocity must go down according to this equation.
+So let's look at this table I've placed on the screen here
+describing the flow properties of different types
+of blood vessels.
+Flow is the same through all the types of blood vessels.
+There's no set that has higher or lower flow.
+All the types of blood vessels,
+arteries, veins, capillaries,
+have the entire cardiac output flowing through them.
+The total area for flow however,
+is different through different vessel types.
+The capillaries,
+it turns out have the highest area for flow.
+Even though capillaries are very, very small,
+there are millions of them in the body.
+And therefore the total area is very high.
+What this means is by this equation,
+when the area goes up in the capillaries,
+the velocity goes down.
+So the velocity in meters per second of blood flow
+through the capillaries is very slow.
+And that's actually very helpful for gas exchange.
+The lowest area for flow is in the large arteries.
+This is counterintuitive.
+These are large vessels so you might think they have
+a high area for flow,
+but they're actually relatively few of them.
+So when you sum up the total area,
+it's the smallest of all the different vessel types.
+Velocity is highest therefore,
+in the large arteries and lowest in the capillaries.
+It's basically the reverse of the situation for area.
+The resistance to flow as I told you before,
+is highest in the arterials.
+Those are resistance vessels,
+and they have the therefore the highest pressure drop
+as blood flows through them.
+The lowest resistance to flow is in the veins.
+And therefore the smallest pressure changes
+as blood flows through the veins.
+The most important thing to know about the veins
+is that they hold a large volume of blood.
+They're basically a storage basin for blood,
+and therefore in situations of volume loss,
+the veins can constrict and push more blood to the heart
+to help keep the volume status of the body norm.
+The last topic for this module is the law of Laplace.
+The law of Laplace explains the determinants of wall tension
+or wall stress.
+It can be applied to a blood vessel.
+But in this module we're gonna talk about
+how it applies to cardiac chambers like the left ventricle.
+The reason the law of Laplace is important for understanding
+the left ventricle of the heart,
+is because anything that raises the wall tension
+in the left ventricle will raise myocardial oxygen demand.
+And this can potentially cause ischemia or angina.
+So the law of Laplace States that the wall tension
+in the left ventricle is proportional
+to the pressure generated by the left ventricular chamber
+times the radius of the left ventricle,
+divided by two times the wall thickness.
+The letter H is used to denote wall thickness.
+So now let's talk about some pathologic processes
+that can raise the wall tension in the left ventricle
+via the law of Laplace.
+Anything that raises the afterload of the left ventricle
+will increase the pressure that must be generated
+by the left ventricular chamber.
+This occurs in the setting of hypertension
+and the aortic stenosis.
+These are the two classic conditions
+that raise the afterload on the left ventricle.
+Via the law of Laplace,
+when the afterload goes up.
+And the pressure that must be generated
+by the left ventricle goes up.
+The wall tension will rise
+because pressure is in the numerator.
+So when it goes up, the wall tension goes up.
+This means that the myocardial oxygen demand
+of the left ventricle will be increased
+in the setting of these conditions like hypertension
+and aortic stenosis via the law of Laplace.
+This is called pressure overload of the left ventricle.
+If the preload on the left ventricle rises significantly,
+this can stretch the chamber
+and increase the radius of the left ventricle.
+This will increase the wall tension
+via the lawful Laplace.
+Because when the radius goes up,
+the wall tension goes up.
+This is called volume overload of the left ventricle.
+The two classic conditions to cause this problem
+are chronic valvular disease from aortic
+or mitral regurgitation.
+In both of these valvular disorders,
+blood is leaking through either the aortic or mitral valve.
+And therefore the left ventricle has greater preload.
+And this can lead to increased wall tension
+via the law of Laplace.
+The law of Laplace also explains
+left ventricular hypertrophy,
+which is a compensatory mechanism of the left ventricle
+to decrease the wall tension
+in the left ventricular chamber.
+Anytime the wall thickness goes up,
+according to the law of Laplace,
+wall tension will go down.
+The force inside the left ventricular chamber
+is distributed over more mass
+when left ventricle hypertrophy occurs.
+And this is commonly seen in settings of chronic pressure
+or volume overload.
+In my field of cardiology when we take images of the heart
+of patients who have the aortic stenosis or hypertension,
+or chronic vascular disease,
+we see increased thickness of the walls of the heart.
+That is hypertrophy which is a compensatory mechanism
+of the left ventricle.
+There's lots of basic science research
+that looks at the cellular mechanisms
+by which wall tension drive the myocytes to hypertrophy.
+You don't need to know all that for step one,
+but you do need to be aware
+that when the left ventricle hypertrophies,
+it lowers the wall tension and compensates
+for the increased pressure or volume overload
+occurring inside the chamber.
+Now it turns out that there are two ways
+by which the left ventricle can hypertrophy
+in disease states.
+And it's very high yield to understand these
+so let's talk about this now.
+The first way the ventricle hypertrophies
+is called eccentric hypertrophy.
+And in eccentric hypertrophy
+basically what happens is the myocytes
+in the left ventricle become longer.
+And the reason they become longer
+is because more sarcomeres are added
+and they are added in series.
+Let's look at my drawings on the screen here.
+On the left side of the screen,
+I've drawn a normal LV cavity of normal size.
+And it's got some sarcomeres present.
+When eccentric hypertrophy occurs,
+the LV cavity becomes dilated
+and the myocytes become longer.
+So if you were to weigh this heart
+in the middle of the screen,
+it would weigh more than normal heart.
+That's because there is hypertrophy,
+and the left ventricular mass is increased.
+However if you measure the thickness of the walls,
+the wall thickness is not increased.
+And that's because the new sarcomeres
+are being added in series.
+The myocytes are growing longer,
+but they're not becoming thicker.
+This type hypertrophy classically occurs in situations
+where there is volume overload of the left ventricle.
+Basically when the left ventricle
+is flooded with blood volume.
+And the two classic valve conditions that cause this
+are the aortic regurgitation and mitral regurgitation.
+You can also see eccentric hypertrophy
+in many forms of cardiomyopathy.
+Including ischemic cardiomyopathy
+and non-ischemic cardiomyopathy.
+So when my patients with heart failure
+whoever reduced ejection fraction developed hypertrophy,
+the type of hypertrophy they usually have
+is eccentric hypertrophy.
+The second type of hypertrophy
+is called concentric hypertrophy.
+In contrast to eccentric hypertrophy,
+this typically occurs when the ventricle
+is pressure overloaded.
+And there are chronically high pressures in the ventricle.
+If you look at the drawing on the bottom of the screen here,
+we've once again,
+got our normal left ventricle
+on the left side of the screen.
+In concentric hypertrophy you get something
+like what I've shown in the middle of the screen.
+Once again, left ventricular mass is increased.
+However, in this case,
+the LV cavity size is smaller.
+And that's because these walls have become thicker.
+And the reason they become thicker
+is because sarcomeres are added in parallel.
+We've got increased myocyte size.
+But in this case it's because sarcomeres
+are added in parallel,
+and therefore the wall thickness goes up.
+And remember in eccentric hypertrophy,
+the wall thickness does not increase.
+So the two classic causes of concentric hypertrophy
+are systemic hypertension and aortic stenosis.
+In both of these conditions,
+the pressure inside the left ventricular cavity
+gets very high.
+And that leads to concentric hypertrophy.
+No one really understands the biochemical mechanisms
+that lead to eccentric hypertrophy
+in some cases and concentric hypertrophy in other cases.
+But the bottom line is these high pressure disorders
+like hypertension and the aortic stenosis
+are associated with concentric hypertrophy.
+In addition anytime you have concentric hypertrophy
+and thick walls of the left ventricle,
+you get decreased compliance and a stiff ventricle.
+And for that reason,
+in many cases of diastolic heart failure,
+which I talk about in the heart failure section,
+you see evidence of concentric hypertrophy
+when you do imaging of the heart.
+And that concludes our video on blood flow mechanics.

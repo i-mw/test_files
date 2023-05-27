@@ -1,0 +1,647 @@
+﻿File: 01 EKG Basics
+---
+
+Hello everyone
+and welcome to our module on EKG Basics.
+The EKG is a visual representation
+of electrical activity as it moves through the heart.
+So in order to understand EKGs,
+we need to review how electricity moves
+through the heart under normal conditions.
+So normally the SA node located
+on the right atrial free wall is the pacemaker of the heart.
+And it depolarizes and sends a wave
+of depolarization spreading two myocytes in the left atrium
+and the right atrium.
+From there, deportation funnels
+through the AAV node and then goes to the HIS-Bundle
+and then the left and right bundle branches.
+And finally it reaches the pre purkinje fibers
+which are embedded in the myocytes
+of the left ventricle and right ventricle.
+And when the purkinje fibers depolarize
+they lead to ventricular depolarization.
+Shown on the screen
+is a typical example of electrical activity
+as it moves through the heart
+as depicted by the EKG, the EKG picks
+up electrical activity and plots at versus time.
+So time is always the X axis
+and the Y axis is electrical activity.
+And anytime there's an electrical event in the heart,
+it can generate either a positive
+or negative deflection of the EKG.
+A positive deflection is upward.
+A negative deflection is downward.
+So each of the waves represent
+some electrical event in the heart.
+So let's go through what each of them represent right now.
+The P wave is the first event in the cardiac cycle
+and that represents atrial depolarization.
+The P wave is followed
+by this flat section of the EKG tracing.
+And that section is caused because it takes time
+for electricity to move through the AV node
+HIS-Bundle, bundle branches, and purkinje fibers.
+Once electricity moves through all of these structures,
+it reaches the ventricles.
+And when the ventricles depolarize,
+they generate the largest section on the EKG
+that's called the QRS complex
+and it represents ventricular depolarization.
+This complex can include
+a negative deflection called a Q Wave,
+a positive deflection called an R wave
+and another negative deflection called an S wave.
+Following the QRS complex
+there is something called the T wave
+which represents repolarization of the ventricle.
+You do not see a wave showing repolarization
+of the atria, that's because atrial repolarization occurs
+at the same time as the QRS complex, and therefore
+atrial repolarization is embedded within the QRS complex.
+So here's a normal 12 lead EKG
+and it's called a 12 lead EKG
+because there are 12 different recordings
+of the electrical activity of the heart.
+The leads each have a name, leads I, II,
+and III are always shown on the left side of the tracing.
+Next comes aVr, AVL and AVF.
+This is followed by the V leads, V1, two,
+and three and V4, five and V6.
+Along the bottom of the EKG,
+there are often one or more so-called rhythm strips here.
+V1 is shown as a rhythm strip
+and lead II as a rhythm strip.
+On these rhythm strips, multiple QRS complexes are recorded
+in a row so that you can better determine the heart rhythm.
+And I've expanded lead II at the top
+of the screen so that you can see
+that each lead has a P wave, a QRS complex, and a T wave
+just like we talked about on the last slide.
+So most students understand the P waves
+and the QRS complexes and what they represent,
+but what's often tricky to understand is what each
+of the different leads on the surface EKG represent.
+Notice that the QRS complex
+in lead II is all pointing upward.
+Notice that the QRS complex
+in lead aVr is all pointing downward.
+Notice that in lead V3,
+the QRS complex is pointing slightly upward
+and slightly downward.
+We have to explain this.
+All of these leads are recording depolarization
+of the same left ventricle.
+So why does lead II show the QRS complex
+as upward, lead aVr as downward
+and lead V3 as partly upward and partly downward?
+That's the second key point
+about EKG that we have to explain
+and that's what we're gonna talk about next.
+So let's go back to this drawing
+of electrical activity as it moves through the heart.
+And let's imagine that the left
+and right ventricles are depolarizing.
+When that happens,
+we have electrical activity moving
+in lots of different directions.
+Some is moving this way to depolarize the left ventricle,
+some is going this way to depolarize the right ventricle.
+But if we could sum up all those electrical forces,
+we would get a summation vector that looks like this.
+Each of the 12 different EKG leads is going to look
+at this summation vector from a different vantage point.
+And therefore each
+of the 12 leads is going to show the QRS complex
+which represents ventricular depolarization
+as a different shape, because it's looking
+at the same summation vector of forces
+from a different vantage point.
+To make this easier to understand,
+let's imagine we have a car moving down the street
+being watched by person one and person two.
+Person one will say that the car
+is moving away from them.
+Person two will say that the car is moving towards them.
+They're both correct.
+They're both watching the same phenomena.
+It's just that they are observing it
+from a different vantage point.
+And that's what each of the 12 leads
+on the EKG does, it observes electrical depolarization
+of cardiac structures from a different point of view.
+Here's another drawing of the heart.
+And once again,
+I shoot an arrow representing the summation vector
+of electricity, as it moves
+through cardiac structures.
+On this drawing,
+I've also shown the vantage point for all of the EKG leads.
+So let's see if we can make sense of this now.
+So lead aVr views electrical activity
+in the heart from the right side of the heart.
+This means that all electrical activity from the point
+of view of lead aVr is moving away from the lead.
+And when electrical activity moves away from a lead,
+it generates a negative deflection
+on the surface EKG.
+Contrast lead aVr with leads I and AVL.
+They view electrical activity
+from the left side of the heart.
+So they will see
+that summation vector of forces moving towards them.
+And when electrical activity moves towards an EKG lead
+it generates an upward deflection on the surface EKG.
+Leads II, III, and AVF view electrical activity
+from the inferior portion of the heart,
+and leads V1 through V6 view electrical activity
+across the heart with V1 being more towards the right side
+and V6 being more towards the left side.
+So now let's look at a normal 12 lead EKG
+and see if we can make sense of it.
+Here's lead aVr and notice
+that the QRS complex is going entirely downward,
+that's because lead aVr is positioned on the right side
+of the heart and it sees all electrical activity
+moving away from it.
+Lead V6 on the other hand
+is located on the left side of the heart.
+It sees all electrical activity moving towards it.
+Therefore the QRS complex is entirely upward.
+Lead V3 is in the middle.
+And so it has some
+of the QRS going upward in some going downward.
+So all of these leads are looking
+at the same electrical phenomenon.
+All the QRS complexes represent depolarization
+of the same ventricle, but they look different
+because each lead Is looking
+at this phenomenon from a different point of view.
+So here's a summary slide
+of the key points that we've just discussed.
+These are very important for you to understand
+in order to interpret EKGs.
+Key point number one is that the different waves
+like the P wave and the QRS complex represent repolarization
+and depolarization of structures in the heart.
+Key point number two is that EKGs have 12 leads
+and each lead watches the same thing
+but from a different vantage point.
+And when the electrical activity moves
+towards a lead, that generates an upward deflection,
+when it moves away
+from a lead, that generates a negative deflection.
+Let's briefly discuss cardiac pacemakers.
+As I mentioned earlier,
+the SA node is the dominant pacemaker
+of the heart under normal conditions.
+There are however other pacemakers that exist
+but they are slower.
+And therefore the SA node dominates them
+and controls the depolarization rate of the heart.
+However, if the SA node fails
+one of the other pacemakers can take over.
+So as you may know, a normal heart rate is about
+60 to a hundred beats per minute.
+That's the rate at which the SA node depolarizes.
+However, if the SA node were to fail for any reason,
+the AV node could begin to depolarize the heart
+but it can only do so at a rate
+of about 40 to 60 beats per minute.
+The HIS-Bundle,
+the bundle branches and the purkinje fibers
+can also potentially become pacemakers.
+However, they are at even slower rates
+of about 25 to 40 beats per minute.
+You should be aware that conduction velocity
+in other words, the speed with which electricity moves
+through the heart is a slowest in the AV node.
+This is very important physiologically,
+by slowing conduction through the AV node,
+the heart has more time
+for the ventricle to fill with blood.
+And this helps make the organ a more effective pump.
+Conduction velocity is fastest in the purkinje fibers
+and the conduction of electrical activity
+through the atrial and ventricular myocytes is
+in the middle between these two extremes.
+If we go back to this slide,
+the reason that the QRS complex does not follow immediately
+after the P wave is because it takes time
+for electrical activity to move through the AV node,
+HIS-Bundle, bundle branches and purkinje fibers.
+Most of this time is occupied
+by conduction moving through the AV node.
+That's because that's where conduction is slowest.
+Let's talk about how you can determine heart rate
+from the surface EKG.
+You can do this by figuring
+out how much time passes between two QRS complexes.
+Remember each QRS complex represents depolarization
+of the left ventricle.
+In other words, it represents a heartbeat.
+So the time
+between QRS complexes varies with the heart rate.
+And if you can figure out that time,
+you can calculate the heart rate.
+So the way this is done is by figuring
+out how many boxes pass between two QRS complexes.
+And there are two types of boxes.
+So-called big boxes are represented by the dark lines.
+I'm marking one big box with my pen here.
+Between each big box, our five smaller boxes.
+So the small boxes represent 40 milliseconds of time.
+And the big boxes represent 200 milliseconds of time.
+So if you want, you can count
+up how many milliseconds pass between two QRS complexes
+and do the math and calculate the heart rate.
+However, no one really does it that way.
+The way it's done is by using a quick method
+which involves figuring
+out how many big boxes pass between two QRS complexes.
+So to do this, you need to identify a QRS complex that falls
+on a solid line like this one right here,
+you then figure out
+how many big boxes pass before the next QRS complex.
+You can see that one passes two, three,
+so about three and a half, just a little
+under four big boxes pass before the next QRS complex.
+Once you know how many big boxes, you can determine
+the heart rate, if there were just one big box
+between the QRS complexes, the heart rate would be 300.
+If there were two, it would be 150.
+If there were three, it would be 100.
+Each additional big box represents a heart rate
+of 300 divided by the number of big boxes.
+So in other words, three to five big boxes
+between a QRS complex is a normal heart rate, a heart rate
+between 60 and 100.
+And that's what we've got here.
+We've got about three to four big boxes
+which represents a heart rate
+of somewhere around 75 or so a normal heart rate.
+And this is the simple way that everyone does
+to eyeball the heart rate.
+You just look at how many big boxes are
+between the QRS complexes, divide the number 300
+by the number of big boxes
+and that will estimate the heart rate for you.
+Next we're going to talk about something known as
+the QRS Axis,
+which is something you can determine from the EKG.
+And it's important in certain disease states.
+And in order to understand the QRS Axis,
+we have to go back
+to that summation vector of all the electrical forces
+moving through the heart that we talked about earlier.
+If the heart is normal and normally positioned in the chest,
+then the summation vector
+of electrical forces moving through to heart looks
+like this arrow I've shown on the screen here.
+Those electrical forces move down
+and towards the left ventricle,
+just like this arrow on the screen.
+Now let's suppose we took a grid
+and laid it directly over the heart and labeled it
+such that zero degrees was to the right positive,
+90 degrees was to the bottom plus 180 degrees
+was to the left and negative 90 degrees was to the top.
+If we did this, a normal QRS vector,
+meaning a QRS vector generated by normal depolarization
+of the SA node with a heart in the normal orientation
+inside the chest would generate an axis that was
+between minus 30 and positive 90 degrees.
+In other words, it would usually be
+in this bottom right hand quadrant here, or else,
+it could go a little bit up into the top left-hand quadrant
+but it would never go beyond negative 30 degrees.
+And this is what's called a normal QRS Axis.
+This is where the axis is located
+in patients who have normal hearts
+depolarizing under normal conditions.
+It turns out that there are a number
+of conditions that can shift the QRS Axis to the left.
+This is called a left axis deviation.
+This happens when the QRS Axis is
+between minus 30 and minus 90.
+There are a number of things that can do this.
+Some of them that are worth knowing
+include a left bundle branch block.
+This can also occur when you have a ventricular rhythm
+like ventricular tachycardia.
+This is a heart rhythm that is not originating
+in the SA node
+but instead is coming from the ventricle itself.
+There are also some conditions that can cause
+a right axis deviation.
+This occurs when the QRS Axis is between positive 90
+and plus 180, and some of the conditions that can do
+this include a right bundle branch block,
+right ventricular hypertrophy.
+And there are many others.
+With that in mind, let's talk about
+how you can determine the QRS Axis using the surface ECG.
+In order to do this, we're going to look
+at specific leads on the ECG and decide
+whether the QRS is pointing mostly up like this.
+That's a positive deflection or mostly downward
+which is a negative deflection.
+And we're gonna start by looking at lead I,
+lead I when there is a positive
+or upward deflection creates a vector
+of electricity going in this direction towards zero degrees.
+When lead I is negative, it creates a vector going
+in this direction away from zero degrees.
+The next lead we'll look at is lead AVF.
+Lead AVF is an inferior lead, when there is
+a positive deflection in lead AVF.
+That is a vector
+of electricity going downwards towards 90 degrees.
+And when there's a negative deflection in lead AVF,
+that is a vector going away from 90 degrees.
+So we can take these two vectors, the vector for lead AVF
+and the vector for lead I and sum them together.
+And we might get a vector, something like this
+and that is the QRS Axis, and I've cleared away my inks.
+So I can show you
+that a normal QRS Axis would have a summation
+vector somewhere between negative 30 and plus 90.
+And because of normal axis includes this area here
+from zero to minus 30 many people,
+instead of using lead AVF
+use lead to lead II, instead of going
+from plus 90 to minus 90
+is actually out here at plus 60 degrees.
+And so if you use lead V2 together with lead V1
+then any time both of those leads are positive
+you will have an axis somewhere in here, which is normal.
+So that's what many people do.
+If you've got a positive QRS vector in lead I,
+that means you've got a line going in this direction.
+And if you have a positive QRS vector in lead II,
+that means you have a line going in this direction.
+And therefore their summation is going to be somewhere
+in this range here, which is normal.
+Now in reality
+nobody ever calculates an exact number for the QRS Axis.
+Instead, most of us use a quick method to determine
+whether the axis is normal, leftward deviated,
+or rightward deviated.
+So let me go over that quick method now.
+To use the quick method you first glance
+at lead aVr, lead aVr should always be negative.
+If lead aVr is upright
+it usually means the limb leads are reversed.
+In other words, it means someone has put the leads
+on the patient incorrectly.
+So to use the quick method in actual practice
+you start by glancing
+at aVr to make sure the leads are properly positioned.
+And if they are, aVr will be negative
+as shown in this picture on the screen.
+Once you determine that the leads are placed appropriately,
+you then look at just two leads
+in the 12 EKG, leads one and two, if they're both positive
+like I've shown on the screen here,
+then the axis is between zero
+to 90 and the axis is normal.
+And most of the EKGs you'll look at, have a normal axis.
+So this is a quick way rapidly determine
+that the axis is normal
+and that you don't need to go any further looking
+for whether it's a left or right deviation.
+If they're not both positive
+then you have a left or right axis deviation
+and you need to figure out which one you have.
+For a left axis deviation, all you need to do is look
+at lead II, if lead II is negative,
+it means the axis is between minus 30 and minus 90
+and therefore you have a left axis deviation.
+The one exception to this is sometimes lead II will look
+like I've shown here where it's partly upward
+and partly downward.
+This is called a physiologic left axis, which is slightly
+to the left, but still within normal limits.
+To determine whether you have a right axis deviation
+all you need is lead I.
+If the QRS complex is negative in lead I
+like I've shown here, then you have a right axis deviation
+which is between 90 and 180 degrees.
+So here's a summary of the quick method
+which is what most cardiologists I know use
+in actual practice.
+You look at aVr quickly to make sure it's negative
+which tells you the leads have been placed properly.
+You then look at lead I and II
+if they're both positive, the axis is normal.
+If lead II is negative, you have left axis deviation.
+And if lead I is negative,
+you have right axis deviation.
+And I've shown you the shapes
+of all of these on the screen here
+so you can remember them.
+I'll finish this module by going
+through the different time intervals in the surface EKG.
+And I'll start with the PR interval.
+This is the time from the start
+of the P wave to the start of the QRS complex
+and a normal PR interval is 120 milliseconds
+to 200 milliseconds in duration.
+And it's very easy to identify PR prolongation
+with your eye. That's because remember what I told you
+before, a big box represents 200 milliseconds in time.
+So if the PR interval is longer than one big box
+in duration, thEn the PR interval is prolonged,
+and you can develop a prolonged PR interval
+from first degree AV block.
+And I talk about this
+and other forms of AV block in a separate video.
+You can also develop a short PR interval
+if you have a bypass track caused
+by the Wolf Parkinson white syndrome.
+And I'll talk about WPW in its own video as well.
+Next is the QRS interval.
+This is the time from the start
+of the QRS complex to the end of the QRS complex.
+And the normal QRS interval is less
+than 120 milliseconds in duration.
+And I told you before that a small box
+in the surface EKG represents 40 milliseconds.
+This means that a normal QRS complex should be less
+than three small boxes in duration.
+And if we look at this blown up image on the top right side
+of the screen, you can see that the QRS complex starts
+and ends before three small boxes have passed.
+Therefore, this is a normal QRS complex.
+And there are a number of causes of a prolonged QRS complex
+but some of the most common are bundle branch blocks.
+You develop a QRS interval prolongation
+in a right bundle or left bundle branch block.
+And in the video on AV and bundle branch blocks,
+I talk in detail
+about how to recognize right and left bundle branch blocks.
+Next is the Qt interval.
+This is the time from the start
+of the QRS complex to the end of the T wave.
+The Qt interval varies with your heart rate.
+So in order to determine whether a Qt interval is normal
+you need to determine the heart rate
+and then correct the Qt interval.
+This is not something I recommend you worry about doing
+as a medical student, a rule of thumb you can use, however,
+is that the T wave should end
+before you are halfway between two QRS complexes.
+So if we take the space
+between these two QRS complexes and mark the halfway point,
+you can see that the T wave
+in this example has finished before the halfway point.
+And that's what you see
+in a patient who has a normal Qt interval.
+There are relatively few causes of a short Qt interval
+but one that you should definitely know is hypercalcemia.
+On the CCG on the left side of the screen
+you can see that the T wave begins almost immediately
+after the QRS complex.
+There is no flat portion
+of the EKG between the QRS and the T wave.
+And this is what you can see
+in patients who have an elevated calcium level.
+There are a number of causes of a prolonged Qt interval.
+These include hypocalcemia.
+That's easy to remember.
+It's the opposite of the cause of a short Qt syndrome.
+Also a number of drugs
+especially anti-arrhythmics and also the long Qt syndrome
+which we'll talk about in a second.
+To understand why calcium affects the Qt interval,
+let's review the role of calcium
+in the myocyte action potential.
+Calcium is responsible
+for phase two of the myocyte action potential.
+This is called the plateau phase.
+And in this phase, calcium is moving into myocytes.
+In the setting of hypercalcemia,
+there's less driving force to move calcium into myocytes.
+So it takes longer for calcium to fill the cell.
+And this phase is going to continue until enough
+calcium has gotten inside of the myocytes,
+therefore in the setting of hypocalcemia, this plateau phase
+phase two is drawn out and it takes longer
+for myocytes to depolarize and repolarize.
+And that means that it will take longer
+for the Qt interval to occur because that phase
+of the EKG represents the time required
+for myocytes in the ventricles to depolarize and repolarize.
+There is a special form
+of ventricular tachycardia called Torsade de Pointes.
+This word means twisting of the points.
+And it's a form of ventricular arrhythmia that occurs
+with the QRS complexes getting smaller
+and then larger and then smaller again.
+And this is the feared outcome of Qt prolongation.
+If your Qt interval becomes prolonged,
+you will develop Torsade de Pointes
+which results in cardiac arrest and can result in death.
+And this is why anti-arrhythmic drugs
+which prolong the Qt interval are dangerous because
+if they prolong it too much, this arrhythmia will develop.
+And that's how patients can die
+from taking anti-arrhythmic drugs.
+You can also get torsade de pointes
+from hypokalemia and hypomagnesemia.
+This is not related to Qt prolongation.
+This is related to effects
+of these electrolyte abnormalities
+on ventricular depolarization.
+Rarely you can get
+torsade de pointes from hypocalcemia.
+It's interesting hypocalcemia prolongs your Qt interval.
+However, it's uncommon
+for hypocalcemia to lead to torsade de pointes.
+I told you that one of the causes of a prolonged Qt interval
+was something called the long Qt syndrome.
+There is a congenital disorder called
+the congenital long Qt syndrome that is caused
+by abnormal potassium and sodium channels in the heart.
+This is a very rare disorder
+but the reason they may ask you about it
+on the USMLE step one exam
+is because it's a way to test your underlying knowledge
+of the basic myocyte action potential.
+Shown in blue on the screen
+is a normal cardiac myocyte action potential.
+Shown in red is what the action potential can look
+like when either the sodium channels
+or the potassium channels are abnormal.
+Sodium channels are responsible
+for this phase of the action potential,
+potassium channels are responsible for this phase.
+If either the sodium or potassium channels are abnormal,
+the myocyte action potential can get drawn out.
+As I've shown in this red example on the screen,
+when it takes longer
+for myocytes to depolarize and repolarize,
+that results in a prolonged Qt interval on the surface EKG.
+And that's what happens to children born
+with the congenital long Qt syndrome caused
+by abnormal potassium or sodium channels.
+The way this may be presented in a board question is
+as a patient with a family history of sudden death.
+The reason there is a family history of sudden death is
+because the congenital long Qt syndrome runs
+in the family and other family members have died
+of torsade de pointes caused by a prolonged Qt interval.
+A classic scenario is a young patient who has
+recurrent seizures.
+The patient is not really having seizures.
+They're actually passing out from torsade de pointes
+and the EKG will show a long Qt interval.
+There is also a variant
+of the congenital long Qt syndrome that has been
+well-described called the Jervell and Lang-Nielsen Syndrome.
+This occurs in Norway and Sweden.
+It results in the long Qt syndrome
+in association with congenital deafness.
+It's very rare, but they sometimes ask you
+about this in board exams.
+Much more common than the congenital long Qt syndrome
+is the acquired long Qt syndrome.
+This is where a patient has a normal Qt interval
+on their EKG, but acquires a prolonged Qt interval
+because of a drug they're taking.
+This is commonly caused by a number of anti-arrhythmic drugs
+which I discussed in another video.
+It's also commonly caused by levofloxacin
+which is a fluocinolone, an antibiotic.
+It can also be caused by haldol, which is an anti-psychotic
+and it can be caused by many other drugs.
+And importantly, for families
+and family members who have the congenital long Qt syndrome
+they need to avoid all these drugs.
+If their Qt is prolonged at baseline
+from the long Qt syndrome, and then they take one
+of these drugs, it can be potentially fatal.
+Let me mention peaked T waves.
+These are T waves that are unusually tall
+like these I've shown on the screen here.
+This is classically seen in hyperkalemia.
+It can also occur very early on when patients
+develop ischemia.
+These are called hyperacute T waves
+and they often pre-seed ST Segment elevation
+in acute ischemia.
+Lastly, I'll mention U waves.
+This is a deflection that comes
+after the T-wave hence the name U wave.
+It's usually an upward deflection, just like the T-wave.
+The origin of U waves is not clear.
+One of the prevailing theories
+is that it might represent
+repolarization of the purkinje fibers
+although there are other theories.
+U waves can be seen
+on a normal EKG, but the classic situation
+in which prominent U waves are seen
+is in the setting of hypokalemia.
+And that concludes our module on EKG Basics.

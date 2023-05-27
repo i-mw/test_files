@@ -1,0 +1,438 @@
+﻿File: 01 Atherosclerosis
+---
+
+Hello everyone,
+and welcome to our module on atherosclerosis.
+Let's start with a little bit of vocabulary.
+Arteriosclerosis literally means hardening of the arteries.
+For centuries, people noticed that when they examined
+the arteries in cadavers,
+many times they were very hard and sort of crunchy.
+You may have seen this yourself in the arteries
+of your cadaver in the anatomy lab.
+And in the cardiology section,
+in the videos on hypertension,
+I talk about two types of arteriosclerosis
+that can result from longstanding high blood pressure.
+Those are hyaline arteriosclerosis
+and hyperplastic arteriosclerosis.
+In this video, we're going to focus, however,
+on atherosclerosis,
+which is a form of arteriosclerosis.
+It's one of the causes of hardening of the arteries,
+and this is the most common type.
+This is why most people develop
+hardening of the arteries as they age.
+Atherosclerosis means the growth of atheroma
+and atheroma is our plaques
+which accumulate on the arterial walls.
+So if this were a cross-section of an artery,
+in atherosclerosis, plaque begins to build up
+and narrow the lumen of that blood vessel,
+and that's what can lead to disease.
+It's a chronic inflammatory process,
+as we'll talk about in a minute.
+It involves macrophages especially but also T-cells.
+It also involves the accumulation of lipoproteins
+in the wall of the blood vessel, especially LDL.
+LDL is the so-called bad lipoprotein,
+and that's because it's associated with atherosclerosis.
+Atherosclerosis is the underlying cause
+of many, many common diseases.
+In my field, it causes myocardial infarction
+and stable angina.
+It can lead to stroke.
+It can also lead to peripheral vascular disease.
+On this slide is a drawing
+and also a biopsy of an artery with atherosclerosis.
+So let's start with the drawing on the left.
+At the top is a normal artery with no plaque.
+On the bottom is an artery that has been narrowed
+because of atherosclerotic plaque.
+And you can see this plaque buildup along the vessel wall
+and it is shrinking the lumen for blood flow
+to much smaller than it otherwise would be.
+Notice also that when you look
+at the plaque in cross-section,
+it predominantly affects one half of the vessel
+much more than the other, and this is typical.
+Usually these plaques are said to be eccentric,
+meaning they do not equally affect all sides
+of the vessel wall.
+So you can see the plaque's all built up over here,
+but there's none on this side of the artery.
+You can see the same thing when you look
+at the biopsy slide on the right.
+So this is what the artery should look like.
+I'm circling it with my pen,
+but you can see that there's plaque buildup
+much more predominantly on this side,
+but also some on this side
+and the blood vessel has been narrowed down
+to this tiny lumen for blood flow.
+Before we go any further,
+let's briefly review the structure of arteries.
+So arteries are made up of three layers.
+The intima is the inner most layer.
+It's a single layer of endothelial cells
+with a basement membrane.
+The media is the middle layer.
+It has smooth muscle cells, and it can also contain elastin,
+which we'll talk about in a minute.
+And then finally, the outer layer, or the adventicia,
+contains connective tissue.
+It also contains the blood vessels that supply the artery.
+These vessels are called the vasa vasorum of arteries,
+and this is also where you can find nerve fibers.
+Not all arteries in the body are the same.
+Some are called elastic and others are called muscular.
+The elastic arteries get their name
+because they are relatively stretchy.
+And that's because they have large amounts
+of a protein called elastin found in the media layer.
+This allows the vessels to stretch
+and expand in systole, when they fill with blood,
+and then in diastole, when the blood drains away,
+they can contract and become smaller.
+And this is the type of artery that's found in the aorta.
+Your aorta is a major elastic artery.
+You can also find this
+in the carotid arteries and the iliacs.
+The muscular arteries have layers
+of smooth muscle cell around them.
+And these are the types of arteries that will vasoconstrict
+or vasodilate to modify blood flow.
+And you may know, that the arterials
+are the major resistance vessels of the vascular system,
+and that's because they are the smallest muscular vessels,
+so they provide the most flow resistance,
+and therefore, when the arterials constrict or dilate,
+this has the greatest impact
+on the resistance to blood flow.
+So if you understand all that,
+then it's easy to understand which vessels
+are most effected by atherosclerosis.
+First of all, it affects large elastic arteries.
+So these are the aorta, the carotid arteries and the iliacs.
+And this is why many people develop plaque in their aorta.
+Many people develop carotid artery stenosis
+which can lead to strokes.
+And many patients develop iliac stenosis,
+which can lead to lower extremity vascular disease.
+The other type of blood vessel that develops atherosclerosis
+are medium-sized muscular arteries.
+And the main one here are the coronary arteries,
+but also the popliteal arteries in the leg.
+And because these vessels are commonly affected
+by atherosclerosis,
+that's why people develop coronary disease.
+Nobody knows exactly why atherosclerosis occurs,
+but there are a couple of underlying pathologic mechanisms
+that are well-described as contributors to atherosclerosis.
+And we're gonna go through these now.
+These are high yield for you to know for your boards.
+So the first one is endothelial injury or dysfunction.
+Exactly how this happens is not completely understood,
+but it's believed that this is the reason
+that certain risk factors promote atherosclerosis.
+So cigarette smoke, high blood pressure, high cholesterol,
+these are all associated
+with abnormal function of the endothelial layer.
+And it's believed that this endothelial dysfunction
+predisposes to the development of atherosclerosis.
+Another reason it is believed that endothelial dysfunction
+contributes to atherosclerosis
+is because plaque commonly forms
+at branch points and the origins of vessels,
+which are called the ostia of vessels.
+These are very common sites of plaque formation,
+and the reason this is believed to be the case
+is because there is turbulent flow at branch points
+and the origins of vessels,
+and turbulent flow has been shown to stress endothelium.
+Shown on the screen is a coronary angiogram
+from one of my patients.
+This is the left main artery right here
+and it branches into the LAD and the circumflex artery.
+This is a branch point.
+Black dye is filling the vessel.
+But if you notice here,
+at the branch between the left main LAD and circumflex,
+there's a white spot.
+That means there is no dye in that spot,
+and that's because there is a blood clot there, a thrombus.
+This is a very dangerous type of myocardial infarction.
+Thrombus is filling the branch point
+that supplies the circumflex and the LAD artery.
+And this is where unfortunately we commonly
+see myocardial infarctions in plaque,
+and that's because it's a branch point,
+and it also involves the origins of several blood vessels.
+And this is believed to be tied
+to underlying endothelial stress
+that occurs due to turbulent flow.
+Another key piece in the pathogenesis
+of atherosclerosis is lipids.
+LDL cholesterol particles accumulate
+in the intima layer of arteries,
+and there, they become oxidized by free radicals.
+Exactly how this happens is incompletely understood,
+but it is those oxidized LDL particles
+that are taken up by macrophages,
+and they can not be degraded.
+As a result, macrophages fill up with lipids
+and become something known as a foam cell,
+and these foam cells are found in atherosclerotic plaques.
+The next piece in the pathogenesis of atherosclerosis
+is chronic inflammation.
+This is believed to be a chronic inflammatory process.
+The reason this is believed to occur
+is because oxidized LDL damages the endothelium
+and smooth muscle cells in the artery wall.
+This leads to inflammation.
+In addition, macrophages release cytokines
+and that draws in more inflammatory cells.
+So for all of these reasons,
+chronic inflammation plays a part
+in the development of arthrosclerosis.
+And the final piece in the pathogenesis of atherosclerosis
+is smooth muscle cell proliferation.
+Smooth muscle cells are normally found in the media,
+but they can proliferate and grow into the intima
+in patients with atherosclerosis.
+And when this happens, they lay down extracellular matrix,
+which is one of the components of atherosclerotic plaque.
+And a key growth factor for driving
+smooth muscle cell proliferation is PDGF,
+which is platelet-derived growth factor.
+Increased activity of PDGF has been well-described
+in the basic science literature
+as a stimulus for smooth muscle cell proliferation
+that leads to atherosclerosis.
+People have studied the growth of plaques of atheroma
+in vessel walls over time,
+and there are a number of classic phases
+that you should know about.
+The first phase in development of atheroma
+is development of fatty streaks.
+These are small layers in the vessel wall.
+They contain macrophages filled with lipids,
+and they form a line or a streak along the vessel lumen.
+If you look at this slide on the screen here,
+this is a normal vessel on the left side.
+The fatty streak is shown on the right side,
+and it really doesn't look like much,
+except for a little bit of macrophages here
+in the wall that are filled with lipids.
+It does not impair blood flow.
+And you can find these in very, very young patients.
+It's been seen in children and adolescents.
+And the thing to know about these
+is they don't all progress.
+So anyone who has a serious atherosclerotic plaque
+once had a fatty streak in that location.
+However, not everyone that has fatty streaks
+is going to get plaque in that location later in life.
+From the fatty streak phase,
+growth progresses into the typical atherosclerotic plaque.
+These plaques have a thickened intimal layer
+with lipids accumulated in the vessel wall.
+A drawing of this is shown right here.
+They usually form in a patchy way
+along the wall of an artery.
+They rarely involve the entire wall.
+And this is why, as I told you before,
+plaques are usually said to be eccentric, not concentric.
+And this means that if you look
+down the lumen of a blood vessel,
+you're gonna see more plaque on one side of the vessel
+and less on the other.
+They rarely form in an even way
+around the entire blood vessel wall.
+And here's a picture just to put it all together.
+Initially, you have a normal vessel.
+You develop a fatty streak that progresses
+into an atherosclerotic or fibrofatty plaque,
+and eventually these plaques can rupture and ulcerate,
+and we'll talk more about that a little later.
+Those are called advanced or vulnerable plaques.
+Shown on this slide are the top five locations
+where plaques form.
+The number one spot is the abdominal aorta.
+But the thing to know about this blood vessel
+is it's very large.
+It's normally about three or four centimeters in size.
+So it's very hard for plaque to narrow this down
+to the point where it causes ischemia.
+You never see ischemia from plaque in the abdominal aorta.
+What you do see are aneurysms.
+So the plaque damages the blood vessel wall,
+and that leads to aneurysm formation.
+We'll talk about this in a minute,
+but abdominal aortic aneurysms are very common
+and that's a consequence of plaque or atherosclerosis
+in the abdominal aorta.
+The second most common location is the coronary arteries.
+In contrast to the aorta,
+these are very small, just a few millimeters in width.
+So it doesn't take much plaque to narrow these vessels,
+and that's why coronary artery disease is so common.
+After the coronary arteries,
+the next three locations are the popliteal arteries,
+the internal carotid artery,
+and finally the Circle of Willis.
+Now let's talk about some of the consequences
+of atherosclerotic plaque.
+The first one is ischemia.
+If the plaque narrows the vessel lumen
+so that blood flow is poor,
+that leads to ischemia in the tissue beyond the atheroma.
+Second consequence is plaque rupture.
+So in some cases, these plaques will rupture
+and that exposes substances within the plaque
+that are thrombogenic and a clot forms.
+And this can acutely close down a vessel.
+In other words, a vessel can go from having
+a 10 or 20% plaque that's not causing any trouble
+to being completely occluded
+within a matter of a few seconds.
+And this is how people develop STEMIs.
+It's also how people develop strokes
+because the artery can shut down
+or a piece of the thrombus can break off
+in the carotid artery, for example, and travel to the brain.
+It's also possible to have bleeding
+or hemorrhage into a plaque.
+These lesions have very small proliferating vessels.
+This is called neovascularization of plaque,
+and they can rupture,
+but it may be contained within the lesion
+and therefore the lesion can rapidly expand.
+So in my field of cardiology,
+we sometimes have people who come in for a stress test
+and pass their stress test.
+A week later, they develop chest pain
+and go to the cath lab.
+And we find that they have a lesion
+obstructing 90% of their vessel,
+and they ask why did this happen?
+And the reason is because between the stress test
+and the development of chest pain,
+they hemorrhaged into the lesion.
+And it grew from something that was very small,
+maybe only obstructing 10 or 20% of the lesion
+to something that was very large,
+maybe obstructing 80 or 90%.
+And then the final complication is aneurysms.
+So these lesions can damage
+the underlying media and weaken it,
+and an aneurysm can develop in the wall.
+And this is why plaque is associated
+with abdominal aortic aneurysms.
+As I told you before, the abdominal aorta
+is a very common spot for plaque formation.
+It's a big vessel.
+So plaque doesn't lead to ischemia,
+but it often leads to aneurysms.
+Because atherosclerosis is a chronic inflammatory process,
+it can lead to dystrophic calcification.
+I talk about dystrophic calcification
+in the video on pathologic calcification,
+but it's commonly the result of chronic inflammation
+and this includes atherosclerosis.
+So people who have atheromas often develop
+calcification within the atheroma from chronic inflammation.
+And this is the basis of taking CT scans
+to diagnose coronary artery disease.
+Shown on the screen is the heart from one of my patients
+who underwent a coronary CT scan.
+This is the left atrium right here.
+This is the left ventricle right here.
+And you can see this white material
+that traces the path of the LAD artery.
+That is evidence of calcification.
+And so when I see this in the CT scan at one of my patients,
+I know that they have coronary artery disease.
+It doesn't tell me how severe the disease is,
+but you know that it's present.
+And that's because of the calcification
+that resulted from chronic inflammation.
+I'll finish this video by talking about infarction,
+which can be a consequence of atherosclerosis,
+although there are other causes.
+Infarction means an area of ischemic necrosis.
+It's tissue areas that have died.
+The cells have undergone necrosis
+and the cause of the damage was ischemia.
+And it's classically taught
+that there are two types of infarction,
+so-called white infarctions and red infarctions.
+White infarcts are the much more common type.
+These occur when the arterial supply
+to a solid organ is shut off.
+These are very common in the heart
+when patients have myocardial ischemia.
+You can also see them when patients
+have ischemic damage in the kidneys or the spleen.
+The reason these organs classically develop white infarcts
+is because there's a limited ability in these organs
+for blood to seep into the damaged area from healthy tissue.
+Therefore, when the blood supply is shut off to one area,
+no blood goes there and the area becomes white.
+And that's why when you look
+at gross pathology of white infarcts,
+you see a pale area within the tissue.
+And this is a picture of a kidney
+that has suffered a renal infarction,
+and you can see that there's this white area.
+That's a white infarct.
+It's caused by ischemic necrosis.
+The second type of infarction is called a red infarct
+or a hemorrhagic infarct.
+And this is much less common than the white infarctions.
+In a red infarct, you still have ischemic necrosis.
+So cells are dying from ischemia.
+However, some blood is able to enter the ischemic tissue
+and give the tissue a red color.
+And that's why these are red infarcts, not white.
+There's a couple of reasons why this can occur.
+The first example is if the venous drainage
+from a tissue is blocked,
+and this classically occurs in testicular torsion.
+So in torsion, the testicle's blood cannot drain.
+So the blood backs up, ischemia develops,
+there's ischemic necrosis,
+but the testicle is not going to look white.
+It's going to look red because it's filled with blood.
+Second way this can occur is if there's infarction
+in a tissue with a dual blood supply.
+So when this happens, blood flows from a second vessel
+and floods the ischemic area.
+It's not enough blood flow to overcome the ischemia
+or to rescue the tissue
+that is undergoing ischemic necrosis.
+However, it is enough blood flow
+to give that area of tissue a red color.
+And the classic location for this is in the lungs.
+The lungs have a very diffused blood supply.
+So if there's an infarction to an area of the lung,
+blood will seep in from neighboring areas
+and give that infarction a red color,
+very different from the white color we saw
+when we talked about white infarcts.
+You can also see this in the small intestine
+where there's a dual blood supply there as well.
+And then the final reason that a red infarct can occur
+is if flow is re-established to a necrotic area.
+So if patients have a myocardial infarction,
+I just told you they should develop a white infarct,
+but if angioplasty is done
+and blood flow is restored to that necrotic tissue,
+it will now take on a red color.
+It won't look white anymore,
+and that's because you have restored blood flow.
+This is a picture of a lung infarction.
+And it's very easy to see why it's called a red infarct
+because it looks red, very different from the pale infarcts
+we talked about in the kidney and the heart.
+And that concludes our video on atherosclerosis.

@@ -1,0 +1,257 @@
+﻿File: 03 CV Response to Exercise
+---
+
+Hello everyone.
+And welcome to our module
+on the cardiovascular response to exercise.
+In this video,
+I'm going to go through the cardiovascular response
+to exercise.
+And by that, I mean,
+I'm going to discuss the physiologic changes
+that occur in the vascular system when you exercise.
+This is a very important application
+of basic principles of cardiac physiology.
+It's also commonly tested in very high yield
+for the USMLE step one exam.
+So when you exercise,
+the body's overall goal is to maximize the profusion
+to skeletal muscles in the heart,
+and to minimize the profusion to all other areas
+of the body.
+The initiator for this response is muscle hypoxia.
+When you begin exercising your tissue beds
+and your muscles become hypoxic,
+and that triggers the body's response
+and the mediator of that response
+is the sympathetic nervous system.
+It is what drives all the different changes
+that occur in the cardiovascular system.
+The process of the body's response to exercise begins
+with muscle contraction.
+When you start exercising,
+you contract your muscles,
+and this leads to the consumption of ATP.
+When you consume ATP,
+you then consume oxygen because you need more ATP
+for your muscle tissue.
+The result is local hypoxia in muscle tissue.
+And this leads to vasodilation,
+which is a very important intermediate step
+in the body's response to exercise.
+Vasodilation results because of multiple mediators
+that are released into the plasma in muscle tissue,
+which is hypoxic.
+This includes adenosine generated from ATP consumption,
+also lactate, carbon dioxide, and potassium
+among other mediators.
+The net result of the vasodilation in muscle tissue
+is a lowering of total peripheral resistance,
+which is a very important physiologic change
+that occurs with exercise.
+The fallen peripheral resistance leads
+to activation of the sympathetic nervous system,
+which leads to many of the physiologic changes associated
+with exercise.
+There's a rise in contractility and stroke volume.
+The heart rate goes up,
+but the net result of both of these changes,
+is arise in cardiac output.
+When the cardiac output goes up,
+you push more blood into the arterial system.
+This leads to a rise in the systolic blood pressure.
+In addition,
+there's vasoconstriction to some areas
+that are not important during exercise.
+Areas like the gut and the skin.
+This helps to redistribute blood to the important areas
+like the heart and the muscle.
+The blood pressure changes that occur with exercise
+are very high yield.
+So let's review those on this slide.
+The systolic blood pressure usually rises with exercise.
+This is because the cardiac output goes up
+that drives more blood into the arterial tree,
+and that raises the systolic blood pressure.
+Always remember that the primary determinant
+of the systolic blood pressure is the cardiac output.
+When the cardiac output goes up, the SBP usually rises.
+And when the cardiac output falls,
+the systolic pressure usually falls.
+The diastolic blood pressure with exercise,
+decreases slightly or stays normal.
+Why does this happen?
+Well, as we discussed,
+there's local dilation of skeletal muscles.
+And remember that the primary determinant
+of the diastolic blood pressure,
+is the peripheral resistance
+so that dilation can lower the peripheral resistance
+and that can decrease the diastolic blood pressure.
+So because you've got systolic pressure up
+and diastolic blood pressure is staying flat or going down,
+the net result is that you will have a widening
+of the pulse pressure,
+which is the difference between the two.
+So the pulse pressure goes up with exercise.
+And as we discussed previously,
+the total peripheral resistance goes down
+because of dilation of vessels in skeletal muscles.
+There are important changes to coronary artery perfusion
+that occurs part of the response to exercise.
+This is because the faster heart rate shortens diastole.
+Recall the coronary arteries are perfused during diastole,
+not systole like most arteries in the body.
+This means that when
+the faster heart rate shortens diastole,
+there is less coronary filling time.
+As a result,
+the coronary arteries must vasodilate
+in order to increase their blood flow.
+This is the only way to get more oxygen
+to myocardial tissue.
+Myocardial tissue cannot extract more oxygen
+because it already extracts the maximum oxygen
+from red blood cells at baseline.
+Other tissues in the body can take more oxygen
+from red cells when they need it,
+but the heart cannot do this
+because it is always extracting the maximum amount.
+Thus, the only way it can increase the oxygen delivery
+is by increasing the blood flow,
+and the only way it can do that,
+in the setting of a shorter diastole,
+is to increase the amount of coronary vasodilation.
+Your preload rises with exercise.
+This is because sympathetic stimulation,
+leads to venous contraction as we discussed previously.
+This will increase the preload and the end-diastolic volume.
+And this is another contributor
+to the rise in cardiac output,
+seen with exercise along with the increased heart rate
+and the contractility.
+The left ventricular ejection fraction,
+increases dramatically with exercise.
+If you look at the two moving images
+in the bottom of the screen,
+the left side is a patient before exercise,
+the right side is after exercise.
+You can see that before exercise,
+the left ventricle thickens and the walls come in,
+but there's still plenty of black left in the middle.
+On the right side, the heart is contracting so vigorously
+after exercise,
+that almost all the black in the middle is eliminated.
+I show you these pictures because this is an easy way
+to remember that the left ventricular ejection fraction
+goes up with exercise.
+The reason this happens is because
+there's more vigorous contraction in the setting of exercise
+and sympathetic stimulation.
+The major impact is decreasing the end-systolic volume
+as a result of increased contractility.
+There's minor changes on the end-diastolic volume.
+The reason is because there's more preload,
+which tends to raise the end-diastolic volume.
+However, there's less filling at fast heart rates.
+Thus, the change in the end-diastolic volume
+tends to be relatively minor and somewhat variable.
+However, the ejection fraction,
+if you look at the top right side of the screen,
+is dictated by the end-diastolic volume,
+minus the end-systolic volume over the end-diastolic volume.
+So if the end-systolic volume goes way down,
+it will make the EF go way up by this equation.
+There's one additional concept in cardiac physiology
+that we haven't discussed yet
+and it's particularly important in exercise.
+And that's the concept of lusitropy.
+Lusitropy is myocardial relaxation,
+it's the opposite of contractility.
+Contractility is how vigorously
+the walls of the left ventricle come together
+to push blood out of the ventricle
+into the order in systole.
+Lusitropy is how vigorously the walls
+of the left ventricle come apart in diastole.
+When they come apart,
+they suck in blood and raise the preload,
+which raises the cardiac output.
+Thus, when the degree of lusitropy increases,
+the left ventricle relaxes more vigorously.
+This pulls in more blood
+and raises a preload and raises contractility.
+And just like contractility,
+lusitropy is increased with exercise.
+This contributes to the increased preload
+seen with exercise,
+which leads to the rise in cardiac output.
+The key regulatory protein of lusitropy in the heart
+is called phospholamban.
+This regulatory protein is an inhibitor
+of a very important enzyme called SERCA.
+SERCA stands for the sarcoplasmic reticulum, calcium ATPase.
+And this enzyme regulates lusitropy in ventricular myocytes.
+To understand this,
+imagine we have the sarcoplasmic reticulum inside
+of ventricular myocyte.
+In order for relaxation to occur,
+the sarcoplasmic reticulum must pull calcium
+from the systole so that the myocyte can relax.
+SERCA facilitates uptake of calcium
+from the systole into the sarcoplasmic reticulum.
+And it is normally inhibited by phospholamban.
+However,
+beta adrenergic stimulation
+via the sympathetic nervous system
+can phosphorate phospholamban.
+This makes it stop inhibiting SERCA
+and it allows SERCA to take up calcium more vigorously,
+out of myocytes in the left ventricle.
+This leads to more rapid and more vigorous relaxation
+and an increase in lusitropy.
+Here's a picture to make this more clear.
+Here SERCA in the membrane of the sarcoplasmic reticulum.
+It is normally inhibited by phospholamban,
+however, sympathetic stimulation phosphorylates
+phospholamban via beta adrenergic stimulation.
+This inactivates phospholamban,
+it relieves the inhibitory effect,
+it allows SERCA to take up more calcium
+and thus there is more vigorous relaxation
+to the left ventricle,
+that leads to a rise in lusitropy
+and an increase in preload.
+I'll finish this video with this concept map,
+which summarizes all the changes
+that occur in exercise that you need to know
+for the step one exam.
+So when exercise begins, this leads to muscle hypoxia,
+which causes vasodilation.
+Vasodilation lowers the TPR,
+it lowers the afterload
+and that activates the sympathetic nervous system.
+In addition the lowering of afterload
+can decrease the diastolic blood pressure.
+At this point,
+the sympathetic nervous system becomes the mediator
+for all the physiologic changes that occur with exercise .
+In the peripheral vessels,
+there will be constriction of arterials
+to unimportant areas like the skin and the gut.
+There will be venous constriction,
+which will send blood back to the left ventricle,
+raising the preload and raising the end-diastolic volume.
+In the heart,
+the sympathetic activation will increase contractility
+and heart rate.
+The increased contractility will lower
+the end-systolic volume and raise the ejection fraction,
+as we saw in those echocardiogram images earlier.
+The higher heart rate,
+plus the increase in contractility,
+plus the increase in lusitropy,
+all contribute to a rise in cardiac output,
+and that raises the systolic blood pressure.
+And that concludes our video on
+the cardiovascular response to exercise.

@@ -1,0 +1,926 @@
+﻿File: 02 Cardiac Ischemia
+---
+
+Hello everyone and welcome to our module
+on Cardiac Ischemia.
+Cardiac ischemia is usually caused
+by coronary atherosclerosis.
+And when there is a narrowing of a coronary artery,
+this decreases the supply of oxygen to the myocardium.
+And any time the supply of oxygen is less than the demand,
+this leads to ischemia.
+So the hallmark of ischemia is an imbalance
+between oxygen supply and demand.
+And the typical symptoms that occur
+when patients develop cardiac ischemia are chest pain,
+which is called angina,
+dyspnea, diaphoresis,
+and there are many many other symptoms,
+but these are the common and classic symptoms
+of cardiac ischemia.
+There are a number of clinical syndromes
+that can result from coronary ischemia.
+And the first one we'll talk about is called stable angina.
+And stable angina,
+there is a stable atherosclerotic plaque
+that is obstructing blood flow in a coronary artery,
+important however, there's no plaque ulceration
+and no thrombus
+and this is in contrast to other ischemic syndromes
+we'll talk about in a minute.
+Now in order for symptoms to occur from a coronary plaque,
+that plaque must include at least 75% of the lumen.
+So if you look at the bottom of the screen,
+a normal vessel is shown here,
+and this leads to no symptoms.
+At the bottom we have a plaque that has grown
+to obstruct 75% or more of the lumen.
+When this happens,
+patients are generally comfortable
+and pain-free at rest,
+however when they exert themselves
+and the increased the myocardial oxygen
+demand that leads to exertional angina.
+And this is called stable angina for two reasons.
+First of all,
+the atherosclerotic plaque is stable
+and also the symptoms are stable.
+Patients with stable angina only gets symptoms with exertion
+and the symptoms go away with rest.
+And this is very different from patients
+with other coronary syndromes.
+Coronary ischemia can also present not as stable angina,
+but as what's known as an acute coronary syndrome.
+All of these syndromes are defined by rupture
+of an atherosclerotic plaque
+and formation of a thrombus.
+Now the thrombus that forms
+can cause a subtotal occlusion
+as drawn at the bottom left side of the screen.
+When this happens,
+patients may develop either unstable angina,
+which is anginal type chest pain
+that occurs in an unstable pattern,
+or they may develop a myocardial infarction.
+And the type of myocardial infarction that occurs
+with a subtotal occlusion
+is called a Non-ST elevation myocardial infarction.
+The acute coronary syndrome can also lead to total occlusion
+of the vessel with no blood flow beyond the occlusion,
+because the lumen is entirely occluded by the thrombus.
+In this case,
+there's a 100% occlusion of the vessel and no blood flow
+and this leads to
+an ST elevation myocardial infarction or STEMI.
+But all of these clinical syndromes,
+unstable angina NSTEMI and STEMI
+are called acute coronary syndrome
+because they all involve plaque rupture
+and thrombus formation.
+Sudden death unfortunately,
+is a common complication of coronary disease.
+Many patients develop a plaque rupture
+and that leads to ischemia,
+but before they come to medical attention,
+they develop an arrhythmia.
+And you want to remember that arrhythmias
+are usually the cause of sudden death
+related to ischemia.
+The ischemic myocardium is vulnerable
+to go into irregular rhythms,
+especially ventricular tachycardia
+and ventricular fibrillation
+and this can lead to sudden death.
+And in fact,
+coronary artery disease is the most common cause
+of sudden death in adults.
+In younger patients,
+the most common cause is hypertrophic cardiomyopathy,
+but most patients who have sudden death are older
+and among those patients,
+CAD is the most common cause.
+The most important risk factor for developing angina
+or an acute coronary syndrome
+or a myocardial infarction
+is prior coronary disease.
+Patients who have had one episode of coronary disease
+are at very high risk of having another.
+There are also a number of conditions
+that are called coronary risk equivalents.
+And what this means is the risk of coronary disease
+among these groups is just as high
+as among patients who've had prior coronary disease.
+So coronary risk equivalents
+to coronary disease are diabetes,
+peripheral arterial disease
+and chronic kidney disease.
+Patients with any of these conditions
+have just as high risk of having coronary disease
+as a patient who has already had a coronary event.
+Other risk factors are shown on this slide.
+Hypertension is a risk factor.
+Hyperlipidemia is a risk factor.
+Family history of coronary disease is risk factor,
+and this is defined as a primary relative
+meaning mother, father,
+brother or sister,
+who was a male and had coronary disease
+before the age of 50,
+or who was a female and had coronary disease
+before the age of 60.
+Smoking is also a risk factor
+so is obesity and sedentary lifestyle.
+And these last two here,
+are considered the modifiable risk factors.
+There's nothing you can do about your family history,
+but you can modify your risk of coronary disease
+by not smoking,
+getting exercise and avoiding obesity.
+When you look at the extent of ischemia,
+meaning the extent of myocardial tissue
+affected by ischemia.
+There are two general pathologic patterns that are seen.
+The first pattern is called transmural ischemia.
+This is what a seen
+when there is complete 100% flow obstruction
+in a coronary artery as occurs in a STEMI.
+If you look at the bottom right side of the screen here,
+this is a drawing of what transmural ischemia looks like.
+So if a patient dies of a STEMI
+and you examine their heart in the pathology lab,
+you will see that an entire wall of the myocardium
+is ischemic and as necrosis.
+This is called transmural ischemia.
+And this occurs when a coronary vessel
+is completely occluded
+and completely deprives an entire wall
+of the myocardium of oxygen.
+The other pathologic pattern that's seen
+is called subendocardial ischemia.
+This occurs when there's flow obstruction,
+but some distal blood flow.
+You can see this among patients with stable angina,
+unstable angina or NSTEMI.
+So for example, if a patient dies of an NSTEMI,
+remember in NSTEMI there's some distal blood flow.
+If you examine that patient's heart in the path lab,
+you will see what's on the bottom left side of the screen,
+this is subendocardial ischemia.
+Note that the area of infarction in NSTEMI
+is not the entire wall,
+it's not transmural.
+It's limited to the subendocardium.
+The reason this happens is because the coronary arteries
+are located out here in the epicardium.
+The endocardial layer can get oxygen
+from the left ventricular cavity here,
+but the sub endocardial layer
+as to get its oxygen from the coronary artery.
+And that layer is the furthest away
+from the coronary artery.
+So it's the most vulnerable to ischemia.
+So when you have limitations in flow
+that are not complete or 100%,
+this is the area that becomes ischemic.
+So this area becomes ischemic
+in patients with stable angina
+and unstable angina.
+And in patients within NSTEMI,
+this is the area that develops infarction.
+And here are some pictures just to make this very clear,
+because this often comes up on your step one exams.
+Subendocardial ischemia occurs
+when there's a subtotal occlusion,
+there still some distal blood flow,
+but it's limited.
+This leads to subendocardial ischemia
+as shown in the drawing on the right.
+Transmural ischemia occurs
+when there's complete occlusion of a vessel.
+This is seen in STEMI.
+This leads to transmural ischemia
+as shown in the picture on the right.
+Now let's talk about the EKG changes
+that can be seen in ischemia.
+And we'll start by talking about ST depressions.
+This is a classic finding in subendocardial ischemia.
+Let's start by looking at this drawing
+on the left side of the screen.
+This is a drawing of a heart.
+This is the left ventricular cavity here.
+This is the right ventricular cavity here.
+And this blue portion here is an area
+of subendocardial ischemia.
+And when myocardial tissue becomes ischemia,
+it depolarizes.
+So this area of the heart is depolarized.
+Out here we have an ECG lead
+looking at that portion of the heart
+near the subendocardial ischemia.
+And the first thing that you have to understand
+to understand ST depressions
+is that anytime a wave of depolarization
+goes towards an ECG lead,
+this creates an upward deflection on the surface ECG
+and a wave of depolarization
+going away from an ECG lead
+creates a negative depolarization on the surface ECG.
+The next thing you need to understand
+is that this area of subendocardial ischemia
+is depolarized even at rest.
+And that creates little waves of depolarization
+going away from it.
+Even at rest there are waves of depolarization
+moving away from this portion of subendocardial ischemia.
+What that's gonna do in terms of this ECG lead here
+is it's going to elevate the baseline of the ECG.
+The dotted line here is where the normal baseline should be.
+But the baseline for the heart with subendocardial ischemia
+is up in the air or elevated.
+And the reason for that,
+is because the subendocardial section of myocardium
+is depolarized at rest
+and it's creating little waves of depolarization
+moving away from him.
+When the heart depolarizes,
+the whole thing becomes blue,
+not just the little portion of subendocardial ischemia,
+but everything becomes blue.
+This brings the baseline down to the dotted line
+where it should have started from,
+then the heart repolarizes
+and goes back to the state it started in
+with the baseline backup in the air.
+What you see when you look at the EKG is what's shown here.
+You see ST depressions,
+but in reality,
+these are caused by baseline ST elevations.
+But nevertheless the appearance they give
+in the surface ECG is ST segment depressions.
+And that's because of an area of subendocardial ischemia.
+Another EKG change you can see in subendocardial ischemia
+is a T wave inversion.
+This is shown on the ECG
+and the drawing on the right side of the screen.
+Note that the T waves are upside down.
+There is also evidence of ST segment depression here,
+this is the baseline,
+and this is the depressed ST segment.
+There are many causes of T wave inversions,
+other than coronary disease,
+although subendocardial ischemia
+can cause T wave inversions.
+You can see this when the intracerebral pressure
+is very high.
+This is called a cerebral T wave.
+You can see T wave invasions in resolving pericarditis.
+These are a normal finding in many patients
+with bundle branch blocks,
+and you can also see them when the left ventricle
+or right ventricle has hypertrophied.
+To understand the mechanism of T wave inversions,
+let's go back to our drawing of the heart
+with the left ventricle here
+and the right ventricle here.
+And this blue portion here,
+is a section of subendocardial ischemia.
+Normally the epicardium out here repolarizes first
+and the subendocardium over here, repolarizes last.
+This creates a wave of repolarization
+going in this direction.
+Now I told you before that waves of dipolarization
+create an upward deflection
+when they are going toward an ECG lead like this one.
+Waves of repolarization are the opposite.
+They create an upward deflection
+where they are going away from the ECG lead.
+So because we have repolarization not depolarization,
+repolarization going away from this ECG lead.
+The normal T wave is upright like this.
+When you have subendocardial ischemia
+that changes things,
+in this setting,
+this portion of the heart near the ischemic myocardium
+will repolarize first
+and this portion out here will repolarize last.
+That will create a wave of repolarization
+going towards the ECG lead.
+And that will create an inverted T wave on the surface ECG.
+Now let's talk about ST elevations,
+which are another ischemic EKG change.
+ST elevations are only seen in transmural ischemia.
+It's very important you understand this.
+Only with complete vessel occlusion
+and transmural ischemia,
+will you see an ST elevation.
+And that's why the infarctions
+caused by complete vessel occlusion and transmural ischemia
+are called ST elevation myocardial infarctions or STEMI.
+The cause of ST Elevations is similar
+to the cause of ST depressions.
+In this case, we have transmural ischemia.
+So an entire wall is depolarized at rest
+because of ischemia.
+That creates little waves of depolarization
+moving away from it at rest.
+The ECG lead will see this as waves moving away from it,
+and therefore the baseline of the ECG tracing
+will be reduced.
+Normally it should be the dotted line,
+but now it's lowered to this blue line here.
+When the entire myocardium depolarizes.
+We now return to the normal baseline,
+which is the dotted line.
+And then when we go back to the resting state,
+we go back to the blue line,
+which is below the normal dotted-line.
+What we see on the surface ECG
+is an ST segment elevation as shown in the drawing here.
+This is the baseline
+and the ST segment is up in the air or elevated.
+In reality the cause is that this baseline here
+is lower than it should be
+but nevertheless how it appears on the ECG
+is as an ST Elevation.
+And here's a drawing of some ST Elevations and lead V3
+and the surface ECG,
+just so you know what they look like.
+This is the baseline here,
+the ST Segment is up in the air here,
+so this is said to be elevated.
+When there is complete occlusion of a coronary artery
+and transmural infarction
+that leads to ST Elevations on the surface EKG
+and that's called an St. Elevation myocardial infarction,
+or STEMI.
+There is a pattern of EKG changes
+that the ECG goes through
+when a vessel occludes
+that I've shown on the screen here.
+So it begins as normal looking ECG on the left,
+acutely the ST Segment rises as shown here.
+That's what we talked about in the last slide.
+After a few hours,
+a Q wave will develop
+any time you see a Q wave that means there is an active
+or prior myocardial infarction
+in that portion of the heart.
+After about two days the T wave inverts
+between three and seven days,
+the ST Segments come back to baseline,
+but the T wave inversion persists.
+And then beyond about a week,
+the only thing that is left behind is the Q wave.
+So you can see Q waves in patients
+who had a myocardial infarction even years ago,
+it's evidence of an old myocardial infarction, but remember,
+you can also see them acutely,
+so the presence of a Q wave
+doesn't necessarily mean that the infarction is old
+there can be an acute function occurring.
+Hyperacute T waves are another finding
+sometimes seen in transmural ischemia.
+They're often seen very early
+sometimes before ST elevations.
+Hyperacute T waves are peaked T waves
+similar to what you can see in hyperkalemia.
+This is an example of them shown in the screen here.
+They often occur together with ST segment depressions.
+And if you look at these ST segments,
+this is the baseline.
+This is the ST segment,
+there's some ST depression here.
+In addition to the pointed or peaked T waves,
+these are called hyperacute T waves.
+Poor R Wave Progression is another finding
+that can be seen in coronary ischemia.
+So normally the R wave increases in size or amplitude,
+or it progresses in size or amplitude
+as you go from V1 to V6.
+So lead V1 typically has a very small R wave
+and a very deep S wave.
+By the time you get to V6,
+you usually have a tall R wave
+and very little S wave,
+that's the normal progression.
+Normally you should see an R wave
+that's larger than the S wave by lead V3.
+If you have poor progression,
+this is a sign of anterior ischemia.
+You can see this acutely with an anterior infarction,
+and you can see it in patients
+who had a prior infarction many years ago.
+And just by way of review on the screen here
+is a normal ECG this is the R wave,
+and this is the S wave.
+Here's a normal ECG and lead V1,
+notice that there's a very tiny R wave
+and then a deep S wave.
+When we get to V6,
+there's basically no S wave,
+it's all R wave.
+And as we go from V1 to V2 to V3 and onto V6,
+the R wave gets progressively bigger.
+By the time we get to V3,
+we have a taller R wave than we do an S wave.
+And by the time we get to V4,
+the R wave clearly dominates.
+This is a normal progression of the R wave.
+And here's an example of poor R wave progression.
+So notice that by the time we get to V3,
+we still have very tiny R waves and a very big S wave
+that persists into V4.
+By the time we get the V5,
+they're roughly equal,
+and only when we get to V6,
+do we see an R wave that's a little bit bigger
+than the S wave.
+This is called poor R wave progression.
+You can see this in patients
+who are having an acute anterior infarction.
+You can also see this in patients
+who have had a prior anterior wall infarction
+many years ago.
+I'm gonna briefly discuss
+the treatment of coronary artery disease.
+In order to understand the treatment,
+you need to understand the terms shown on this slide.
+Revascularization means to restore blood flow
+to the myocardium when there is a blockage.
+Angioplasty means to reshape a blood vessel.
+This can be done in a number of ways,
+but the most common way
+is through coronary stent implantation.
+Stents are small metal devices
+that can be in a coronary artery,
+and they basically smush plaque against the wall
+to widen the lumen so that blood can flow normally.
+And then finally coronary bypass surgery
+is a surgical procedure
+where the chest is opened up
+and bypass conduits are stitched in
+to deliver blood flow from the aorta beyond an obstruction
+in one of the coronary arteries.
+On the left side of the screen is a coronary angiogram
+from a patient before coronary angioplasty.
+In coronary angiography dye
+is injected into the coronary arteries
+and note that this black dye
+is filling the blood vessels.
+This is the LAD artery shown in the screen,
+and the LAD as a severe narrowing
+that you can see right here.
+Note that the black dye forms down to a pinpoint
+and then goes on to fill the distal vessel.
+That's a severe atherosclerotic narrowing.
+It's not complete because there is blood flow
+to the distal vessel.
+On the right is the same blood vessel.
+After a stent has been placed
+you can now see that the black dye fills the entire vessel,
+and there's no narrowing.
+This is an example of a revascularization procedure
+with a coronary stent.
+Shown on this slide is some of the terminology
+around coronary stents.
+So when we say we did an angioplasty,
+we mean we reshaped the vessel.
+And as I told you earlier,
+this is most commonly with a coronary stent,
+but there is another way to do it.
+Balloon angioplasty means inflating a balloon
+to smush plaque against the wall,
+and then deflating the balloon and removing it
+with no stent left behind.
+So rarely in the modern era,
+but more commonly years ago,
+simple balloon angioplasty was done.
+Now we most often place stents.
+When we perform balloon angioplasty or place a stent
+that is called a percutaneous coronary intervention or PCI.
+It gets the word percutaneous in its name
+because you go across the skin to enter a blood vessel,
+usually in the wrist or a groin,
+and then catheters are inserted in threaded up to the heart.
+And then finally,
+we usually just say a stent was placed
+to refer to implantation of a coronary stent.
+And this is a very common procedure,
+about 600,000 stents per year
+are planted in the United States.
+Here's a drawing from the web
+just to make this even more clear.
+So we have an occlusion of a coronary artery here.
+And if we look at it in cross section,
+we would see that much of the lumen is occluded by plaque,
+this yellow stuff here,
+we then take a wire and we thread it across the plaque.
+The wire holds a deflated balloon
+and a non expanded coronary stent.
+In other words, a collapsed coronary stent.
+The balloon is then inflated and when it's inflated,
+it pushes the plaque against the wall
+and in addition,
+it expands the metal stent.
+The balloon is then deflated and removed,
+but the stent is left behind.
+And now if you look at the coronary artery
+in cross-section,
+you see a widened artery with struts of the stent,
+and the plaque is smashed against the wall.
+That is coronary angioplasty with stent implantation,
+commonly done in the United States.
+Some patients have blockages
+that are either too extensive or too severe
+to be treated with angioplasty.
+And in this case, bypass surgery is an option.
+The technical name is coronary artery bypass surgery,
+but it's more commonly called a CABG.
+The idea here is that if you have a coronary artery
+with a plaque that's obstructing it,
+the surgeon will stitch another blood vessel
+beyond the obstruction
+that will deliver blood flow past the plaque.
+That's why it's called a bypass
+because you're bypassing the obstruction
+in the coronary artery.
+There are a couple of ways to do this.
+Many times the surgeons
+take the left internal mammary artery from the subclavian.
+They leave it attached to the subclavian
+and they attach the distal end to a coronary artery.
+This is called a Lima Graft.
+Surgeons also sometimes harvest the saphenous veins
+from the leg
+or the radial artery from the arm.
+And then they use those as conduits.
+They stitch one end to the order
+and the other end to a coronary artery
+beyond an obstruction.
+On this slide,
+I've blown up the picture from the last slide.
+So this is a Lima graft.
+It's connected to the subclavian artery up here,
+and the surgeon has stitched it into the LAD
+to supply blood flow to the distal LAD.
+Over here we've got saphenous vein or radiographs.
+You can see the surgeon has stitched them to the aorta.
+And then the other end is stitched
+to one of the other coronary arteries beyond an obstruction.
+The major indications for revascularization
+are shown in this slide.
+Angina is the most common revascularization
+indication in the United States.
+Second to that is myocardial infarction.
+Sometimes we revascularize patients
+with systolic dysfunction.
+They can have what's known as hibernating myocardium.
+So when the myocardium is severely deprived of oxygen,
+it can go into a hibernating state where it is still alive,
+but it is not contracting normally,
+in this situation when you restore blood flow,
+sometimes the systolic function
+and the left ventricular ejection fraction improves.
+Shown on the screen,
+is the progression of pathologic changes
+that you see after a myocardial infarction
+in the myocardium.
+So when there's a myocardial infarction
+in the first four hours,
+there are no changes that you can see grossly
+when you examine the heart.
+So if patients die within an hour or so
+from an arrhythmia after a myocardial infarction,
+you may actually find a normal heart a pathology.
+After about four hours grossly,
+the heart begins to look modeled,
+than if you examine the tissue under the microscope,
+you see evidence of necrosis and edema, hemorrhage.
+Between 12 and four hours grossly,
+the heart looks hyperemic,
+so it can be bright red,
+and you can see inflammation in the tissue
+surrounding the infarcted area.
+Between five and 10 days,
+the heart begins to look yellow grossly.
+If you examine pathologic specimens
+of patients who died between five and 10 days,
+you see a yellow portion of the heart,
+where there was no blood flow and microscopically,
+you see infiltration of that area with granulation tissue.
+And then by about seven weeks,
+the infarcted area is replaced with a gray-white scar,
+and you also see scar tissue under the microscope.
+From my point of view as a clinical cardiologist,
+however those pathologic changes
+are much less important
+than the complications of ischemia,
+there are a number of complications of ischemia,
+and they all tend to occur within specific timeframes.
+So there are certain complications in the first few days,
+other complications in the first week or so,
+and then finally,
+a set of complications that occurs many weeks or even months
+after a myocardial infarction.
+I mentioned this earlier,
+but in the first few days after myocardial infarction,
+the major cause of death is arrhythmia
+shown on the screen is ventricular tachycardia.
+This is a life-threatening arrhythmia.
+This commonly occurs in patients
+who have had a myocardial infarction,
+and this is the way they can die in the first four days.
+So if you're asked in a board question
+about what you should worry about
+shortly after a patient develops ischemia,
+the answer is a arrhythmias
+that is the most dangerous complication of ischemia
+early after an infarction.
+About five to 10 days after a myocardial infarction
+is when the infarcted tissue becomes necrotic
+and it lacks the normal strength of the myocardium
+and it's vulnerable to rupture.
+And this can lead to what are known
+as the mechanical complications of myocardial infarction.
+These are rarely seen in the modern era
+because we usually perform angioplasty quickly,
+and we don't allow the myocardium to become necrotic.
+But years ago,
+patients would have large infarctions
+and get large areas of necrosis in their left ventricle.
+And that could lead to the complications
+described in this slide.
+The first one is free wall rupture.
+This is rupture of one of the walls of the left ventricle.
+This is usually a fatal complication
+of myocardial infarction,
+it leads to sudden death.
+In rare cases,
+it can lead to blood surrounding the heart
+in the pericardium,
+and therefore can cause tamponade.
+Second mechanical complication
+is rupture of a papillary muscle.
+This will lead to acute mitral regurgitation,
+which if you've watched the video on murmurs,
+you should know causes a holosystolic murmur.
+Patients who have acute mitral regurgitation
+can develop heart failure
+and respiratory distress.
+And in the cardiac anatomy video,
+I talk about how papillary muscle rupture
+is much more common in inferior wall myocardial infarctions
+that's because the posteromedial papillary muscle
+as a single blood supply,
+usually from the right coronary artery.
+So when this artery is infarcted,
+that can lead to ischemia and necrosis
+of the posteromedial papillary muscle,
+and that can lead to rupture.
+And then the final mechanical complication
+is rupture of the ventricular septum.
+This leads to a VSD,
+potentially this can lead to a loud holosystolic murmur
+with a thrill.
+This is the classic sounds that are heard with a VSD
+and clinically this presents us hypotension,
+right heart failure with elevated
+jugular venous pressure and edema.
+All of these things are occurring
+because the right ventricle is being overloaded
+with blood from the left ventricle
+because of the hole in the ventricular septum.
+Weeks after a myocardial infarction,
+a ventricular aneurysm can form.
+And an aneurysm myocardial wall has been replaced
+with scar tissue
+and that scar tissue can bold outward.
+This is shown in this drawing in the screen here.
+This is the anterior wall here.
+You can see that it's thin and filled with scar tissue.
+It's not red like the normal myocardium.
+It's also bulging outward.
+That is an anterior wall aneurysm.
+And the problem here is that this wall of the heart
+is filled with scar tissue.
+So it's not going to contract.
+And when the myocardium contracts that keeps blood moving
+in this situation with an aneurysm
+blood can develop stasis in this portion
+right near the aneurysm
+that can lead to formation of a thrombus.
+In many of these patients with ventricular aneurysms
+develop thrombus,
+and they're at risk for strokes or peripheral embolism
+from the thrombus sitting in the aneurysm.
+To make this even more confusing
+at the medical student level,
+there is another complication of myocardial infarction
+called ventricular pseudoaneurysm.
+This is a wall rupture that is contained
+by a pericardium or scar tissue.
+And it's different from a true aneurysm
+like we talked about in the last side,
+because it's not surrounded by endocardium
+or myocardium instead,
+it's surrounded by something
+holding in the free wall rupture.
+So if this is the left ventricle
+and we develop scar tissue here from an infarction
+and that scar tissue matures,
+and then bulges outward, that's a true aneurysm.
+All the blood is still contained
+in the left ventricular cavity.
+In contrast in a pseudoaneurysm,
+what you have is a rupture in the wall
+and blood begins to leak out,
+but then the pericardium or some scar tissue
+near the point of rupture,
+kind of contains it and creates a little bulge outward.
+It's filled with blood.
+It's not surrounded by normal myocardial walls
+and this is called a pseudoaneurysm.
+These can be very dangerous because they may rupture.
+They sometimes present as chest pain or dyspnea,
+and they're more common in the inferior wall.
+And the two major contrast between a true aneurysm
+and a pseudoaneurysm
+are the location and the timing.
+So true aneurysms usually happen in the anterior wall
+like I showed you on the last slide.
+Pseudoaneurysms are much more common in the inferior wall.
+Also true aneurysms take several weeks to occur
+in contrast to pseudo aneurysm occurs
+in less than two weeks.
+Remember it's just another version of a free wall rupture,
+so it occurs early just like free wall rupture.
+So a pseudoaneurysm is gonna be
+an inferior wall complication in the first week or two.
+The true aneurysm is going to be an anterior wall
+complications several weeks after an infarction.
+Dressler's syndrome is a form of pericarditis
+that occurs weeks to months after myocardial infarction.
+It presents just like other forms of pericarditis
+with chest pain and a friction rub.
+And I talk about all the clinical features of pericarditis
+in the video and pericardial diseases.
+Also just like other forms of pericarditis,
+this is an immune-mediated phenomenon,
+although the details are not known
+something about the ischemia triggers
+an immune reaction against the pericardium
+in a subset of patients.
+And that immune reaction takes several weeks
+or months to develop.
+And the treatment is the same
+as for other forms of pericarditis
+it's with non-steroidal anti-inflammatory drugs
+or steroids
+or the medication colchicine.
+Don't confuse Dressler syndrome
+with another type of pericarditis
+that can follow a myocardial infarction
+called fibrinous pericarditis.
+In contrast to Dressler syndrome,
+fibrinous pericarditis occurs days
+after a myocardial infarction.
+It's sometimes referred to as post-Mi pericarditis.
+This is not an autoimmune process.
+It's simply an extension of the myocardial inflammation
+into the pericardium.
+So a few days after an infarction,
+when there's a lot of inflammatory activity
+in the myocardium that can extend
+into the pericardium
+and cause pericarditis symptoms.
+In contrast Dressler's occurs weeks
+after a myocardial infarction,
+it's sometimes referred to as
+post cardiac injury pericarditis,
+and this is an autoimmune phenomenon.
+And neither of these forms of pericarditis
+that occur after MI are usually life-threatening,
+they're simply pain syndromes
+that can be treated with medication.
+Now let's talk about secondary prevention
+of coronary disease.
+Any patient who has had coronary disease,
+as I mentioned earlier in this video
+has a high risk of recurrent events.
+Patients who have had one coronary episode
+are at risk for STEMI, NSTEMI
+and development of stable angina later in life
+For this reason,
+we usually administer our aggressive preventative therapy
+to lower the risk of subsequent events.
+We even do this in asymptomatic patients.
+So patients who have been revascularized
+and have no angina
+still need therapy to lower their risk
+of secondary cardiac events.
+There are a number of proven therapies,
+but the main ones are shown in this slide.
+So any patient who's had coronary disease of any form
+should be on aspirin and a statin.
+The statin drugs you may know,
+reduce cholesterol levels.
+These are drugs like atorvastatin and rosuvastatin,
+but even in patients with normal LDL cholesterol,
+there is evidence that statins lower the risk
+if patients have a history of coronary disease.
+Beta blockers are also usually administered to patients
+who have had an infarction like a STEMI or NSTEMI.
+There is evidence that these drugs
+lower the risk of sudden cardiac death
+among patients who have had any form
+of myocardial infarction.
+I'll finish this video by talking about two complications
+of stents that you should be familiar with.
+The first one is called restenosis.
+This is the slow steady growth of scar tissue over a stent.
+So when you implant a metal stent
+into the wall of the coronary artery,
+you cause inflammation.
+And sometimes that inflammation
+leads to so much scar tissue
+formation that it re-occludes the blood vessel.
+So if you look at this drawing
+in the right side of the screen,
+we've got a freshly implanted stent
+and good blood flow through the vessel,
+but sometimes scar tissue grows over this stent
+and reblocks the vessel and the angina returns.
+The way that scar tissue forms
+is through a process called Neo-intimal hyperplasia.
+Neo means new,
+so this is a new intimal layer
+of the vessel that forms as a result
+of fibrous tissue hyperplasia
+that's why it's called Neo-intimal hyperplasia.
+This is rarely life-threatening,
+but it does cause angina to occur.
+So patients with re-stenosis presents
+several months after stent implantation
+with a slow steady return of angina symptoms,
+especially with exertion.
+To prevent this complication,
+most modern stents are coated with the drug,
+these are called drug eluting stents.
+So the metal is covered with a polymer
+and the polymer is impregnated with a drug
+that slowly elutes into the vessel over time
+to prevent tissue growth.
+The drugs that are used for this
+are usually chemotherapy agents,
+sirolimus is a classic one
+although there are others.
+And the idea here is to have the slow illusion
+to this medication to block the growth of fibrous tissue.
+The second stent complication is called stent thrombosis,
+and this name rhymes with restenosis,
+but it's a completely different process.
+This is the acute closure of a stent
+by a thrombus that forms.
+Sometimes the metal struts of a stent
+can serve as a Knight as for clot formation
+and this can lead to formation of a blood clot in the stent.
+And this is the same pathophysiology as STEMI.
+This is a drawing of a vessel with STEMI
+at the bottom of the screen.
+We talked about this earlier.
+You can imagine that if this blood vessel
+had a stent instead of this atherosclerotic plaque
+that could also serve as a night as for thrombus formation,
+and we get the same pathophysiology
+complete closure of the vessel by thrombus
+and no distal blood flow.
+To prevent stent thrombosis,
+two anti-platelet drugs are administered for prevention.
+I'll talk about that in a minute,
+but what you should know,
+especially in terms of board questions
+is that most cases of stent thrombosis
+are associated with missed medicine dosages.
+So the classic history is a patient
+who recently had a stent placed
+who now presents with ST elevations
+and chest pain
+and says that they forgot to take their anti-platelet drugs.
+To prevent stent thrombosis,
+dual anti-platelet therapy or DAPT
+is often administered for one year.
+DAPT includes one year of asprin
+and another anti-platelet drugs
+such as Clopidogrel, Prasugrel or Ticagrelor.
+Now after one year,
+the stent metal is usually no longer exposed to the blood.
+A process called endothelialization occurs
+where tissue grows over the metal struts.
+At this point, the risk of thrombosis is lower,
+although it's not zero.
+There are case reports of stent thrombosis
+years after stent implantation.
+So after a year,
+usually patients only take aspirin going forward.
+They no longer need two anti-platelet drugs.
+And that concludes our video on cardiac ischemia.

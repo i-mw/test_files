@@ -1,0 +1,596 @@
+﻿File: 06 PV Loops
+---
+
+Hi, everybody
+and welcome to our module
+on pressure volume loops.
+Shown on the left side of the screen
+are the changes in left ventricular volume
+and left ventricular pressure over time
+during the cardiac cycle.
+The left ventricular volume curve
+is on the bottom,
+this is shown right here,
+and the pressure curve is on the top
+shown right here.
+And these two curves
+are both elements of Wiggers diagram
+which I talk about
+in the video on Wiggers diagram.
+Now, if you took the volume
+at each point in time
+and the pressure at each point in time
+and you plotted the volume along the x-axis
+and the pressure along the y-axis,
+you would get a square shape,
+like what I've shown
+in the right side of the screen,
+and this is called a pressure volume loop.
+It shows you the changes
+in the left ventricle
+during one cardiac cycle.
+There's no time in a pressure volume loop.
+So you just have to know
+that as the cardiac cycle moves
+forward in time,
+the pressure volume loop
+will move in a counterclockwise manner
+like this around it around.
+So what we're gonna talk about
+in this video,
+are all the different things
+that you can read off of a pressure volume loop
+and how it changes in various cardiac conditions.
+The first thing I wanna point out
+is that there is a short portion
+of the left ventricular volume
+versus time curve that is flat,
+meaning that volume is not changing.
+At the same time,
+the pressure in the left ventricle is rising.
+So anytime the volume is not changing,
+that's called isovolumic.
+And the reason that the pressure is rising
+is because the left ventricle is contracting.
+So this portion here
+between the two green lines
+represents isovolumic contraction
+and that is denoted
+on the pressure volume loop
+by this green line here
+on the right side.
+The volume is constant.
+So it's a straight line,
+but the pressure is rising.
+So we're moving up the pressure on the Y axis.
+And the reason the volume is not changing,
+is because at this portion
+of the pressure volume loop,
+both the mitral and aortic valves are closed.
+So no blood can get in or out of the ventricle
+therefore volume cannot change.
+There's also a point
+on the volume versus time curve
+where the volume is flat,
+but the pressure is falling.
+This is isovolumic relaxation.
+It's denoted by the red line
+on the right side of the screen.
+What's happening here,
+is that once again,
+the mitral and aortic valves are closed.
+So no blood can enter
+or leave the ventricular chamber,
+but the pressure is falling
+because the myocardium is relaxing.
+You may have noticed
+this curve line at the bottom
+right of the pressure volume loop
+and this straight line
+at the top left.
+Let's talk about what those lines mean now.
+So this point right here is the end of systole.
+We'll talk more about that in a minute.
+And this point down here is the end of diastole.
+So let's talk about the end of systole first.
+This is the end of systole,
+where the ventricle has finished contracting
+and ejecting blood.
+The mitral and aortic valves are closed.
+So there's a closed chamber of the ventricle
+that no blood can get in or leave.
+I want you to imagine now
+that if we stuck a needle
+into the left ventricle
+and we injected just a little bit of blood
+at this point in time
+at the end of systole,
+that would slightly increase the pressure
+and volume in the left ventricle
+to a point that,
+so let's say right here,
+if we, once again injected blood
+would get another point right here.
+And if we do this same thought experiment
+and imagine removing a little bit of blood
+at the end of systole,
+when all the valves are closed,
+we would lower the pressure
+and volume to a little point like down here,
+and we could remove some more blood
+and we get another point down here.
+So from this thought experiment,
+you can see that the addition
+of a little bit of volume
+at the end of systole
+or the removal of a little bit of volume
+creates a series of points.
+And that makes a line
+and that line is called
+the end systolic pressure volume relationship.
+And that line is determined
+by characteristics of the myocardium.
+And we'll talk later
+about some things that can change that line.
+We could do the same thought experiment
+here at the end of diastole.
+If we add a little bit of blood to the ventricle,
+when all the valves are closed
+and it's a sealed chamber,
+we would create another point here.
+And if we added some more,
+we'd create another point here
+and we could remove some blood
+and create a few points down here.
+And then we would get a curve
+that looks like what I've drawn in the screen,
+and that's called
+the end diastolic pressure volume relationship.
+And that also is determined
+by characteristics of the ventricle.
+And we'll talk about things
+that can change
+the end diastolic pressure volume relationship
+later in this video.
+Now, what I want to do
+is go through the pressure volume loop
+and point out
+where the mitral
+and aortic valves open and close.
+So I told you before
+that this flat portion
+of the left ventricular volume versus time curve
+represents isovolumic contraction.
+In order for isovolumic contraction to occur,
+the aortic and mitral valves must be closed.
+Therefore, at the beginning of isovolumic contraction,
+that is when the mitral valve closes.
+And I have to noted that on the left.
+And I've also denoted on the right
+on the pressure volume loop.
+We now enter
+the period of isovolumic contraction,
+where the pressure in the ventricle rises.
+At some point,
+the pressure gets so high
+that they aortic valve opens.
+And that's what occurs right here on the left.
+You know, the aortic valve is opening
+because this is the beginning of the point
+where volume falls in the left ventricle.
+That means blood must be leaving.
+And therefore the aortic valve must be opened.
+And I've pointed where the aortic valve
+opens on the pressure volume loop as well.
+Now, at some point,
+all the blood that is going
+to leave the left ventricle has left.
+And we now enter this section down here,
+which I told you was isovolumic relaxation.
+So at the beginning of that section,
+the aortic valve must close
+and that's what happens here
+on the left side of the screen.
+And I've pointed it out
+at the right side of the screen as well.
+And I told you before
+that this is the end of systole.
+So naturally that's where the aortic valve closes
+at the end of systole.
+Then we go through that brief period on the left,
+where we have isovolumic relaxation,
+and then the mitral valve opens
+and that's shown now
+on the left side of the screen
+and also on the right.
+So it's important, you know,
+which points in the pressure volume loop
+represent the opening and closing
+of the aortic mitral valve.
+And now we've gone
+through all of those in this slide.
+I wanna also point out
+that when the mitral valve closes,
+that is one component
+of the first heart sound S1.
+And when the aortic valve closes
+that as a component of S2.
+So therefore you can identify S1
+and S2 on a pressure volume loop
+from knowing where the valves close.
+And on this slide,
+I've pointed out where systole
+and diastole are found
+on the pressure volume loop.
+I told you before
+that this is the end of diastole.
+When the left ventricle begins to contract,
+this is isovolumic contraction here.
+This is when blood is being ejected
+from the left ventricle here,
+but everything is shown in red
+on this drawing represents systole.
+Right here, we have the aortic valve close,
+and then we have isovolumic relaxation
+followed by left ventricular filling
+from the left atrium,
+and that all represents diastole.
+And if you appreciate that,
+it's easy to identify
+some of the important volumes
+and pressures inside the left ventricle.
+This point here is the end of diastole.
+Therefore, the corresponding point
+on the X axis
+is the end diastolic volume.
+The corresponding point on the Y axis
+is the end diastolic pressure.
+This point here
+that I'm circling with my pen
+is the end of systole.
+So therefore the corresponding volume
+at the end of systole,
+is obviously the end systolic volume.
+And now we can identify
+even some more important parameters
+of the left ventricle.
+So the difference between the end systolic volume here,
+and the end diastolic volume here
+is the stroke volume.
+This is the volume of blood ejected
+from the left ventricle with each heartbeat.
+The wider the pressure volume loop,
+the more volume that the heart is pumping.
+This point down here at the bottom
+is the volume at the end of diastole.
+That's the amount of filling of the left ventricle.
+And that represents the preload of the heart.
+This point up here
+is the point at which the aortic valve opens.
+That represents the afterload.
+In other words,
+the left ventricle has to raise the pressure
+up to a point such that
+it can open the aortic valve.
+The more afterload,
+the higher the pressure
+will have to become
+in order for the aortic valve to open.
+So the afterload
+has always found here
+in the top right corner
+of the pressure volume loop.
+For the next few slides,
+I'll go through
+how the pressure volume loop changes
+when various important left ventricular
+parameters are modified.
+So for example,
+we'll go through what happens
+to the PV loop
+when there's a change in preload,
+afterload, contractility or compliance.
+Now in reality,
+all of these parameters are interrelated.
+You cannot change one
+without affecting the others.
+For example, if you've watched the video
+on Starling curves,
+you know that when the preload goes up,
+the contractility goes up
+via the Frank Starling mechanism.
+So all of these parameters are interrelated,
+but what we're gonna do in the next few slides
+is considered the artificial scenario,
+where we modify one parameter like preload,
+but keep the other parameters
+like afterload, contractility
+and compliance constant.
+Let's start by talking about what happens
+when there's an increase in pre-load.
+Shown on the screen,
+are two pressure volume loops.
+The blue loop is the baseline state.
+The red loop is from a heart
+with increased preload.
+And this is very easy to understand
+if you remember what I told you before.
+The end diastolic volume,
+which is the volume at this point
+right here in the blue loop,
+that represents the preload.
+So if we increased preload,
+we simply move to a point
+a little bit further
+up the end diastolic pressure volume relationship,
+which is the black line right here.
+Therefore this represents
+a higher end diastolic volume
+and a higher preload in the red loop.
+So I've summarized these points
+at the top of the screen.
+The end diastolic volume goes up
+when you increase preload.
+You'll note that
+the width of the red pressure volume loop
+is greater than the blue.
+Therefore we've increased stroke volume.
+And then finally we've slightly increased
+the ejection fraction by doing this.
+Why is that the case?
+Well, the stroke volume
+is the end diastolic volume
+minus the end systolic volume.
+And I told you
+that we raised the end-diastolic volume
+when we increase the preload.
+This means that the ejection fraction,
+which is end-diastolic volume
+minus end systolic volume
+over end diastolic volume
+will go up slightly
+when we do this.
+And remember, this is very artificial.
+Normally, when you do this,
+you would change contractility,
+but here we are keeping
+the afterload constant
+and the contractility constant,
+just to show the isolated effects
+of an increase in preload.
+And if we decrease preload,
+we get the opposite of the changes
+we described in the last slide.
+The end-diastolic volume falls,
+the stroke volume falls,
+and the ejection fraction falls slightly.
+If you look
+at the red pressure volume loop on the screen,
+you can see that its width is narrower
+than the blue one
+that tells you that the stroke volume is lower.
+You can also see that the end-diastolic volume
+is here for the blue loop,
+and it's here for the red loop.
+That tells you
+that the end-diastolic volume has fallen.
+If we increase afterload,
+we go from the baseline blue loop
+shown in the screen here
+to the red loop.
+I told you earlier
+that afterload is the point
+where the aortic valve opens.
+That's right here
+for the blue pressure volume loop.
+It's been raised
+to a higher point here in the red loop.
+The consequence of this,
+is that when we inject blood
+in the red pressure volume loop,
+we hit this black line sooner.
+In other words,
+we hit it at a higher volume.
+So therefore the end systolic volume
+shown right here as much higher
+than it is in the blue pressure volume loop.
+So the major consequence
+of raising the afterload,
+is that it's harder
+for the ventricle to eject blood.
+So it ejects less blood,
+therefore at the end of systole,
+there's more blood left behind
+and the end systolic volume is higher.
+because the end systolic volume is higher,
+the stroke volume is lower.
+You can see
+that the red pressure volume loop
+is narrower than the blue one.
+And when the stroke volume falls,
+the ejection fraction falls
+because stroke volume is the top term
+in the ejection fraction equation.
+Now let's talk about contractility changes.
+Contractility, It turns out
+is the major determinant
+of the end systolic pressure volume relationship.
+Those are the two lines
+shown in blue and red here.
+So when contractility decreases,
+it shifts the ancestor pressure volume relationship
+from the dashed blue line
+to the dashed red line.
+That changes the pressure volume loop
+from the blue loop to the red loop.
+So let's talk about the consequences of that.
+First of all, you can see
+that the end systolic volume here
+for the blue loop
+is much lower
+than the end systolic volume for the red loop.
+So in other words,
+the end systolic volume goes up significantly
+when there's a fallen contractility.
+And that should make sense to you
+when there's less contractility,
+less blood is pushed out of the ventricle.
+Therefore there is more left at the end of systole.
+Therefore there is a rise
+in the end systolic volume
+when there's a fall in contractility
+because the end systolic volume goes up,
+the stroke volume goes down
+and it's very easy to see
+that the red curve is narrower
+than the blue curve.
+And the fallen stroke volume
+makes the ejection fraction lower.
+An increase in contractility has the opposite effect.
+It moves the end systolic pressure volume relationship
+to the left.
+That lowers the end systolic volume.
+More blood is being squeezed out
+with higher contractility.
+So the end systolic volume is lower.
+This leads to a rise in the stroke volume
+and arise in the ejection fraction.
+Lastly, let's talk about compliance.
+Compliance, it turns out is the major determinant
+of the end diastolic pressure volume relationship.
+And it's very hard
+to talk about changes in compliance
+without also talking about changes in preload.
+One of the major determinants of preload
+is the compliance of the left ventricle.
+In order to fill the ventricle normally,
+you need a flexible stretchy myocardium.
+If the myocardium is thick and stiff,
+then that will decrease the ability
+for the ventricle to fill
+and that will lower the preload.
+So what I've shown on the screen here
+is what happens
+when there is decreased compliance.
+And this is the most important change
+in compliance that you should understand.
+When there's decreased compliance,
+the end-diastolic pressure volume relationship
+shifts up into the left.
+As I've shown in going from the dashed blue line
+to the dashed red line.
+This has two important effects
+on the pressure volume loop.
+First of all, the end diastolic volume,
+which is here in the blue curve falls slightly
+to be here in the red curve.
+That's because the ventricle is stiff
+and it cannot fill as easily.
+In addition, the end-diastolic pressure,
+which is here in the blue curve
+is much higher in the red curve.
+That's because the ventricle is stiffer.
+So those molecules are packed
+into a stiffer chamber.
+And therefore the pressure in the ventricle
+at the end of diastole goes up.
+So I've highlighted
+these two important changes here
+that you should know
+when compliance decreases,
+the end diastolic volume falls
+because of impaired ventricular filling
+and the end-diastolic pressure rises
+because of its defer ventricle.
+And if compliance were to increase,
+you would see the opposite of all these changes.
+Let me make a comment
+about the work of the heart.
+The area of a pressure volume loop
+represents the work of the heart.
+The area represents how much volume
+it's pumping times,
+how much pressure it's generating
+and that determines
+how much work the heart is doing.
+So if you look
+at the two pressure volume loops on the screen,
+you should be able to tell
+that the blue one is doing more work
+than the red one.
+The red one has much less area,
+and therefore that ventricle is doing less work.
+For the last few slides,
+I'll show you
+some commonly tested pressure volume loops.
+These are loops
+that tend to come up on your exams.
+We'll go through
+all of these conditions shown in the screen here
+and talk about what they do
+to the pressure volume loop.
+So the first one is aortic stenosis.
+Aortic stenosis raises the afterload.
+So therefore it moves us
+from the blue pressure volume loop
+whose afterload is right here
+to a higher afterload
+in the red pressure volume loop.
+Because afterload is higher,
+less blood can be objected
+from the left ventricle
+and therefore we have a lower stroke volume.
+And that is also what is seen
+in aortic stenosis.
+Mitral regurgitation shifts
+from the normal blue pressure volume loop
+shown in the screen to the red one.
+It should be easy to note with your eye
+that this line here is crooked
+and slanted to the left compared to normal.
+The reason for that
+is isovolumic contraction is disrupted.
+This line is supposed to be straight up and down,
+meaning that volume is constant.
+However, in mitral regurgitation,
+blood is leaking out of the ventricle
+into the atrium.
+Therefore, during isovolumic contraction,
+the volume is falling,
+which should not be happening.
+So it's very easy
+to identify the mitral regurgitation
+pressure volume loop
+because this line here is not straight.
+In contrast in the aortic regurgitation,
+the major finding in a PV loop
+is that isovolumic relaxation is disrupted.
+If you look on the screen here,
+the blue loop is a normal PV loop
+and isovolumic relaxation is a straight line.
+That means it's isovolumic.
+In the red loop,
+which represents a case of aortic regurgitation,
+isovolumic relaxation is no longer
+a straight line, it's curved.
+In other words, it's not isovolumic anymore.
+And the reason it is not isovolumic
+is because blood is filling
+the ventricle during relaxation.
+And that's because blood is leaking
+across the aortic valve
+and into the left ventricular chamber.
+And then finally,
+mitral stenosis produces
+the red pressure volume loop
+shown on the screen here.
+It's very similar to the blue one.
+It's just a little bit smaller
+and that's because the ventricle can't fill properly.
+There's an obstruction to inflow
+from a stenotic mitral valve.
+So this slightly decreases the stroke volume
+and makes a pressure volume loop
+that is just slightly smaller compared to normal.
+And that concludes our video
+on pressure volume loops.
